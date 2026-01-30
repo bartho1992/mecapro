@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MécaPro - Apprenez la Mécanique</title>
+    <meta name="description"
+        content="Application d'apprentissage de la mécanique automobile, moto, camions, vélos et tracteurs avec illustrations interactives et quiz.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- Header Navigation -->
+    <header class="header">
+        <nav class="nav">
+            <a href="index.html" class="logo">
+                <span class="logo-icon">⚙️</span>
+                <span class="logo-text">MécaPro</span>
+            </a>
+            <div class="nav-links" id="navLinks">
+                <a href="#modules" class="nav-link">Modules</a>
+                <a href="pages/diagnostic.html" class="nav-link">🔍 Diagnostic</a>
+                <a href="#features" class="nav-link">Fonctionnalités</a>
+                <a href="#" class="nav-link favorites-btn" onclick="showFavorites()">
+                    <span class="heart-icon">❤️</span> Favoris
+                    <span class="favorites-count" id="favoritesCount">0</span>
+                </a>
+            </div>
+            <button class="menu-toggle" id="menuToggle" aria-label="Menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-bg">
+            <div class="gear gear-1">⚙️</div>
+            <div class="gear gear-2">🔧</div>
+            <div class="gear gear-3">🔩</div>
+        </div>
+        <div class="hero-content">
+            <h1 class="hero-title">
+                <span class="title-line">Maîtrisez la</span>
+                <span class="title-highlight">Mécanique</span>
+            </h1>
+            <p class="hero-subtitle">
+                Apprenez la mécanique automobile, moto, camions, vélos et tracteurs
+                avec des illustrations interactives et des quiz pour tous niveaux.
+            </p>
+            <div class="hero-buttons">
+                <a href="#modules" class="btn btn-primary">
+                    <span>Commencer</span>
+                    <span class="btn-arrow">→</span>
+                </a>
+                <a href="#features" class="btn btn-secondary">En savoir plus</a>
+            </div>
+            <div class="hero-stats">
+                <div class="stat">
+                    <span class="stat-number">5</span>
+                    <span class="stat-label">Modules Pro</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">25</span>
+                    <span class="stat-label">Leçons Techniques</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-number">125+</span>
+                    <span class="stat-label">Questions Quiz</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Modules Section -->
+    <section class="modules" id="modules">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Académie Technique</span>
+                <h2 class="section-title">Parcours de Formation</h2>
+                <p class="section-subtitle">Programmes complets élaborés par des experts en mécanique pour une maîtrise
+                    totale</p>
+            </div>
+
+            <div class="modules-grid">
+                <!-- Module Auto -->
+                <article class="module-card" data-module="auto">
+                    <div class="module-icon">🚗</div>
+                    <div class="module-content">
+                        <h3 class="module-title">Mécanique Automobile</h3>
+                        <p class="module-desc">Architecture moteur, thermique, freinage ABS, transmission et maintenance
+                            préventive avancée.</p>
+                        <div class="module-meta">
+                            <span class="lessons-count">5 Modules • 28 Q.</span>
+                            <span class="level-badge">Expertise</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" data-progress="0"></div>
+                        </div>
+                    </div>
+                    <a href="https://bartho1992.github.io/mecapro/pages/auto.html" class="module-link">
+                        <span>Lancer la formation</span>
+                        <span class="arrow">→</span>
+                    </a>
+                </article>
+
+                <!-- Module Moto -->
+                <article class="module-card" data-module="moto">
+                    <div class="module-icon">🏍️</div>
+                    <div class="module-content">
+                        <h3 class="module-title">Mécanique Moto</h3>
+                        <p class="module-desc">Cycles 2T/4T, cinématique de l'embrayage, suspensions hydrauliques et
+                            transmission par chaîne.</p>
+                        <div class="module-meta">
+                            <span class="lessons-count">5 Modules • 26 Q.</span>
+                            <span class="level-badge">Expertise</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" data-progress="0"></div>
+                        </div>
+                    </div>
+                    <a href="pages/moto.html" class="module-link">
+                        <span>Lancer la formation</span>
+                        <span class="arrow">→</span>
+                    </a>
+                </article>
+
+                <!-- Module Camion -->
+                <article class="module-card" data-module="camion">
+                    <div class="module-icon">🚛</div>
+                    <div class="module-content">
+                        <h3 class="module-title">Poids Lourds</h3>
+                        <p class="module-desc">Moteurs Diesel injection Common Rail, freinage pneumatique, multiplexage
+                            et systèmes EBS.</p>
+                        <div class="module-meta">
+                            <span class="lessons-count">5 Modules • 25 Q.</span>
+                            <span class="level-badge">Expertise</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" data-progress="0"></div>
+                        </div>
+                    </div>
+                    <a href="pages/camion.html" class="module-link">
+                        <span>Lancer la formation</span>
+                        <span class="arrow">→</span>
+                    </a>
+                </article>
+
+                <!-- Module Vélo -->
+                <article class="module-card" data-module="velo">
+                    <div class="module-icon">🚲</div>
+                    <div class="module-content">
+                        <h3 class="module-title">Cycle & Mobilité</h3>
+                        <p class="module-desc">Transmissions indexées, hydraulique de freinage, géométrie des roues et
+                            maintenance des boîtiers.</p>
+                        <div class="module-meta">
+                            <span class="lessons-count">5 Modules • 25 Q.</span>
+                            <span class="level-badge">Expertise</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" data-progress="0"></div>
+                        </div>
+                    </div>
+                    <a href="pages/velo.html" class="module-link">
+                        <span>Lancer la formation</span>
+                        <span class="arrow">→</span>
+                    </a>
+                </article>
+
+                <!-- Module Tracteur -->
+                <article class="module-card" data-module="tracteur">
+                    <div class="module-icon">🚜</div>
+                    <div class="module-content">
+                        <h3 class="module-title">Machinerie Agricole</h3>
+                        <p class="module-desc">Hydraulique haute pression, transmissions Powershift/CVT, prise de force
+                            et technologie ISOBUS.</p>
+                        <div class="module-meta">
+                            <span class="lessons-count">5 Modules • 25 Q.</span>
+                            <span class="level-badge">Expertise</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" data-progress="0"></div>
+                        </div>
+                    </div>
+                    <a href="pages/tracteur.html" class="module-link">
+                        <span>Lancer la formation</span>
+                        <span class="arrow">→</span>
+                    </a>
+                </article>
+            </div>
+
+            <!-- Diagnostic CTA -->
+            <div class="diagnostic-cta">
+                <div class="diagnostic-cta-content">
+                    <div class="diagnostic-cta-icon">📡</div>
+                    <div class="diagnostic-cta-text">
+                        <h3>Assistant Diagnostic IA</h3>
+                        <p>Identifiez précisément les pannes moteur et châssis grâce à notre arbre de décision expert.
+                        </p>
+                    </div>
+                    <a href="pages/diagnostic.html" class="btn btn-primary diagnostic-cta-btn">
+                        <span>Exécuter un Diagnostic</span>
+                        <span class="btn-arrow">→</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    </section>
+
+    <!-- Technical Expertise Section -->
+    <section class="expertise" id="expertise">
+        <div class="container">
+            <div class="expertise-grid">
+                <div class="expertise-content">
+                    <span class="section-tag">Expertise</span>
+                    <h2 class="section-title">Pourquoi Choisir MécaPro ?</h2>
+                    <p class="section-subtitle">Une approche rigoureuse basée sur les standards industriels et les
+                        dernières innovations technologiques.</p>
+
+                    <div class="expertise-list">
+                        <div class="expertise-item">
+                            <div class="expertise-item-icon">⚡</div>
+                            <div class="expertise-item-text">
+                                <h4>Contenu Certifié</h4>
+                                <p>Toutes nos leçons sont révisées par des techniciens experts pour garantir une
+                                    précision absolue des valeurs techniques.</p>
+                            </div>
+                        </div>
+                        <div class="expertise-item">
+                            <div class="expertise-item-icon">🛡️</div>
+                            <div class="expertise-item-text">
+                                <h4>Standards de Sécurité</h4>
+                                <p>La sécurité est notre priorité. Chaque module intègre les protocoles d'intervention
+                                    et les EPI nécessaires.</p>
+                            </div>
+                        </div>
+                        <div class="expertise-item">
+                            <div class="expertise-item-icon">🚀</div>
+                            <div class="expertise-item-text">
+                                <h4>Technologies Modernes</h4>
+                                <p>De l'injection directe aux systèmes CAN-Bus, nous couvrons les technologies les plus
+                                    récentes du marché.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="expertise-image-container">
+                    <div class="glass-card expertise-stat-card">
+                        <div class="expertise-stat-icon">🔧</div>
+                        <div class="expertise-stat-info">
+                            <span class="stat-large">98%</span>
+                            <span class="stat-desc">Taux de précision diagnostic</span>
+                        </div>
+                    </div>
+                    <div class="glass-card expertise-stat-card second">
+                        <div class="expertise-stat-icon">🎓</div>
+                        <div class="expertise-stat-info">
+                            <span class="stat-large">#1</span>
+                            <span class="stat-desc">Plateforme d'auto-formation</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features" id="features">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Pourquoi MécaPro</span>
+                <h2 class="section-title">Apprenez Efficacement</h2>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">📚</div>
+                    <h3>Leçons Illustrées</h3>
+                    <p>Schémas détaillés et animations pour comprendre chaque concept</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📝</div>
+                    <h3>Quiz Notés</h3>
+                    <p>Testez vos connaissances et suivez votre progression</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">❤️</div>
+                    <h3>Favoris</h3>
+                    <p>Sauvegardez vos leçons préférées pour y revenir facilement</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📊</div>
+                    <h3>Progression</h3>
+                    <p>Suivez votre avancement dans chaque module</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Favorites Modal -->
+    <div class="modal" id="favoritesModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>❤️ Mes Favoris</h3>
+                <button class="modal-close" onclick="closeFavorites()">&times;</button>
+            </div>
+            <div class="modal-body" id="favoritesList">
+                <p class="empty-favorites">Aucun favori pour le moment</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <span class="logo-icon">⚙️</span>
+                    <span>MécaPro</span>
+                </div>
+                <p class="footer-text">Application d'apprentissage de la mécanique</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>
