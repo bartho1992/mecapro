@@ -581,3 +581,59 @@
         width: 100%;
     }
 }
+
+/* ===== Fullscreen Image Modal ===== */
+.image-fullscreen-modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 3000 !important;
+    /* Above lesson modal */
+    background: rgba(0, 0, 0, 0.95) !important;
+    cursor: zoom-out;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-fullscreen-modal.active {
+    display: flex;
+}
+
+.fullscreen-image {
+    max-width: 95vw;
+    max-height: 95vh;
+    object-fit: contain;
+    border-radius: var(--radius-sm);
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+    animation: zoomIn 0.3s ease;
+    cursor: default;
+}
+
+.fullscreen-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.2s ease, color 0.2s ease;
+    z-index: 3001;
+}
+
+.fullscreen-close:hover {
+    color: var(--accent-orange);
+    transform: scale(1.1);
+}
+
+@keyframes zoomIn {
+    from {
+        transform: scale(0.9);
+        opacity: 0;
+    }
+
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}

@@ -247,7 +247,10 @@ function openLesson(lessonData) {
             </div>
             <div class="modal-body">
                 <div class="lesson-illustration">
-                    <img src="${lessonData.image}" class="lesson-image" alt="${lessonData.title}" onerror="this.parentElement.innerHTML='<div style=\\'font-size:5rem;\\'>${lessonData.icon}</div>'">
+                    <img src="${lessonData.image}" class="lesson-image" alt="${lessonData.title}" 
+                         style="cursor: pointer;" 
+                         onclick="openImageFullscreen(this.src)"
+                         onerror="this.parentElement.innerHTML='<div style=\\'font-size:5rem;\\'>${lessonData.icon}</div>'">
                 </div>
                 <div class="lesson-content">
                     <h2>${lessonData.title}</h2>
@@ -278,6 +281,37 @@ function openLesson(lessonData) {
 
 function closeLessonModal() {
     const modal = document.getElementById('lessonModal');
+    if (modal) {
+        modal.classList.remove('active');
+    }
+}
+
+// ===== Fullscreen Image Modal =====
+function openImageFullscreen(imageSrc) {
+    // Create modal if it doesn't exist
+    let modal = document.getElementById('imageFullscreenModal');
+    if (!modal) {
+        modal = document.createElement('div');
+        modal.id = 'imageFullscreenModal';
+        modal.className = 'modal image-fullscreen-modal';
+        modal.onclick = (e) => {
+            if (e.target === modal || e.target.classList.contains('fullscreen-close')) {
+                closeImageFullscreen();
+            }
+        };
+        document.body.appendChild(modal);
+    }
+
+    modal.innerHTML = `
+        <span class="fullscreen-close">&times;</span>
+        <img src="${imageSrc}" class="fullscreen-image" alt="Fullscreen View">
+    `;
+
+    modal.classList.add('active');
+}
+
+function closeImageFullscreen() {
+    const modal = document.getElementById('imageFullscreenModal');
     if (modal) {
         modal.classList.remove('active');
     }
