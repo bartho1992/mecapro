@@ -8,82 +8,83 @@ const camionLessons = [
         level: 'Intermédiaire',
         duration: '35 min',
         description: 'Maîtrisez le fonctionnement des moteurs diesel de camion : injection, turbo, EGR.',
+        image: '../images/camion-diesel.png',
         content: {
             intro: `Les moteurs diesel poids lourds sont conçus pour la durabilité et le couple. 
-                    Avec des cylindrées de 6 à 16 litres et des couples dépassant 2000 Nm, 
-                    ils nécessitent une compréhension approfondie pour un entretien efficace.`,
+                    Avec des cylindrées de 6 à 16 litres et des couples dépassant 2000 Nm,
+    ils nécessitent une compréhension approfondie pour un entretien efficace.`,
             sections: [
                 {
                     title: '⚙️ Caractéristiques moteur PL',
-                    content: `<strong>Spécifications typiques :</strong>
-                        - Cylindrée : 6L (distribution) à 16L (convoi)
-                        - Puissance : 200-600 ch
-                        - Couple : 800-2500 Nm à 1000-1400 tr/min
-                        - Compression : 16:1 à 18:1
-                        
-                        <strong>Architecture :</strong>
-                        - 6 cylindres en ligne (le plus courant)
-                        - V8 (américain, certains européens)
-                        - Bloc fonte ou CGI (fonte vermiculaire)
-                        - Pistons en acier ou aluminium renforcé`
+                    content: `< strong > Spécifications typiques:</strong >
+    - Cylindrée : 6L(distribution) à 16L(convoi)
+        - Puissance : 200 - 600 ch
+            - Couple : 800 - 2500 Nm à 1000 - 1400 tr / min
+                - Compression : 16: 1 à 18: 1
+
+                    < strong > Architecture :</strong >
+                        - 6 cylindres en ligne(le plus courant)
+                            - V8(américain, certains européens)
+                            - Bloc fonte ou CGI(fonte vermiculaire)
+                                - Pistons en acier ou aluminium renforcé`
                 },
                 {
                     title: '💨 Système d\'injection',
-                    content: `<strong>Common Rail haute pression :</strong>
-                        - Pression : 1800-2500 bars
-                        - Pompe haute pression à pistons radiaux
-                        - Rail commun avec capteur de pression
-                        - Injecteurs piézoélectriques (réponse 0.1ms)
-                        
-                        <strong>Phases d'injection :</strong>
-                        1. <strong>Pré-injection</strong> : Prépare la combustion
-                        2. <strong>Injection principale</strong> : Puissance
-                        3. <strong>Post-injection</strong> : Régénération FAP
-                        
-                        <strong>Diagnostic :</strong>
-                        - Retour injecteur : max 80 ml/min au ralenti
-                        - Test d'équilibrage cylindres
-                        - Pression rail à surveiller`
+                    content: `< strong > Common Rail haute pression:</strong >
+    - Pression : 1800 - 2500 bars
+        - Pompe haute pression à pistons radiaux
+            - Rail commun avec capteur de pression
+                - Injecteurs piézoélectriques(réponse 0.1ms)
+
+                    < strong > Phases d'injection :</strong>
+1. < strong > Pré - injection</strong > : Prépare la combustion
+2. < strong > Injection principale</strong > : Puissance
+3. < strong > Post - injection</strong > : Régénération FAP
+
+    < strong > Diagnostic :</strong >
+        - Retour injecteur: max 80 ml / min au ralenti
+            - Test d'équilibrage cylindres
+                - Pression rail à surveiller`
                 },
                 {
                     title: '🔄 Turbo et refroidissement',
-                    content: `<strong>Turbocompresseur :</strong>
-                        - Turbo à géométrie variable (VGT)
-                        - Pression de suralimentation : 1.5-3 bars
-                        - Vitesse rotor : jusqu'à 150 000 tr/min
-                        - Refroidi par eau et huile
-                        
-                        <strong>Intercooler :</strong>
-                        - Air-air ou air-eau
-                        - Réduit température air de 150°C à 50°C
-                        - Augmente densité = plus de puissance
-                        
-                        <strong>Circuit de refroidissement :</strong>
-                        - Thermostat 80-90°C
-                        - Ventilateur viscocoupleur ou électrique
-                        - Échangeur huile/eau
-                        - Capacité : 30-50 litres`
+                    content: `< strong > Turbocompresseur :</strong >
+    - Turbo à géométrie variable(VGT)
+        - Pression de suralimentation: 1.5 - 3 bars
+            - Vitesse rotor: jusqu'à 150 000 tr/min
+                - Refroidi par eau et huile
+
+                    < strong > Intercooler :</strong >
+                        - Air - air ou air - eau
+                            - Réduit température air de 150°C à 50°C
+                                - Augmente densité = plus de puissance
+
+                                    < strong > Circuit de refroidissement:</strong >
+                                        - Thermostat 80 - 90°C
+                                            - Ventilateur viscocoupleur ou électrique
+                                                - Échangeur huile / eau
+                                                    - Capacité : 30 - 50 litres`
                 },
                 {
                     title: '🌱 Dépollution',
-                    content: `<strong>EGR (Recirculation Gaz d'Échappement) :</strong>
-                        - Réduit température de combustion
-                        - Diminue NOx de 30-40%
-                        - Refroidisseur EGR dédié
-                        
-                        <strong>FAP (Filtre à Particules) :</strong>
-                        - Retient 95%+ des suies
-                        - Régénération à 600°C
-                        - Capteur pression différentielle
-                        
-                        <strong>SCR (Réduction Catalytique Sélective) :</strong>
-                        - Injection d'AdBlue (urée 32.5%)
-                        - Consommation : 3-5% du gasoil
-                        - Réduit NOx de 80-90%
-                        - Capteurs NOx amont et aval
-                        
-                        <strong>Normes :</strong>
-                        Euro 6d : NOx < 80 mg/km, particules < 4.5 mg/km`
+                    content: `< strong > EGR(Recirculation Gaz d'Échappement) :</strong>
+                                                        - Réduit température de combustion
+                                                    - Diminue NOx de 30 - 40 %
+                                                    - Refroidisseur EGR dédié
+
+                                                    < strong > FAP(Filtre à Particules) :</strong >
+                                                    - Retient 95 % + des suies
+                                                    - Régénération à 600°C
+                                                    - Capteur pression différentielle
+
+                                                    < strong > SCR(Réduction Catalytique Sélective) :</strong >
+                                                    - Injection d'AdBlue (urée 32.5%)
+                                                    - Consommation : 3 - 5 % du gasoil
+                                                    - Réduit NOx de 80 - 90 %
+                                                    - Capteurs NOx amont et aval
+
+                                                    < strong > Normes :</strong >
+                                                    Euro 6d : NOx < 80 mg / km, particules < 4.5 mg / km`
                 }
             ]
         },
@@ -127,67 +128,68 @@ const camionLessons = [
         level: 'Avancé',
         duration: '40 min',
         description: 'Comprenez le circuit d\'air comprimé : compresseur, réservoirs, valves de freinage.',
+        image: '../images/camion-pneumatic.png',
         content: {
             intro: `Le système pneumatique est le cœur du freinage et des équipements auxiliaires des poids lourds. 
-                    Une pression de 8-12 bars alimente les freins, la suspension, l'embrayage 
-                    et divers accessoires. Sa maîtrise est essentielle pour la sécurité.`,
+                    Une pression de 8 - 12 bars alimente les freins, la suspension, l'embrayage 
+                    et divers accessoires.Sa maîtrise est essentielle pour la sécurité.`,
             sections: [
                 {
                     title: '🔧 Production d\'air',
-                    content: `<strong>Compresseur :</strong>
-                        - Type : Piston (mono ou bicylindre)
-                        - Débit : 300-600 L/min
-                        - Entraînement : Pignon sur distribution
-                        - Refroidissement : Air ou liquide
-                        
-                        <strong>Régulation :</strong>
-                        - Régulateur de pression : coupe à 12 bars
-                        - Soupape de décharge : évite surpression
-                        - Indicateur de colmatage filtre
-                        
-                        <strong>Traitement de l\'air :</strong>
-                        - Dessiccateur : absorbe l\'humidité
-                        - Cartouche régénérable automatiquement
-                        - Durée de vie : 2-3 ans ou 300 000 km`
+                    content: `< strong > Compresseur :</strong >
+                                                    - Type : Piston(mono ou bicylindre)
+                                                    - Débit : 300 - 600 L / min
+                                                    - Entraînement : Pignon sur distribution
+                                                    - Refroidissement : Air ou liquide
+
+                                                    < strong > Régulation :</strong >
+                                                    - Régulateur de pression : coupe à 12 bars
+                                                    - Soupape de décharge : évite surpression
+                                                    - Indicateur de colmatage filtre
+
+                                                    < strong > Traitement de l\'air :</strong>
+                                                    - Dessiccateur : absorbe l\'humidité
+                                                    - Cartouche régénérable automatiquement
+                                                    - Durée de vie : 2 - 3 ans ou 300 000 km`
                 },
                 {
                     title: '🛢️ Stockage et distribution',
-                    content: `<strong>Réservoirs :</strong>
-                        - Circuit 1 : Essieu avant (rouge)
-                        - Circuit 2 : Essieu arrière (jaune)
-                        - Circuit 3 : Remorque (bleu)
-                        - Circuit 4 : Accessoires (vert)
-                        - Pression nominale : 8-10 bars
-                        
-                        <strong>Valve 4 voies :</strong>
-                        - Isole chaque circuit en cas de fuite
-                        - Priorité aux circuits de freinage
-                        - Pression minimale garantie par circuit
-                        
-                        <strong>Purge :</strong>
-                        - Automatique (purgeur sous réservoir)
-                        - Manuelle : vis de purge quotidienne conseillée`
+                    content: `< strong > Réservoirs :</strong >
+                                                    - Circuit 1 : Essieu avant(rouge)
+                                                    - Circuit 2 : Essieu arrière(jaune)
+                                                    - Circuit 3 : Remorque(bleu)
+                                                    - Circuit 4 : Accessoires(vert)
+                                                    - Pression nominale : 8 - 10 bars
+
+                                                    < strong > Valve 4 voies :</strong >
+                                                    - Isole chaque circuit en cas de fuite
+                                                    - Priorité aux circuits de freinage
+                                                    - Pression minimale garantie par circuit
+
+                                                    < strong > Purge :</strong >
+                                                    - Automatique(purgeur sous réservoir)
+                                                    - Manuelle : vis de purge quotidienne conseillée`
                 },
                 {
                     title: '🛑 Freinage pneumatique',
-                    content: `<strong>Valve de frein (pédale) :</strong>
-                        - Double circuit de sécurité
-                        - Pression proportionnelle à l'appui
-                        - Signal électrique pour EBS
-                        
-                        <strong>Cylindres de frein :</strong>
-                        - Membrane à ressort (type 24/30)
-                        - Chiffre = surface en pouces²
-                        - Course utile : 38-57mm
-                        
-                        <strong>Frein de parking :</strong>
-                        - Ressorts accumulateurs
-                        - Armés par pression (8 bars)
-                        - Désarmés quand pression chute = sécurité
-                        
-                        <strong>Freinage automatique remorque :</strong>
-                        - Têtes d'accouplement : rouge (alim) + jaune (commande)
-                        - Rupture = freinage d'urgence remorque`
+                    content: `< strong > Valve de frein(pédale) :</strong >
+                                                    - Double circuit de sécurité
+                                                    - Pression proportionnelle à l'appui
+                                                    - Signal électrique pour EBS
+
+                                                    < strong > Cylindres de frein :</strong >
+                                                    - Membrane à ressort(type 24 / 30)
+                                                    - Chiffre = surface en pouces²
+                                                        - Course utile : 38 - 57mm
+
+                                                        < strong > Frein de parking :</strong >
+                                                    - Ressorts accumulateurs
+                                                    - Armés par pression(8 bars)
+                                                    - Désarmés quand pression chute = sécurité
+
+                                                    < strong > Freinage automatique remorque :</strong >
+                                                    - Têtes d'accouplement : rouge (alim) + jaune (commande)
+                                                    - Rupture = freinage d'urgence remorque`
                 },
                 {
                     title: '⚙️ EBS et diagnostic',
@@ -251,6 +253,7 @@ const camionLessons = [
         level: 'Intermédiaire',
         duration: '30 min',
         description: 'Découvrez les boîtes manuelles, automatisées et les ralentisseurs.',
+        image: '../images/camion-gearbox.png',
         content: {
             intro: `Les boîtes de vitesses poids lourds sont conçues pour transmettre des couples 
                     énormes tout en offrant une large plage de rapports. Les systèmes automatisés 
@@ -381,6 +384,7 @@ const camionLessons = [
         level: 'Intermédiaire',
         duration: '25 min',
         description: 'Apprenez le fonctionnement des essieux, ponts et suspensions pneumatiques.',
+        image: '../images/camion-axle.png',
         content: {
             intro: `Les essieux et suspensions poids lourds doivent supporter des charges de 7 à 13 tonnes 
                     par essieu tout en offrant confort et stabilité. La suspension pneumatique 
@@ -503,6 +507,7 @@ const camionLessons = [
         level: 'Avancé',
         duration: '35 min',
         description: 'Maîtrisez les circuits électriques 24V, les réseaux CAN et le diagnostic.',
+        image: '../images/camion-electrical.png',
         content: {
             intro: `Les poids lourds modernes sont des concentrés de technologie électronique. 
                     Avec plus de 50 calculateurs interconnectés, la maîtrise des réseaux 
@@ -670,6 +675,7 @@ function openLesson(lessonId) {
     modalBody.innerHTML = `
         <div class="lesson-full">
             <div class="lesson-hero">
+                <img src="${lesson.image}" alt="${lesson.title}" class="lesson-image" onerror="this.style.display='none'">
                 <div class="lesson-hero-content">
                     <span class="lesson-badge">${lesson.level}</span>
                     <h2>${lesson.icon} ${lesson.title}</h2>

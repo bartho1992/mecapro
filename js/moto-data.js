@@ -8,6 +8,7 @@ const motoLessons = [
         level: 'Débutant',
         duration: '25 min',
         description: 'Comprenez les différences fondamentales entre les moteurs 2T et 4T et leurs applications.',
+        image: '../images/moto-engine.png',
         content: {
             intro: `Le choix entre moteur 2 temps et 4 temps définit le caractère de votre moto. 
                     Comprendre leurs différences vous permettra de mieux entretenir votre machine 
@@ -150,6 +151,7 @@ const motoLessons = [
         level: 'Intermédiaire',
         duration: '30 min',
         description: 'Maîtrisez le fonctionnement de l\'embrayage multidisque à bain d\'huile.',
+        image: '../images/moto-clutch.png',
         content: {
             intro: `L'embrayage moto est généralement multidisque et fonctionne dans l'huile moteur. 
                     Cette conception compacte permet de transmettre des couples importants malgré 
@@ -294,6 +296,7 @@ const motoLessons = [
         level: 'Intermédiaire',
         duration: '35 min',
         description: 'Apprenez le fonctionnement et le réglage des fourches et amortisseurs.',
+        image: '../images/moto-suspension.png',
         content: {
             intro: `La suspension est cruciale pour le confort, la tenue de route et la sécurité. 
                     Comprendre son fonctionnement vous permettra d'optimiser les réglages selon 
@@ -439,6 +442,7 @@ const motoLessons = [
         level: 'Débutant',
         duration: '20 min',
         description: 'Maîtrisez l\'entretien de la chaîne, du pignon et de la couronne.',
+        image: '../images/moto-chain.png',
         content: {
             intro: `La transmission secondaire transfère la puissance de la boîte à la roue arrière. 
                     La chaîne reste la solution la plus répandue pour son efficacité et son faible coût, 
@@ -591,6 +595,7 @@ const motoLessons = [
         level: 'Avancé',
         duration: '30 min',
         description: 'Maîtrisez les freins à disque, ABS moto et techniques de purge.',
+        image: '../images/moto-brakes.png',
         content: {
             intro: `Le freinage moto est critique car il doit gérer le transfert de masse et éviter 
                     le blocage des roues. Les systèmes modernes (ABS, freinage combiné) améliorent 
@@ -801,6 +806,7 @@ function openLesson(lessonId) {
     modalBody.innerHTML = `
         <div class="lesson-full">
             <div class="lesson-hero">
+                <img src="${lesson.image}" alt="${lesson.title}" class="lesson-image" onerror="this.style.display='none'">
                 <div class="lesson-hero-content">
                     <span class="lesson-badge">${lesson.level}</span>
                     <h2>${lesson.icon} ${lesson.title}</h2>
