@@ -24,7 +24,12 @@ const diagnosticData = {
                 { id: 'm7', text: 'Bruit de cliquetis moteur' },
                 { id: 'm8', text: 'Vibrations anormales' },
                 { id: 'm9', text: 'Consommation excessive de carburant' },
-                { id: 'm10', text: 'Voyant moteur allumé' }
+                { id: 'm10', text: 'Voyant moteur allumé' },
+                { id: 'm11', text: 'Démarrage difficile à chaud' },
+                { id: 'm12', text: 'Ratés d\'allumage / à-coups' },
+                { id: 'm13', text: 'Bruit de claquement distribution' },
+                { id: 'm14', text: 'Odeur d\'essence dans l\'habitacle' },
+                { id: 'm15', text: 'Surchauffe rapide après démarrage' }
             ],
             freins: [
                 { id: 'f1', text: 'Pédale de frein molle' },
@@ -34,7 +39,11 @@ const diagnosticData = {
                 { id: 'f5', text: 'Véhicule tire d\'un côté au freinage' },
                 { id: 'f6', text: 'Distance de freinage allongée' },
                 { id: 'f7', text: 'Voyant frein allumé' },
-                { id: 'f8', text: 'Odeur de brûlé aux roues' }
+                { id: 'f8', text: 'Odeur de brûlé aux roues' },
+                { id: 'f9', text: 'ABS qui s\'active sans raison' },
+                { id: 'f10', text: 'Usure inégale des plaquettes' },
+                { id: 'f11', text: 'Pédale qui vibre au freinage' },
+                { id: 'f12', text: 'Niveau de liquide de frein qui baisse' }
             ],
             transmission: [
                 { id: 't1', text: 'Difficulté à passer les vitesses' },
@@ -109,6 +118,58 @@ const diagnosticData = {
             ],
             'r1': [
                 { cause: 'Thermostat bloqué', probability: 'high', description: 'Le thermostat reste fermé et empêche la circulation du liquide.', solutions: ['Remplacer le thermostat', 'Vérifier le calorstat', 'Contrôler le radiateur'] }
+            ],
+            'm7': [
+                { cause: 'Poussoirs hydrauliques usés', probability: 'high', description: 'Les poussoirs ne compensent plus le jeu de soupapes.', solutions: ['Remplacer les poussoirs', 'Vérifier la qualité de l\'huile', 'Vidanger avec huile adaptée'] },
+                { cause: 'Chaîne de distribution détendue', probability: 'medium', description: 'La chaîne a pris du jeu avec l\'usure.', solutions: ['Remplacer les tendeurs', 'Vérifier les patins', 'Remplacer la chaîne si usée'] }
+            ],
+            'm8': [
+                { cause: 'Supports moteur usés', probability: 'high', description: 'Les silent-blocs ne filtrent plus les vibrations.', solutions: ['Remplacer les supports moteur', 'Vérifier la fixation', 'Contrôler le pot d\'échappement'] }
+            ],
+            'm9': [
+                { cause: 'Sonde lambda défectueuse', probability: 'high', description: 'Le calculateur reçoit des infos erronées sur les gaz d\'échappement.', solutions: ['Remplacer la sonde lambda', 'Vérifier le câblage', 'Faire un diagnostic OBD'] },
+                { cause: 'Pression des pneus incorrecte', probability: 'medium', description: 'Des pneus sous-gonflés augmentent la consommation.', solutions: ['Vérifier et ajuster la pression', 'Contrôler l\'état des pneus'] }
+            ],
+            'm10': [
+                { cause: 'Défaut enregistré (OBD)', probability: 'high', description: 'Un capteur ou système a détecté une anomalie.', solutions: ['Lire les codes défaut avec une valise', 'Effacer après réparation', 'Consulter un professionnel'] }
+            ],
+            'm11': [
+                { cause: 'Injecteurs qui fuient', probability: 'high', description: 'Les injecteurs ne ferment pas correctement à chaud.', solutions: ['Tester les injecteurs', 'Nettoyer ou remplacer', 'Vérifier la pression rail'] },
+                { cause: 'Capteur température défaillant', probability: 'medium', description: 'Le calculateur reçoit une mauvaise info de température.', solutions: ['Remplacer le capteur', 'Vérifier le circuit'] }
+            ],
+            'm12': [
+                { cause: 'Bobine d\'allumage défaillante', probability: 'high', description: 'Une bobine ne produit pas assez d\'énergie.', solutions: ['Tester les bobines individuellement', 'Remplacer la bobine défaillante'] },
+                { cause: 'Bougies encrassées ou usées', probability: 'medium', description: 'Les bougies ne produisent pas d\'étincelle correcte.', solutions: ['Remplacer les bougies', 'Vérifier le type adapté'] }
+            ],
+            'm13': [
+                { cause: 'Distribution usée', probability: 'high', description: 'La courroie ou chaîne de distribution est en fin de vie.', solutions: ['Remplacer le kit distribution urgentement', 'ATTENTION : risque casse moteur'] }
+            ],
+            'm14': [
+                { cause: 'Fuite sur rampe d\'injection', probability: 'high', description: 'Du carburant s\'échappe du circuit.', solutions: ['Vérifier les raccords', 'Remplacer les joints', 'DANGER : risque incendie'] }
+            ],
+            'm15': [
+                { cause: 'Pompe à eau défaillante', probability: 'high', description: 'La pompe ne fait plus circuler le liquide correctement.', solutions: ['Remplacer la pompe à eau', 'Vérifier la courroie', 'Remplacer le liquide'] }
+            ],
+            'f2': [
+                { cause: 'Servo-frein défaillant', probability: 'high', description: 'L\'assistance au freinage ne fonctionne plus.', solutions: ['Vérifier la membrane du servo', 'Contrôler le circuit de dépression', 'Remplacer le servo-frein'] }
+            ],
+            'f4': [
+                { cause: 'Disques voilés', probability: 'high', description: 'Les disques de frein ne sont plus plans.', solutions: ['Resurfacer les disques si possible', 'Remplacer les disques', 'Vérifier les étriers'] }
+            ],
+            'f5': [
+                { cause: 'Étrier grippé', probability: 'high', description: 'Un étrier ne se desserre pas correctement.', solutions: ['Dégriper l\'étrier', 'Remplacer les guides', 'Lubrifier les axes'] }
+            ],
+            'f9': [
+                { cause: 'Capteur ABS défaillant', probability: 'high', description: 'Un capteur de vitesse de roue donne des infos erronées.', solutions: ['Nettoyer les capteurs', 'Vérifier le câblage', 'Remplacer le capteur défaillant'] }
+            ],
+            'f10': [
+                { cause: 'Étrier mal fonctionnel', probability: 'high', description: 'L\'étrier ne répartit pas la pression uniformément.', solutions: ['Réviser l\'étrier', 'Remplacer les plaquettes', 'Vérifier les guides coulissants'] }
+            ],
+            'f11': [
+                { cause: 'Disques de frein usés', probability: 'high', description: 'Les disques sont en dessous de l\'épaisseur minimum.', solutions: ['Mesurer l\'épaisseur', 'Remplacer les disques', 'Changer les plaquettes en même temps'] }
+            ],
+            'f12': [
+                { cause: 'Fuite dans le circuit', probability: 'high', description: 'Le liquide s\'échappe quelque part dans le système.', solutions: ['Inspecter tout le circuit', 'Vérifier les flexibles', 'Remplacer le maître-cylindre si nécessaire'] }
             ]
         },
         // Diagnostic guidé

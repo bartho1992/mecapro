@@ -1,25 +1,115 @@
 /* ===== Diagnostic Page Styles ===== */
 
 .diagnostic-hero {
-    background: linear-gradient(135deg, var(--bg-primary) 0%, #1a1a2e 100%);
-    padding: 4rem 0 3rem;
+    background: linear-gradient(135deg, var(--bg-primary) 0%, #1a1a2e 50%, #16213e 100%);
+    padding: 5rem 0 4rem;
     text-align: center;
     border-bottom: 1px solid var(--border-color);
+    position: relative;
+    overflow: hidden;
+}
+
+.diagnostic-hero::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255, 107, 53, 0.05) 0%, transparent 50%);
+    animation: pulse 15s ease-in-out infinite;
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        transform: scale(1);
+        opacity: 0.5;
+    }
+
+    50% {
+        transform: scale(1.1);
+        opacity: 0.8;
+    }
+}
+
+.hero-badge {
+    display: inline-block;
+    padding: 0.5rem 1.25rem;
+    background: rgba(255, 107, 53, 0.15);
+    border: 1px solid var(--accent-orange);
+    border-radius: 50px;
+    color: var(--accent-orange);
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+    animation: fadeIn 0.6s ease;
 }
 
 .diagnostic-hero h1 {
     font-family: var(--font-display);
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    background: linear-gradient(135deg, var(--accent-orange), var(--accent-blue));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    position: relative;
+    z-index: 1;
+}
+
+.diagnostic-hero p {
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto 2rem;
+    position: relative;
+    z-index: 1;
+}
+
+.hero-stats {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 2rem;
+    position: relative;
+    z-index: 1;
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    min-width: 100px;
+    transition: all 0.3s ease;
+}
+
+.stat-item:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent-orange);
+    background: rgba(255, 107, 53, 0.1);
+}
+
+.stat-number {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: 800;
     background: linear-gradient(135deg, var(--accent-orange), var(--accent-blue));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
 
-.diagnostic-hero p {
+.stat-label {
     color: var(--text-secondary);
-    font-size: 1.1rem;
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
 }
 
 /* Mode Tabs */
@@ -502,8 +592,31 @@
 
 /* Responsive */
 @media (max-width: 768px) {
+    .diagnostic-hero {
+        padding: 3rem 0 2rem;
+    }
+
     .diagnostic-hero h1 {
         font-size: 1.8rem;
+    }
+
+    .hero-badge {
+        font-size: 0.8rem;
+        padding: 0.4rem 1rem;
+    }
+
+    .hero-stats {
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+
+    .stat-item {
+        padding: 1rem;
+        min-width: 80px;
+    }
+
+    .stat-number {
+        font-size: 1.5rem;
     }
 
     .vehicle-grid {
@@ -530,5 +643,26 @@
 
     .symptoms-list {
         grid-template-columns: 1fr;
+    }
+
+    .question-container {
+        padding: 1.5rem;
+    }
+
+    #currentQuestion {
+        font-size: 1.2rem;
+    }
+
+    .option-btn {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+
+    .guided-result {
+        padding: 1.5rem;
+    }
+
+    .result-card {
+        padding: 1.25rem;
     }
 }
