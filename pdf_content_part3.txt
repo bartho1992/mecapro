@@ -1,0 +1,1599 @@
+ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La méthode de dépose repose du pivot.
+> >Les couples de serrage.
+Préparer
+1. Contrôler le bruit et le jeu des roulements 
+des 4 roues sans aucun démontage. Pour 
+le contrôle du jeu, placer les mains verti-calement de chaque coté de la roue, puis bouger la roue pour estimer le jeu.
+2. Déposer le pivot du côté concerné du vé-
+hicule 
+RÉALISER L’INTERVENTION
+Démonter
+Le pivot étant déposé.
+1. Extraction du moyeu du roulement  :
+• placer la guillotine entre le pivot et le 
+mo
+yeu,
+• immobiliser la guillotine dans la presse avec le moy
+eu tourné vers le bas,
+• placer une tige de poussée d’un diamètre légèrement inférieur au 
+diamètre inté-
+rieur du roulement entre le vérin et le moyeu,
+•
+ pomper po
+ur descendre le vérin et 
+extraire le moyeu (ne pas laisser tomber le moyeu).REMPLACEMENT  
+D’UN ROULEMENT DE ROUE
+	Contrôler et remplacer un roulement de roue en respectant les règles de sécurité
+	Utiliser correctement une presse hydrau-lique.	La revue technique du véhicule 
+	Un roulement neuf 
+	Une presse hydraulique 
+	Une pince à circlips 
+	Une guillotine 
+	
+Un arrache roulement et l’outillage cou rantMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES47
+OBJECTIF
+  Presse hydraulique   Guillotine
+Tige de poussée
+              Extraction du moyeu  2. Extraction de la bague intérieure du 
+roulemen
+t restée sur le moyeu  :
+• à l’aide d’un burin fin, décoller la bague intérieure du moy
+eu,
+• à l’aide de la guillotine et de deux vis, extr
+aire la bague intérieure du moyeu,
+• limer les bavures qui ont pu êtres 
+occa-
+sionnée par le burin.
+3. Extractio
+n du roulement de roue  :
+• déposer le circlips de maintien du roule-ment sur le pivot,
+•
+ placer le pivot sur une entretoise d’un 
+dia-
+mètre plus grand que le roulement placé sur la presse. L’entretoise doit porter sur le pivot au plus prés du roulement,
+•
+ placer une tige de poussée prenant appuis sur la bague intérieure du roulement,
+•
+ pomper pour descendre le vérin et extraire le roulement.
+Remonter
+1. Préparation des pièces  :
+• nettoyer soigneusement toutes les pièces. Utiliser si nécess
+aire du papier abrasif fin 
+pour enlever des traces de rouille,
+• huiler légèrement toutes les portées du roulement,
+•
+ sortir délicatement le roulement de son emballage. Les bagues 
+intérieures doi-
+vent restées bien en place. Si les bagues intérieures sont équipées d’une bague plastique de maintien, il faut la laisser en place.
+2. Remontage du roulement sur le pivot
+ :
+• poser le pivot sur la presse,
+• utiliser une tige de poussée correspon-dant au diamètre 
+extérieur du roulement,
+• pomper pour descendre le vérin et emboî-ter le roulement. 
+Surveiller la fin d’enfon-
+cement du roulement (la pression de la presse augmente brutalement). Relâcher la presse,
+•
+ mettre en place un circlips neuf.
+3. Remon
+tage du moyeu sur le  roulement 
+de roue  :
+• placer sur la presse une entretoise creuse correspondant au diamètre de la bague 
+ 
+intérieur du roulement,
+• poser le pivot avec son roulement 
+bien 
+centré sur l’entretoise,
+• poser le moyeu sur le roulement,
+• pomper pour descendre le vérin et emboîter le moy
+eu. Surveiller la fin d’en-
+foncement du moyeu (la pression de la presse augmente brutalement). Relâcher la presse,
+•
+ vérifier la libre rotation du moyeu dans le piv
+ot.Il est nécessaire de prendre toutes les précautions de sécurité lors de l’utilisation de la presse.
+Pour identifier un bruit de roulement 
+en roulant, il faut se mettre au point mort lorsque le véhicule est lancé et écouter le
+ « ronronnement  » carac-
+téristique du bruit pour définir le côté concerné.À NOTER
+BurinBague 
+intérieure
+Vis d’extraction
+EntretoiseTige de
+poussée
+Bague
+intérieure    Extraction de la bague intérieure  
+    Extraction du roulement de roue ORGANISER SON POSTE DE TRAVAIL
+Préparer
+> >Lire attentivement la notice du multimètre 
+utilisé. Les multimètres modernes sont conçus pour permettre d’accomplir des me-sures fiables en toute sécurité.
+> >Critères de choix d’un multimètre  :
+• Précision de la mesure.
+• Étendue des mesures nécessaires.
+• Protection contre les erreurs de branche-ment et erreurs de calibrage.
+•
+ Protection contre les hautes tensions.
+• Protection contre les chocs (housse caoutchouc).
+•
+ Fréquence des mesures.
+MESURER
+Mesure d’une tension
+La tension représente la différence de potentiel existant entre deux points d’un circuit. Cette grandeur notée (U) s’exprime en volts (V).
+1. Sélectionner le multimètre en position 
+voltmètre (V continu).
+2. Sélectionner le calibre approprié (par 
+exemple 0 – 20 V).
+3. Brancher l’appareil aux bornes de l’élément 
+à mesurer en respectant la polarité
+ : touche 
+rouge de l’appareil sur l’alimentation du 
+cir-
+cuit (+) et touche noire sur la masse (-).
+4. Lire sur l’afficheur la valeur mesurée.
+Attention  : Le voltmètre se branche toujours 
+en parallèleUTILISATION  
+D’UN MULTIMÈTRE
+	Effectuer des mesures électriques au 
+multimètre sans faire d’erreur. 	Un multimètreMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES48
+OBJECTIF
+Marche
+Arrêt
+Fonction
+Borne
+Borne « Com »CordonBorneCalibreCommutateur
+de sélectionFonction
+Pointes
+de toucheDigitalAfficheur
+M
+V                       Multimètre
+               Mesure d’une tension 
+A M
+               Mesure d’une intensité  
+Ohm
+             Mesure d’une résistanceMesure d’une intensité
+L’intensité est la quantité d’électricité circu-
+lant dans un circuit chaque seconde. Cette grandeur notée (I) s’exprime en ampères (A).
+1. Sélectionner le multimètre en position am-
+pèremètre.
+2. Sélectionner le calib re approprié (jusqu’à 10 
+ampères).
+3. Mettre le fil rouge de l’appareil sur la prise 
+(10 ampères).
+4. Mettre le circuit hors tension.
+5. Déconnecter le circuit à l’entrée de l’élé-
+ment à mesurer.
+6. Brancher l’appareil aux bornes de l’élément 
+à mesurer  : touche rouge de l’appareil sur 
+l’alimentation du circuit 
+(+) et touche noire 
+sur l’entrée du consommateur.
+7. Mettre le circuit sur tension.
+8. Lire sur l’afficheur la valeur mesurée.
+Attention  : L’ampèrem
+ètre se branche toujours 
+en série.
+Mesure d’une résistance
+La résistance  : C’est l ’opposition du circuit 
+au passage du courant. Cette grandeur notée 
+(R) s’exprime en ohms ( W).
+1. Sélectionner le multimètre en position 
+ohmmètre.
+2. Sélectionner le calibre approprié (par 
+exemple 0 –10 ohms).
+3. Mettre le circuit hors tension.
+4. Déconnecter du circuit l’élément à mesu-
+rer.
+5. Brancher l’appareil aux bornes de l’élément 
+à mesurer.
+6. Lire sur l’afficheur la valeur mesurée.
+Attention  : La mesure d’une résistance s’ef-
+fectue circuit 
+hors tension et le composant iso-
+lé du circuit. L’ohmmètre se branche toujours en parallèle.
+La puissance
+C’est la quantité d’énergie consommée par un récepteur électrique chaque seconde. Cette grandeur notée (P) s’exprime en watts (W).
+Nota
+ :
+> >Dans un montage série tous les récepteurs 
+sont montés «  bout à bout  ».
+> >Dans un montage parallèle (dérivation) Le câblage se scinde autant de fois qu’il y a de récepteurs.Pour mesure des intensités impor-tantes il est nécessaire d’utiliser une pince ampèremétrique. Dans ce cas là lire attentivement la notice de cet outil de mesure.
+Les prix des multimètres sont relati-
+vement égaux entre les marques pour une qualité identique et des fonctions similaires.À NOTERATA3A2A1ATA2 A1A3AT
+                      Montage série 
+        Montage parallèle (dérivation)ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >les caractéristiques de la batterie
+Préparer
+Il faut différencier les causes de mauvais fonc-
+tionnement d’une batterie  :
+> >Batterie déchargée accidentellement (phares restés allumés..)
+ : charger
+ pendant 10 h puis 
+refaire les contrôles.
+> >L’alternateur ne recharge pas correctement la batterie
+ : contrôler la charge de l’alter-
+nateur.
+> >La batterie ne «  prend pas  » la charge (sul-
+fatée)  : charger pendant 10 h et refaire le 
+contrôle d’aptitude au démarr
+age.
+> >Le démarreur est en court-circuit et absorbe trop d’énergie
+ : contrôler l’intensité absor-
+bée par le démarreur 
+à l’aide d’une pince 
+ampèremétrique.
+MESURER – CONTRÔLER
+Charger
+1. Débrancher la batterie ou simplement la 
+cosse négative.
+2. Vérifier le niveau d’électrolyte (10 à 15 mm 
+au-dessus des plaques).
+3. Laisser les bouchons ouverts.
+4. Brancher le chargeur en parallèle  : + char-
+geur sur + batterie et – sur –.
+5. Rég
+ler la tension de charge (12 V).
+6. Mettre le chargeur sous tension.
+7. Charger au minimum d’intensité. En géné-
+ral, on charge au 1/10e de la capacité nomi-
+nale de la batterie pendant 10 h.
+Ex : capacité 40 Ah = 4 A pendant 10 h.CONTRÔLER ET CHARGER  
+UNE BATTERIE
+	Vérifier si la batterie est apte à recevoir le courant venant du circuit de charge et à délivrer le courant demandé par le démarreur.
+	Mettre en charge une batterie.	Un voltmètre
+	Une pince ampèremétrique
+	Un chargeur de batterie
+	Un pèse acide ou un refractomètre
+	Une fiche de relevé des contrôles
+	Une batterieMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES49
+OBJECTIF
+      Batterie
+               Chargeur de batterie  Pèse acide 
+Batterie
+DémarreurMultimètre
+Pince
+ampèremétrique
+   Contrôle de l’intensité de démarrage.
+Beaucoup de chargeurs possèdent un système 
+de régulation  : en début de charge l’intensité 
+est maximale puis 
+diminue au fur et à mesure 
+de la charge. Lorsque l’ampèremètre est à 0, la batterie est chargée.
+Contrôler
+1. Nettoyer la batterie de toute trace de gras 
+et d’humidité.
+2. Contrôler le niveau d’électrolyte  : 10 à 15 
+mm au-dessus des plaques (eau 
+distillée 
+seulement).
+ Remarque  : Au cours de la période chaude, 
+une légère 
+consommation d’eau est nor-
+male. En cas de consommation excessive d’eau, il faut contrôler le bon fonctionne-ment du circuit de charge.
+3. Décaper les bornes et les cosses pour as-
+surer un bon contact électrique. Mettre la batterie en place dans le véhicule. Mesurer au voltmètre la tension de la batterie.
+4. Contrôler l’état de charge de la batterie
+ : 
+À l’aide du pèse acide ou du re
+fractomètre 
+contrôler la densité de l’électrolyte qui doit être au minimum de 1260 g/dm
+3 pour une 
+batterie chargée.
+4. Tension à vide  (sans le contact)  :
+• + de 12 V  : batterie chargée.
+• - de 12 V  : batterie déchargée.
+5. Tensi
+on de démarrage  : Actionner le dé-
+marreur 5 secondes sans démarrer et 
+lire 
+la tension  :
+• + de 9,6 V  : correct.
+• - de 9,6 V  : incorrect.
+6. Tensi
+on sous charge  : Démarrer le moteur 
+et accélérer  :
+• Tension > tension à vide  : correct.
+• Tension < tension à vide  : pas de charge.
+• Tension > 14 V  : voir l’alternateur (régu-
+lateur).
+Ne pas présenter de flamme nue ni produire d’étincelle près d’une bat-terie qui charge (risque d’explosion). Pour les mêmes raisons, ne jamais dé-brancher les pinces du chargeur avant d’avoir arrêté son fonctionnement.
+Une batterie inactive doit être conser-
+vée à l’abri du gel, de l’humidité, à une température voisine de 15 °C.
+Ne pas confondre un chargeur de bat-
+terie avec un «
+ booster  » de démar-
+rage qui permet de dépanner un véhi-cule provisoirement qui a une panne de batterie. À NOTER
+Tension
+nominale
+(volts)Capacité
+nominale
+(ampères-heures)Intensité
+(ampères)
+220 
+Rouge
+Batterie
++–
+              Brancher le chargeur.
+10 mm
+au-dessus 
+des plaques 
+         Contrôler et faire le niveau  
+Voltmètre
+Batterie
+             Contrôler les tensions.
+Voltmètre
+U / à videU / démarreur
+U / charge
+ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Le type du relais et ses caractéristiques.
+Préparer
+> >Déposer le relais du véhicule.
+MESURER – CONTRÔLER
+1. Vérifier la résistance du bobinage de com-
+mande du relais. En général celui-ci fait de 
+60 à 100 ohms  (voir les valeurs construc-
+teurs)  :
+• si la résistance est infinie alors le bobi-nage est coupé,
+•
+ si la résistance est faible à nul 
+alors le 
+bobinage est en court-circuit.
+2. Vérifier en commandant directement sur 
+une batterie le relais  :
+• si celui-ci claque alors la partie com-mande du relais est bonne.
+3
+. Vérifier alors la résistance du contact de 
+la partie puissance avec un ohmmètre, lorsque le relais est commandé
+ :
+• si la résistance entre les bornes de la 
+par-
+tie puissance est faible (inf à 0.5 ohm) alors le contact est bon, à correct,
+•
+ si la résistance est supérieure à 0.5 ohm alors 
+le contact est usé   (due au char-
+bonnage provoqué 
+par l’intensité qui tra-
+verse les contacts) ; ce qui provoquera une chute de tension.
+On peut aussi vérifier le fonctionnement du cir-cuit du relais en simulant le fonctionnement du relais. Pour cela il suffit
+ :
+> >de débrancher la connectique du relais  ;CONTRÔLER  
+UN RELAIS
+	Identifier un relais et sa représentation schématique.
+	Contrôler l’état du relais sur un circuit électrique	Un multimètre
+	L’outillage courant
+	Un relais
+	Une batterieMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES50
+OBJECTIF
+Bobine
+Noyau en fer doux Circuit de 
+Commande Circuit de Puissance 
+> >de relier («  shunter  ») les prises des 
+deux bornes des contacts arrivant 
+sur 
+le relais, simulant ainsi son fonc-
+tionnement.
+Si le système qui est normalement ali-menté par le relais fonctionne alors il y a un problème sur la commande du relais. S’il ne fonctionne pas alors il y a un problème d’alimentation au niveau du relais ou un problème de faisceau électrique.
+Attention
+ : Il est nécessaire de suivre 
+les précautions constructeur dans 
+tous 
+les cas.
+Sur les relais possédant une 
+diode de roue libre il faut faire attention de ne pas se trom-per de sens lorsqu’on alimente en + et masse le circuit de commande pour contrôler le contact du circuit de puissance. À NOTER
+Contrôle circuit de commande
+Circuit de puissance contact au repos
+Circuit de puissance contact au travail
+Brochage ISO Brochage DIN Brochage français
+                  Brochage des relais ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Le schéma de câblage électrique.
+> >L’emplacement de la boîte à fusible.
+> >L’attribution pour chaque fusible.
+> >La méthode de dépose d’un bloc optique ou 
+d’un feu arrière complet.
+CONTRÔLER
+L’éclairage
+1. Les feux de position  : 2 à l’avant, 2 à l’ar -
+rière. Puissance des lampes 5 watts.
+2. Les feux 
+de croisement et de route  : 
+lampe ha
+logène H4 2 filaments 55/60 watts. 
+Lorsqu’un des filaments est grillé, la lampe 
+est à remplacer.
+3. Éclairage de plaque arrière  : une ou plu-
+sieurs lampes de 5W.
+4. Fe
+ux de brouillard  : à l’arrière  21 W et à 
+l’avant 55 W.
+La signalisation
+1. Les feux stop  : Laisser l’éclairage en feux 
+de position. Il faut 
+en général mettre le 
+contact. Appuyer sur la pédale de freins, les 3 feux stop doivent éclairer nettement plus fortement que les feux de position (position 5 W, stop 21 W ou/et leds).
+2. Les clignotants
+ : Actionner l’inverseur de 
+clignotant à gauche, puis 
+à droite, le répé-
+titeur de tableau de bord doit clignoter, si-non une des lampes AV ou AR est en cause. S’il y a une erreur de puissance de lampe, le rythme de clignotant sera modifié (puis-sance des lampes 21 W).
+3. Les feux de marche arrière
+ : Il faut mettre 
+le contact. Passé la 
+marche arrière, le ou 
+les feux de marche arrière doivent s’allumer (puissance des lampes 21 W).
+Essayer tous les accessoires selon les options 
+du véhicule (longue portée, antibrouillard…).CONTRÔLER L ’ÉCLAIRAGE  
+ET LA SIGNALISATION
+	Mettre le véhicule en conformité avec la réglementation du code de la route en matière d’éclairage et de signalisation.	La revue technique du véhicule
+	Le manuel d’utilisation du véhicule
+	Une fiche de relevé des contrôlesMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES51
+OBJECTIF
+Bloc
+optique
+Feu
+bicoloreCroisement
+et route
+Clignotant
+Feux
+de position
+Feux de
+positionFeu
+de recul
+Éclairage
+de plaqueFeu
+stop
+Feu AR
+brouillard
+             Contrôle de l’éclairage 
+          Contrôle de la signalisation DIAGNOSTI qUER
+Le réglage des phares est traité dans la fiche suivante.
+Attention à ne pas mettre les doigts sur une ampoule halogène.Les lampes à décharge (lampe au xénon) en utilisation normale sont prévues pour la durée de vie du véhicule (sauf en cas de choc).À NOTER
+Une lampe ne fonctionne pas :
+Question ? 
+L’ampoule 
+est-elle grillée ? 
+La tension 
+arrive t’elle 
+au porte-lampe ?
+NON
+Le fusible 
+est-il grillée ?
+NON
+L’interrupteur 
+ou le commutateur 
+est- il en état ?
+OUI 
+Les connexions 
+sont-elles 
+réalisées ?
+OUI 
+Le + avant 
+ou après contact 
+fournit-il 
+une tension ? Diagnostic 
+Ampoule
+à remplacer
+Mauvaise
+masse
+Remplacer
+le fusible
+Interrupteur
+ou commutateur
+à remplacer
+Nettoyer,
+resserrer
+ou rebrancher
+les connexions
+Rétablir 
+le circuit
++ batterieContrôle à effectuer : 
+Contrôler la continuitédu filament de l’ampouleà l’ohmmètre.
+Brancher le voltmètre
+entre la borne isoléeet la masse (U = 12 V).
+Contrôler le fusible
+à l’ohmmètre (R = 0)
+Interrupteurou commutateur fermé(en action), la tensiondoit arriver aux bornes.
+Vérifier leur branchement,leur propreté, leur continuité (tension à l’entrée et à la sortie)
+Contrôler la tension en remontant le circuit jusqu’au + qui l’alimente.OUI
+OUI
+OUI
+NON
+NON
+NONNON
+                  Contrôle de l’ampouleORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La méthode de remplacement d’une lampe.
+> >La position des vis ou molettes de réglage 
+des phares.
+> >Les conditions de contrôle.
+Préparer
+1. Nettoyer les vitres des phares.
+2. Vérifier les impacts dus aux gravillons, 
+l’état des paraboles et les fixations de l’optique.
+3. Vérifier le fonctionnement de l’ensemble 
+du système d’éclairage et de signalisa-tion (voir fiche précédente) et particuliè-rement des feux
+ :
+• de position,
+• de route,
+• de croisement.
+ Vérifier la co
+nformité des ampoules et 
+remplacer les ampoules défectueuses si né-cessaire.RÉGLER  
+LES PHARES
+	Limiter la hauteur du faisceau des feux de croisement et centrer la direction des feux de route.	La revue technique du véhicule.
+	Un appareil de contrôle des phares (régloscope) et sa notice.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES52
+OBJECTIF
+±2 cm
+30 à 50 cm
+Positionnement d’un appareil  
+de réglage des feux
+                                           Zone de rabattement de faisceau
+Véhicule et régloscope  
+sur une aire plane4. Placer le véhicule et le régloscope sur une 
+aire plane.
+5. Vider le véhicule, s’il est chargé.
+6. Placer les commandes d’abaissement des 
+phares en cas de charge en position 0 (non 
+chargé).
+7. Aligner l’appareil dans l’axe du véhicule.
+8. Régler la position de l’appareil en hauteur 
+et en longueur.
+9. Prendre connaissance  de la notice de l’ap-
+pareil.
+CONTRÔLER – RÉGLER
+1. Placer la commande des phares en position 
+croisement.
+2. Placer la molette du rabattement de fais-
+ceau à la valeur indiquée sur le véhicule.
+3. Contrôler la position supérieure du fais-
+ceau :
+• hauteur,
+• horizontalité et déport de la partie rele-vée.
+4. 
+Régler en hauteur et en direction pour ame-
+ner le faisceau dans la position du schéma ci-contre. Si le réglage est impossible, vé-rifier la position de la lampe dans l’optique.
+•
+ vérifier sur le graphique du luxmètre l’ho-rizontalité,
+•
+ vérifier sur le secteur croisement du lux-mètre la limite tolérable.
+5.
+ Placer le commutateur en positon route. 
+Si le réglage croisement a été parfaitement réalisé, le point le plus lumineux du fais-ceau doit être centré sur la cellule photoé-lectrique de l’appareil. Sinon, régler en di-rection seulement.
+6. Revenir en position croisement.
+7. Appuyer sur le bouton du luxmètre (si l’ap-
+pareil en est muni) et parfaire le réglage hauteur.
+8. Revenir en position route.
+9. Lire sur le luxmètre et parfaire le réglage 
+en direction.
+10. Répéter l’opération à l’autre phare.
+Nota
+ : Si l’intensité lumineuse est trop faible, 
+remplacer la lampe de 
+phare. Remplacer l’op-
+tique complètement si la parabole est ternie ou la vitre fissurée ou cassée.
+Laisser refroidir les lampes halogènes avant de les déposer (3200 °C). Ne pas toucher le verre avec les doigts.La réglementation oblige les véhicules équipés de projecteurs avec des lampes à décharge (lampe au xénon)  à posséder des dispositifs :• de correction d’assiette automatique,• de lave-phares.À NOTER
+Croisement
+Hauteur
+maxi
+Partie
+horizontaleCassure nette 
+au centrePartie
+relevée
+Route
+Intensité maxi centrée
+sur cellule
+Limite
+Luxmètre
+Feu de croisement
+Maxi
+Feu de routeRégler en hauteur
+et en direction
+                  Lampe à décharge                   Régler en direction 
+Croisement
+Hauteur
+maxi
+Partie
+horizontaleCassure nette
+au centrePartie
+relevée
+Route 
+Intensité maxi centrée 
+sur cellule
+Limite
+Luxmètre
+Feu de croisement
+Maxi
+Feu de route
+Croisement
+Hauteur
+maxi
+Partie
+horizontaleCassure nette
+au centrePartie
+relevée
+Route
+Intensité maxi centrée
+sur cellule
+Limite
+ Luxmètre 
+Feu de croisement
+Maxi
+Feu de route1. Alternateur
+2. Régulateur de tension3. Témoin de charge4. Sortie alimentation compte toursEntrée énergie
+mécaniqueAlimentation en énergie des fonctions électriques du véhicule    Sortieénergieélectrique   Air frais Air réchaufféORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La méthode de remplacement du démarreur.
+> >La méthode de remplacement de l’alternateur.
+> >La procédure de la tension de la courroie.
+Préparer
+Pour le démarreur et l’alternateur  :
+1. Débran
+cher la cosse négative de la bat-
+terie.
+2. Repérer l’emplacement des 
+connexions 
+électrique (la couleur des fils, la forme des 
+cosses…).
+3. Déconnecter toutes les connexions (connec-
+teurs ou fils seul).
+4. Vérifier l’
+état des connecteurs ou des cosses 
+(propreté, sertissage du fil).
+RÉALISER L’INTERVENTION
+Dépose du démarreur
+1. Déconnecter les fils et les connecteurs 
+après repérage. 
+2. 
+Dévisser les vis de fixation.
+3. Déposer le démarreur.
+4. Contrôler, réparer ou changer  le démar-
+reur.
+Repose du démarreur
+1. Reposer le démarreur. Visser les vis de fixa-
+tion tout en maintenant le démarreur dans son logement dans la cloche d’embrayage.
+2. Connecter le câble positif venant de la bat-
+terie, le fil de commande du démarreur et les éventuels autres fils trouvés au démontage.REMPLACER LE DÉMARREUR  
+ET L ’ ALTERNATEUR
+	Éviter tout risque de court – circuit lors du remplacement d’éléments électriques et rétablir les branchements correcte-ment.
+	Régler la tension de la courroie.	La revue technique du véhicule.
+	L’outillage courant.
+	Une clé dynamométrique.
+	Un contrôleur de tension de courroie.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES53
+OBJECTIF  
+Partie commandeContacteur
+antivolRelais
+(contacteur)
+Entraînementdu volantmoteur
+Masse chassis
+Alimentation en puissace
+       Branchement du démarreur 
+        Branchement de l’alternateur3. Rebrancher la batterie et essayer. Le mo-
+teur doit être entraîné à une vitesse de ro-
+tation supérieure à 150 tours/min.
+Dépose de l’alternateur
+1. Effectuer les opérations indiquées au para-
+graphe «  préparer  ».
+2. Déblo
+quer et desserrer sans dévisser com-
+plètement  :
+• l’axe de pivotement,
+• la vis du galet tendeur.
+3. Déten
+dre la courroie et la déposer.
+4. Enlever la vis du galet tendeur et l’axe d’al-
+ternateur.
+5. Déposer l’alternateur.
+Repose de l’alternateur
+1. Vérifier l’état de l’alternateur ainsi que sa 
+conformité. Mettre en place l’alternateur.
+2. Remonter l’axe de pivotement et la vis du 
+galet tendeur sans serrer.
+2. Vérifier l’état de la courroie, la remplacer 
+par une courroie neuve identique si néces-saire.
+3. Placer la courroie et la vis du galet tendeur.
+5.
+ Pour effectuer la tension de 
+la courroie, 
+respecter  la procédure ci-après. Lorsque la 
+tension est correcte, serrer la vis du galet tendeur et l’axe.
+6. Connecter les fils selon les repères pris au 
+démontage.
+7. Brancher la cosse négative de la batterie.
+8. Démarrer le moteur.
+9.
+ Contrôler
+ la charge de l’alternateur  : le 
+voyant du tableau de bord 
+doit s’éteindre. 
+En cas de doute, voir la fiche «  contrôler et 
+charger une batterie  » ainsi que la suivante.
+Tension de la courroie
+1. Mettre en place  le contrôleur de tension 
+sur le bon brin de la courroie (voir doc. constructeur).
+2. Pivoter l’alternateur pour tendre la courroie 
+et obtenir la valeur de tension indiquée par le constructeur.
+3. Serrer au couple la vis du galet du tendeur 
+ainsi que l’axe de pivotement de l’alterna-teur.
+4. Déposer le contrôleur de tension.
+5.
+ Faire tou
+rner le moteur de deux tours 
+pour répartir la tension de la courroie.
+6. Replacer le contrôleur de tension et vérifier 
+la valeur.
+7. Rectifier la tension de la courroie si néces-
+saire.
+Remarque  : Si le système du galet tendeur 
+est automatique il 
+ne faut pas tenir compte de 
+cette procédure. Il faut suivre alors les préco-nisations constructeurs.Les circuits de charge et de démar-rage ne sont pas protégés par des fusibles (trop fortes intensités), un court-circuit peut donc avoir des conséquences graves (fusion des fils, incendies).
+                Réglage de la tension  
+À NOTERORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les références de l’alternateur et leur 
+concordance avec celles données par le constructeur.
+> >La tension nominale et la tension maximale.
+> >L’intensité en fonction du régime moteur (si indiquée).
+Préparer
+> >Le multimètre et la pince ampèremétrique.
+> >Contrôler  :
+• l’état et la tension de la courroie d’alter-nateur
+,
+• l’état de la connectique (propreté, ser-rage des cosses, cosses de baterie…).
+> >Vérifier le niveau d’électrolyte (voir fiche 49).
+> >Vérifier l’état de charge de la batterie et re-lever sa tension à vide (moteur arrêté) et comparer à la valeur de référence.
+CONTRÔLER – MESURER
+Contrôler le courant de fuite
+Moteur arrêté, contact coupé, aucun consom-mateur en fonctionnement
+ :
+1. Place
+r la pince ampèremétrique sur le câble 
++ ou – de la batterie (attention au sens de la pince). Étalonner la pince ampèremé-trique.
+2. Brancher la pince ampèremétrique sur le 
+multimètre comme indiquée dans la notice.
+3. Constater s’il y a passage de courant. Dans 
+ce cas une valeur s’affiche.CONTRÔLER LE CIRCUIT  
+DE CHARGE
+	Contrôler, sans les déposer, le bon fonc-tionnement de l’alternateur et de son régulateur en cas de décharge ou sur-charge anormale de la batterie.	La revue technique du véhicule.
+	Une fiche de relevé des contrôles.
+	Un multimètre.
+	Une pince ampèremétrique avec sa notice.
+	Ou un contrôleur de circuit de charge.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES54
+OBJECTIF
+                        Alternateur
+Contrôle de la tension de la batterie
+    Contrôle de la tension de la batterie Contrôler les tensions
+Contrôle de la tension régulée  
+sans consommateur  
+1. Brancher le voltmètre sur les bornes + et 
+– de la batterie.
+2. Relever la tension (U) de la batterie et la 
+noter.
+3. Mettre en route  le moteur.
+4. Accélérer progressivement et noter les va-
+leurs de U trouvées. La valeur de référence 
+est comprise entre 13,5  V et 14,8 V  :
+• si U reste égal à la valeur 
+moteur arrêté, 
+l’alternateur ne charge pas,
+• si U dépa
+sse U maximal (plus de 15  V), le 
+régu
+lateur ne fonctionne pas.
+Contrôle de la tension régulée  
+avec plusieurs consommateurs
+1. Placer un voltmètre aux bornes de la bat-
+terie.
+2. Mettre en marche  le moteur avec plu-
+sieurs consommateurs (phares, dégivrage 
+arrière, ventilation, essuie-glace...).
+3. Accélérer progressivement et relever la 
+tension lorsqu’elle se stabilise.
+4. Comparer la valeur trouvée à la valeur de 
+référence. La valeur de référence est com-prise entre 13,5 V et 14,8 V.
+Contrôle de l’intensité débitée 
+par l’alternateur
+1. Placer la pince ampèremètrique sur le fil + 
+reliant l’alternateur à la batterie.
+2. Mettre en marche  le moteur avec plusieurs 
+consommateurs (phares, dégivrage arrière, ventilation, essuie-glace...).
+3. Accélérer à 2000 tr/min et relever l’inten-
+sité.
+4. Comparer la valeur trouvée à la valeur de 
+référence. La valeur de référence est de mi-nimum 30 A à 2000 tr/mn.
+Ne jamais débrancher la batterie lorsque le moteur tourne. On effectue tous les branchements avec le moteur arrêté.
+Le contrôle du circuit de charge peut 
+se faire à l’aide d’un appareil électro-nique de tests du circuit de charge (sans le multimètre et sans la pince ampèremétrique).À NOTER        Contrôle de la tension régulée  
+Contrôle de la tension de la batterie
+         Contrôle de la tension régulée  
+Contrôle de la tension de la batterie
+         Contrôle de l’intensité débitée  
+Contrôle de la tension de la batterie
+         Mesure de la tension régulée 
+   et de l'intensité débitée en simultané
+Contrôle de la tension de la batterieORGANISER SON POSTE  
+DE TRAVAIL
+Relever dans la revue 
+technique du véhicule
+> >Les références du démarreur 
+et leur concordance avec celles données par le constructeur.
+> >La tension à vide de la batterie et la tension de démarrage.
+> >L’intensité absorbée par le dé-marreur.
+Préparer
+> >Le multimètre et la pince am-pèremétrique
+> >Contrôler  :
+• Si le moteur est entrainé assez rapidement pour démarrer
+.
+• Si le démarreur ne fait pas de bruit anormal.
+> >Vérifier le niveau d’électrolyte (voir fiche 49).
+> >Vérifier l’état de charge de la batterie (déconnecter le sys-tème d’allumage et d’injection) et relever sa tension à vide (moteur arrêté), la tension au démarrage et comparer aux va-leurs de référence.
+CONTRÔLER – MESURER
+Contrôle du circuit  
+de commande
+Débrancher le fil d’exitation du solénoïde
+ : Lorsqu’on actionne le 
+démarreur, on doit trouv
+er une ten-
+sion d’environ 12 V entre la borne de la batterie et le fil débranché.CONTRÔLER LE CIRCUIT  
+DE DÉMARRAGE
+	Diagnostiquer et contrôler un circuit de démarrage en respectant les règles de sécurité.	La revue technique du véhicule.
+	Une fiche de relevé des contrôles.
+	Un multimètre.
+	
+Une pince ampèremétrique avec sa notice.MATERIELS, CONSOMMABLES 
+ET DOCUMENTS NECESSAIRES55
+OBJECTIF
+Ne jamais débrancher la 
+batterie lorsque le moteur tourne. On effectue tous les branchements avec le moteur arrêté.À NOTERContrôle du câblage
+Pour déceler une résistance anormale, on  recherche les chutes de tension, il est donc nécessaire de déconnecter l’allumage et l’injection lorque l’on ac-tionne le démarreur.
+1.
+ Contrôle 
+du fil d’alimentation du 
+démarreur  
+La chute 
+de tension admise est 
+d’environ 0,5 V.
+2. Contrôle de relais de commade 
+(solénoïde) 
+La chute de tension admise est 
+d’environ 0,8 V.
+3. Contrôle 
+de la liaison avec la 
+masse  
+La chute 
+de tension admise est 
+d’environ 0,1  V.
+4. Contrôle de la consommation du 
+démarreur  (intensit
+é absorbée)  
+Placer une pince ampèremétrique autour du cable d’alimentation du démarreur. La valeur théorique est d’environ 80 A.
+        Contrôle du fil d’alimentation  
+    Contrôle du relais de commande  
+ Contrôle de la liaison avec la masse
+      Contrôle de la consommation   ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue  
+technique du véhicule
+Les références du démarreur et les comparer 
+avec celles du démarreur à réviser (graver sur le corps du démarreur).
+Préparer
+1.  Déposer  le démarreur.
+2. Essayer le démarreur sur batterie en le 
+branchant  ; le lanceur doit s’avancer et le 
+moteur 
+tourner à la bonne vitesse. La roue 
+libre doit agir.
+RÉALISER L’INTERVENTION
+Démonter
+1. Déconnecter le câble d’alimentation des 
+inducteurs.
+2. Déposer la vis et le système de freinage 
+arrière.
+3. Déposer le flasque arrière 
+et récupérer les 
+rondelles de calage.
+4. Dégager le corps du démarreur.
+5
+. Chasser l’axe de 
+la fourchette (si elle en 
+est munie).
+6. Dévisser et sortir 
+le solénoïde. Retirer la 
+fourchette en notant son sens.
+7. Déposer l’induit muni du lanceur.
+8. Chasser la bague, retirer le jonc ou les 
+deux demi-joncs, sortir 
+la bague et le lan-
+ceur si le lanceur est à déposer.
+Contrôler mécaniquement
+1. L’entrefer  entre la carcasse de l’induit et les 
+masses polaires (traces de frottement).
+2. Le non-contact des bobinages de l’induit 
+avec ceux de l’inducteur.RÉVISER  
+UN DÉMARREUR
+	Détecter l’origine des défauts lorsque le démarreur se lance dans le vide, est bruyant ou tourne trop lentement en absorbant trop d’énergie.
+	Contrôler l’état général du démarreur après avoir effectuer les contrôles de la fiche «
+ contrôler 
+le circuit de démarrage  ».	La revue technique du véhicule.
+	Une fiche de relevé des contrôles.
+	Un multimètre.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES56
+OBJECTIF
+Masse 3+ Batterie
+– Batterie12
+4
+1°  La pince – sur le nez du démarreur
+2° La pince + sur la borne 1  :
+     ➞ Le contacteur doit claquer et le lanceur avancer.
+3° La pince + sur la borne 4  :
+     ➞ Le moteur électrique doit tourner.
+4° La pince + sur les bornes 1 et 2 à la fois  :
+     ➞ Le lanceur doit avancer et le moteur tourner
+Contrôle 
+de la continuité  
+(résistance)
+Contrôle 
+de l’isolement
+Contrôle de la continuité
+Contrôle 
+de l’isolement          Test sur démarreur déposé 
+                 Contrôle de l’induit 
+             Contrôle des inducteurs 3. Le faux-rond du collecteur (0,05 mm maxi-
+mum). Dégager l’isolant entre les lames à 
+l’aide 
+d’un morceau de lame de scie à mé-
+taux dont la voie a été meulée.
+4. La roue l
+ibre, qui doit tourner librement dans 
+un sens et résister au couple dans l’autre.
+5. Les bagues des flasques avant et arrière 
+en 
+replaçant les extrémités de l’arbre d’induit dans leur logement.
+6.
+ L’état  des 
+balais  : couliss
+ement, usure.
+L’état des ressorts  : force pressante.
+7. Visuellem
+ent l’état : des sou
+dures, des lames 
+sur collecteur, des bobinages (dénudés), des tendeurs non isolés.
+Contrôler électriquement
+1. L’induit  : 
+• Continuité  : Brancher un ohmmètre sur 
+deux bagues du collecteur
+, il doit y avoir 
+continuité, et l’appareil doit indiquer la valeur de la résistance de l’induit donné par le constructeur.
+•
+ Isolement  : Brancher l’ohmmètre entre le 
+collecteur et le corps de l’induit.
+L’appareil doit indiquer une résistance infinie.
+Si l’ohmmètre indique 
+une valeur de résis-
+tance, il y a court circuit entre le collecteur et 
+la masse. Changer le rotor.
+2. Les inducteurs  :
+• Continuité  : brancher l’ohmmètre entre 
+le balai et l’arrivée 
+du courant dans les 
+enroulements; il doit indiquer la résis-
+tance donnée par le constructeur.
+• Isolement  : branche
+r l’ohmmètre entre les 
+balais et le corps, l’appareil doit indiquer une valeur infinie sinon il y a court-circuit.
+3. Le solénoïde
+ : En activant son bobinage 
+d’appel, le noy
+au doit se déplacer avec une 
+légère aide.
+4. Le flasque  ou porte-balais  : 
+• Positif  : isolement.
+• Négatif  : continuité.
+5. Le la
+nceur  :
+• Contrôle des dents  et de la roue libre.
+• S’assurer que le pignon tourne dans le même sens 
+que le démarreur. Il ne doit 
+pas tourner en sens inverse.
+Remonter
+1. Remplacer les balais si c’est nécessaire.
+2. Graisser légèrement l’arbre côté lanceur.
+3. Remonter dans l’ordre inverse du démon-
+tage en respectant  :
+• le sens de la fourchette et du solénoïde,
+• l’alignem
+ent nez, carcasse, flasque arrière 
+en respectant les détrompeurs.
+4. Remonter le frein d’induit. Assurer le bon 
+contact des balais sur le collecteur.Les essais en dynamique du démar-reur s’effectuent sur un banc d’essai de démarreurs. A défaut, essayer à nouveau le démarreur sur la batterie avant le remontage.
+Actuellement la réfection d’un démar-
+reur se fait très rarement. Avant de réviser un démarreur, il faut voir s’il existe un nécessaire de réparation pour ce démarreur. Parfois le coût d’un démarreur en échange standard revient moins cher que la réfection complète du démarreur.À NOTER
+M
+12
+3
+M
+12
+3
+Balai +
+Balai –
+Contrôle 
+des dentsContrôle
+de la roue libreBobinage de maintien
+Continuité entre 1 et MBobinage d’appel
+Continuité entre 1 et 3
+Contacteur
+Alimenté entre 1 et M
+Continuité entre 2 et 3
+Balai +
+Balai –
+Isolement du balai positif
+Continuité entre le balai + et son support
+Isolement du balai négatif
+Continuité entre le balai –  
+et son support              Contrôle du solénoïde  
+            Contrôle des portes–balais
+                Contrôle du lanceur ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Identifier l’alternateur et comparer ses réfé-
+rences avec celles proposées dans la revue technique.
+> >Noter les valeurs des résistances  :
+• du rotor (inducteur),
+• du stator (induit).
+Préparer
+1. Déposer l’alternateur.
+2. Contrôler la libre rotation du rotor.
+3. Détecter les bruits de roulement éventuel.
+RÉALISER L’INTERVENTION
+Démonter
+1. Déposer la poulie, le ventilateur et le 
+radiateur.
+2. Déposer le régulateur porte-balais.
+3. Déposer le
+s tirants et déposer le palier 
+arrière (6). Sur certains modèles, il faut d’abord dessouder les diodes (7) et repérer les fils.
+4.
+ Dessouder
+ les fils.  
+Interposer une pince sur la 
+queue des diodes 
+afin d’éviter de les dé  
+tériorer 
+par échauffe-
+ment. Déposer le rotor et le stator (4).
+5. Chasser le roule ment 
+(2) du palier avant (1).
+6. Extraire de l’arbre de 
+rotor (3) le roulement arrière (5) à l’aide d’un petit arrache-moyeu.RÉVISER  
+UN ALTERNATEUR
+	Détecter l’origine du défaut en contrô-lant chacun des éléments, si l’alternateur ne débite pas ou débite insuffisamment après les contrôles de la fiche «
+ contrôler 
+le circuit de charge  ».	La revue technique du véhicule.
+	Une fiche de relevé des contrôles.
+	Un multimètre.
+	Un fer à souder.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES57
+OBJECTIF  
+                  Alternateur déposé
+Poulie
+d’entraînementVentilateur
+Porte diodes-7    Palier avant-1 Rotor-3
+(inducteur)
+Porte balai régulateurPalier arrière-6
+Capot de protectionStator-4 (induit)Roulement-2
+Roulement-5Contrôler mécaniquement
+1. Faire tourner  les rou lements à la main 
+pour constater leur état.
+2. Vérifier les frottements 
+éventuels entre 
+rotor et cages feuilletées du stator.
+3. Contrôler l’état des bagues lisses. Les po-
+lir avec une toile émeri usée. 
+4. Mesurer la longueur des balais, leur bon 
+coulissement dans les porte-balais et l’ac-
+tion des ressorts.
+Contrôler électriquement
+1. Le rotor  :
+• Continuité  : Brancher un ohmmètre sur 
+les deux
+ bagues, il doit y avoir conti-
+nuité, et l’appareil doit indiquer la valeur de la résistance du rotor donné par le constructeur (entre 5 et 12 ohms).
+•
+ Isolement  : Brancher l’ohmmètre entre 
+une des deux bagues et l’arbre.
+L’ap
+pareil doit indiquer une résistance in-
+finie.
+Si l’ohmmètre indique une valeur de résis-
+tance, il y a court circuit entre l’enroule-ment et la masse. Changer le rotor.
+2. Le stator
+ :
+• Continuité  : brancher l’ohmmètre entre 
+deux sorties du stator
+, puis les autres  ; 
+il doit indiquer la résistance donnée par 
+le constructeur (entre 0,1 et 0,7 ohm).
+• Isolement  : brancher l’ohmmètre entre 
+un fil du 
+stator et l’armature, l’appareil 
+doit indiquer une valeur infinie sinon il y a court circuit.
+3. Le pont de diodes
+ :
+Les diode
+s négatives  : 
+• Placer une touche de l’ohmmètre sur le support des 
+diodes et l’autre successi-
+vement sur chacune des tiges de sortie.
+• Inverser les touches de l’ohmmètre et répéter l’opération. Un sens doit donner zéro (0) 
+pour chacune et l’autre sens 
+l’infini (I).
+ Les diodes positive s : Effectu er les mêmes 
+contrôles, les résultats doivent être inver-sés.
+4.
+ Porte-bal
+ai : Contrôle
+r l’isolement du 
+porte-balai négatif (à la masse) et la conti-nuité du porte-balai positif (isolé).
+5. Contrôle du régulateur
+ : Le contrôle du 
+régulateur se fera sur le moteur.
+ Brancher 
+un voltmètre aux bornes de la 
+batterie, accélérer le moteur, la tension lue sur le voltmètre doit se stabiliser aux 
+alentours de 14.5 Volts.
+Remonter
+1. Remplacer toutes les pièces usées.
+2. Remonter  tous 
+les éléments en sens in-
+verse du démontage.Les essais électriques en dynamique d’un alternateur s’effectuent sur un banc spécial de contrôle des alterna-teurs et régulateurs.
+Actuellement la réfection d’un alter-nateur se fait très rarement. Avant de réviser un alternateur, il faut voir s’il existe un nécessaire de réparation pour cet alternateur. Parfois le coût d’un al-ternateur en échange standard revient moins cher que la réfection complète.À NOTER
+Contrôle de la continuité 
+(résistance) 
+Contrôle de l’isolement 
+                 Contrôle du rotor
+Contrôle de la continuité 
+(résistance) 
+Contrôle de l’isolement 
+                  Contrôle du statorORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >L’emplacement des différents éléments du 
+circuit de climatisation.
+> >Les raccords de service du circuit.
+> >Les pressions de fonctionnement.
+> >Les données constructeur en fonction du type et de l’année du véhicule (quantité de gaz et d’huile).
+Préparer
+Contrôle et opérations préliminaires  :
+> >Vérifier la tension et l’état de la courroie de l’embrayage électromagnétique du com-presseur.
+> >Vérifier les différents niveaux et mettre en route le véhicule.
+> >Moteur chaud.
+> >Actionner l’interrupteur de mise en route de la climatisation à plusieurs reprises, et écouter le claquement de l’embrayage élec-tromagnétique du compresseur.
+> >Fermer le véhicule et les ouvrants.
+> >Ouvrir les bouches d’aération centrales et fermer toutes les autres.
+> >Sélectionner le mode recyclage.
+> >Sélectionner la température minimum.
+> >Sélectionner la sortie d’air vers les bouches centrales.
+> >Laisser l’installation de réfrigération en fonctionnement 10 à 15 minutes avant de noter les différents relevés.
+> >Introduire la sonde d’un thermomètre dans l’une des deux bouches centrales.
+> >Sélectionner une vitesse des pulseurs d’en-viron 40 à 50 %.
+> >Augmenter le régime moteur d’environ 1500 à 2000 tr/min.
+> >Lire une température de sortie évaporateur d’environ 5
+ °C.CONTRÔLER ET RECHARGER  
+UNE CLIMATISATION
+	Intervenir sur les éléments de la clima-tisation en respectant les consignes de sécurité.
+	Relever les températures et pressions de fonctionnement sur les différents élé-ments.
+	Recharger le circuit de climatisation.	La revue technique du véhicule.
+	Une fiche de relevé des contrôles.
+	Un thermomètre infrarouge.
+	Une station de charge avec sa notice.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES58
+OBJECTIF
+             Station de climatisation
+   Contrôle de la tension de la courroie 
+HP BP
+        Identifier les raccords BP et HP CONTRÔLER – MESURER
+1. Mettre le véhicule dans les conditions d’es-
+sais du constructeur (voir ci-dessus).  
+2. Brancher
+ les manomètres aux raccords de 
+service du circuit.
+3. Noter la température de l’air extérieur.
+4. Noter la température de soufflage de l’air 
+vers l’habitacle (aérateurs centraux) et les 
+pressions BP et HP.
+5. Comparer les relevés avec les données du 
+constructeur et faire un diagnostic si néces-saire.
+6. Raccorder la station de climatisation au 
+véhicule.
+7. Vous vous apprêtez à réaliser le contrôle 
+de l’efficacité du système de climatisation, pour cela quelques conditions sont néces-saires
+ :
+• moteur chaud,
+• sélection du «  froid maxi  »,
+• vitesse soufflerie maximum,
+• sélection sortie soufflerie frontale,
+• régime mote
+ur lors des mesures =  
+2000 tr/min.
+8. Ef
+fectuer les mesures.
+9. Si toutes les mesures sont correctes, faire 
+une recharge  du circuit de climatisation à 
+l’aide de la station de climatisation (voir no-tice de la station).
+Pour toutes interventions sur un élément du circuit de climatisation, il est néces -
+saire de vider le circuit à l’aide de la station de climatisation.Lors de la recharge du circuit de climatisation il est préférable d’utiliser le pro -
+gramme automatique de la station de climatisation.Sur certains véhicules il n’y a qu’un seul raccord de service pour le remplissage du fluide frigorigène.À NOTER
+            Commande de climatisation
+        Courbe d’efficacité du système  
+Les principales pannes
+DÉFAUT CONSTATÉ CAUSES
+Manque de froidVentilation habitacle défaillante.
+Filtres d’entrées d’air colmaté.Détendeur défaillant.Embrayage du compresseur défaillant.Manque de fluide.Trop de fluide.Lignes électriques défaillantes.Circuit frigorifique obstrué.Pressostats défaillants.Thermostat défaillant.Ventilation condenseur défaillante.Condenseur encrassé.Chauffage défaillant.Présence d’air dans le circuit frigorifique.Présence d’humidité dans le circuit frigorifique.Trop d’huile dans le circuit frigorifique.CONSIGNES  GÉNÉRALES  DE SÉCURITÉ
+L’intervention sur un système de climatisation 
+doit être effectué par du personnel qualifié et seulement après avoir bien lu les instructions pour l’utilisation :
+> >Toujours porter  des gants et lunettes pro-
+tectrices.
+> >Ne pas fumer  près du véhicule pendant les 
+opérations.
+> >Ne jamais regarder  les raccords lors de 
+l’installation de la station de climatisation, ou un élément suite au remontage et à la mise en route du système.
+> >L’appareil doit être utilisé  dans un en-
+droit bien aéré.CONSIGNES  DE SÉCURITÉ  
+(SYSTÈME  DE CLIMATISA
+TION)
+	Intervenir sur les éléments de la clima-tisation en respectant les consignes de sécurité.
+	Recharger le circuit de climatisation.	La revue technique du véhicule.
+	Une fiche de relevé des contrôles.
+	Un thermomètre infrarouge.
+	Une station de charge avec sa notice.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES59
+OBJECTIF
+compresseur
+détendeur
+réservoirévaporateur
+condenseur
+Ventilateurventilateur
+embrayage
+Haute pression liquideHaute 
+pression gazeuseBasse pression gazeuse
+Basse pression liquide
+évacuation eaude condensation
+filtredéshydrateur
+                                             Circuit de climatisation
+> >Contrôler  le type de réfrigérant utilisé 
+dans le système (R134a ou R12 sur vé-
+hicule ancien) avant d’effectuer toute opération.
+> >S’assurer  que la clé de contact de vé-
+hicule soit déconnectée quand le mo-teur ne tourne pas.
+> >Éviter d’inhaler  les vapeurs concen-
+trées des réfrigérants, même pendant une période très courte, car cela pour-rait provoquer une perte de conscience ou pire une mort soudaine.
+> >Le réfrigérant R134a n’est pas inflam-mable, mais si ses vapeurs sont expo-sées à des flammes ou à des surfaces rouges, il peut s’avérer une décomposi-tion thermique générant des substances acides. Éviter  donc de telles situations.
+Remarque : Il n’existe pas de preuves 
+scientifiques sur les risques éventuels du contact direct sur la peau avec le gaz R134a. Toutefois, en considération du point d’ébullition très bas du R134a, il est fortement recommandé de porter des gants ou des lunettes protectrices pour éviter le contact avec la peau, particulièrement pour les yeux (le liquide oculaire pourrait geler).
+Attention  : Il est  actuellement de-
+mandé une attestation de capacité 
+pour intervenir sur les systèmes de climatisation et pour manipuler des fluides frigorigènes.À NOTERFluides frigorigènes
+Désignation R12 R134a
+ClassificationCFC
+ChloroFluoro- 
+CarboneHFC
+HydroFluoro- 
+Carbone
+Applications Interdit à la venteCircuit d’origine  
+ou circuit R12  
+reconverti au R134a
+Désignation R413a R416a
+ClassificationHFC
+HydroFluoro- 
+CarboneHCFC
+HydroChloro- 
+FluoroCarbone
+ApplicationsCircuit R12  
+reconverti  
+au R413aCircuit R12  
+reconverti  
+au R416a
+Les dangers du fluide frigorigène  
+pour l’environnement
+Fluides  
+frigorigènesObservations
+R12 (CFC) Participe à la destruction de la couche 
+d’ozone et à l’augmentation de l’effet  
+de serre.
+R134a (HFC) Participe à l’augmentation  
+de l’effet de serre.
+R744 (C02) Participe à l’augmentation  
+de l’effet de serre.
+R413a (HFC) Participe à l’augmentation  
+de l’effet de serre.
+R416a (HCFC) Participe à la destruction de la couche 
+d’ozone et à l’augmentation de l’effet  de serre.DÉFINIR
+Lire attentivement la notice du matériel de métrologie utilisé.
+> >Le pied à coulisse  est une règle rigide graduée en millimètres et portant un bec fixe. Sur cette 
+règle glisse un coulisseau muni d’un vernier et d’un bec mobile. Le coulisseau possède à sa 
+partie supérieure  une vis de pression qui permet l’immobilisation sur la règle et un lardon qui permet le réglage du jeu.
+> >Le micromètre  est un appareil en forme de U qui a une précision au 100e (0,01mm). La 
+règle est graduée en 2  graduatio
+ns décalées en mm. Le tambour quant à lui est divisé en 50 
+parties égales (cas d’un micromètre au 100e de mm). La touche mobile peut être verrouillée 
+à l’aide du dispositif de verrouillage.UTILISATION DU PIED À COULISSE  
+ET DU MICROMÈTR
+E (MÉTROLOGI
+E)
+	Utiliser le pied à coulisse (calibre à cou-lisse) et le micromètre correctement. 	Un pied à coulisse.
+	Un micromètre.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES60
+OBJECTIF
+Vis de pressionCoulisseau
+Regle graduéeBec fixe
+Bec mobileVernier
+Lire le nombre 
+de mm entier 
+à gauche du zéro 
+du vernier : 
+99 mm
+Rechercher 
+la graduation 
+du vernier la plus 
+en face de la règle
+Lire 0,52
+2/100 mmLe pied à coulisse 
+Exemple de lecture avec un vernier  
+au 50e mm. Rajouter 99 + 0,52 = 99,52 mmMESURER
+Mesurer avec  
+un pied à coulisse
+1. Lire sur la règle le nombre de mm 
+entiers situés à gauche du 0 du ver-nier (côte nominale).
+2. Rechercher sur le vernier une gra-
+duation qui correspond à une gradua-tion de la règle.
+ Le vernier peut être divisé en 
+50 graduations (pied à coulisse au 
+50e de mm), en 20 graduations (pied 
+à coulisse au 20e de mm), etc.
+ Chaque éc
+art de graduation sur le 
+coulisseau vaut 0,02 mm ou 2/100 mm (pied à coulisse au 50
+e de mm), 
+et 0,05 mm ou 5/100 mm (pied à cou-lisse au 20
+e de mm).
+3. Compter le nombre de graduations 
+situées entre le 0 du vernier et la gra-duation trouvée.
+4. Donner la valeur en mm.
+Attention
+ : pour la mesure des dimen-
+sions intérieures, 
+ne pas oublier d’ajou-
+ter l’épaisseur des becs du pied à cou-lisse c’est à dire 2 fois 5
+ mm soit 10 mm.Mesurer avec un micromètre
+1. Lire le nombre de mm entier situé à 
+gauche de la tranche du tambour.
+2. Lire le ½ mm (si la graduation est vi-
+sible) situé entre le dernier mm entier 
+et la tranche du tambour.
+ Lorsque l
+e tambour tourne de 1 tour, 
+la touche mobile se déplace de 0,5 mm (cas d’un micromètre au 100
+e de mm).
+3. Lire le nombr
+e de 1/100 de mm sur le 
+tambour.
+4. Additionner les trois valeurs précé-
+dentes et donner la côte en mm.
+Remarque  : La vis de
+ serrage possède un 
+limiteur de couple afin de ne pas «  écra-
+ser » la pièc
+e à mesurer qui donnerait une 
+lecture fausse. Avant utilisation, il convient de vérifier la propreté des becs et l’éta-lonnage, en mettant les becs mobile et fixe en contact à l’aide de la vis de ser-rage. Certains micromètres possèdent une ouverture minimale de 25 mm ou plus, il convient d’insérer une cale étalon entre les deux becs afin de vérifier la mise à zéro.
+Les instruments de métrologie sont très fragiles, il convient donc de les manipuler avec précautions.À NOTER
+Touche fixe Douille (règle) Vis de serrage 
+d’un limiteur de coupleTambour Corps Touche mobile 
+Ligne de foi ou génératrice de repérage
+Dispositif d'immobilisation de la touche 
+Précision du micromètre
+Plage de mesure 
+                       Le micromètre
+Lire le nombre de mm à gauche
+de la tranche du tambour : 7 mm 
+Ajouter 0,5 mm 
+si la graduation
+est visible : 
+7,50 mm  
+Ajouter la valeur 
+du tambour : 0,15 mm 
+Exemple de lecture  
+avec un vernier au 100e de mm
+Ajouter les valeurs : 7,50 + 0,15 = 7,65 mmORGANISER SON POSTE DE TRAVAIL
+Lire attentivement la notice du matériel de 
+métrologie utilisé.
+Le comparateur est constitué d’un cadran mo-
+bile divisé en 100 parties égales, d’une aiguille et d’une pointe de touche. Un déplacement de la pointe de touche de 1 millimètre correspond à un tour d’aiguille. Il permet de comparer une surface de référence (marbre) à la surface de la pièce à contrôler au 100
+e de mm.
+MESURER
+Mesurer avec un comparateur
+1. Veiller à la propreté de toutes les surfaces 
+de contact participant à la mesure.
+2. Le socle du comparateur est posé sur le 
+marbre. Régler  la position du comparateur 
+en s’assurant  :
+• que la touche est bien en contact av
+ec 
+la pièce,
+• que le socle n’est pas trop éloigné de 
+la 
+pièce à contrôler.
+3. Placer la touche le plus perpendiculaire-
+ment possible à la surface du marbre.
+4. Lever la touche puis placer la pièce sous le 
+palpeur. Abaisser le palpeur en l’accompa-gnant.
+5. Mettre le cadran à 0. On déplace le com-
+parateur sur la surface du marbre et on observe le déplacement de l’aiguille sur le cadran
+ :
+• l’aiguille ne se déplace pas, la pièce est donc plane sur cet axe,
+•
+ l’aiguill
+e se déplace, la pièce a donc une 
+pente. Le sens de déplacement du socle et de l’aiguille donnera le sens de la pente,UTILISATION D U COMPARATE UR 
+(MÉTROLOGI
+E)
+	Utiliser le comparateur correctement.
+	Un comparateur.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES61
+OBJECTIF
+Bouton de palpeur
+Socle magnétiqueTouche ou palpeur 
+Support avec noix
+                      Le comparateur• dans le cas d’une surface cylindrique On 
+fait tourner la pièce dans les vés 
+de cen-
+trage. On observe le déplacement de l’ai-guille sur le cadran et comme précédem-ment il nous renseignera sur la rectitude de l’arbre.
+Les instruments de métrologie sont très fragiles, il convient donc de les manipuler avec précautions.À NOTERExemples de mesure avec un comparateur. 
+                   Surface plane
+              Surface cylindrique 
+                Exemples de mesure  FICHE
+FICHE DE RELEVÉ  
+DES CONTRÔLES
+ÉlÉments  
+À mesurer  
+ou contrÔles 
+À rÉaliserm
+atÉriel 
+utilisÉconditions  
+du contrÔle  
+et/ou bornes 
+mesurÉes (
+m
+esure 
+Électrique)Valeurs  
+constructeurValeurs 
+rele
+V
+Éesc
+onclusionsFICHE
+62FICHE
+Les déchets principaux  
+d’un atelier de mécanique
+DÉCHETS DANGEREUX
+DÉCHETS STOCKAGE DESTINATION
+Huile de vidange Cuve à huile usagée Régénération
+- Incinération en cimenterie (valorisationénergétique
+ 
+: utilisation comme combustible)
+Liquide de refroidissement  et Lave glaceFût spécifique «
+ 
+liquide  
+de refroidissement
+ 
+» - Régénération ou incinération  pour production d’énergie
+Liquide de frein Fût spécifique «
+ 
+ liquide  
+de frein
+ 
+»- Régénération ou incinération  pour production d’énergie
+Aérosols Container «
+ 
+bombes  
+et solvants
+ 
+»Recyclage du métal après récupération  et destruction des gaz.
+Chiffons - Les chiffons gras, souillés
+ 
+:
+  
+container «
+ 
+emballages gras
+ 
+»- Lavage et recyclage- Incinération
+Boues et séparateur d’hydrocarbureFût spécifique - Incinération- Traitement physico-chimique
+Liquide frigorigène Bouteille de gaz spécifique (climatisation)Réemploi
+Carburant Fût spécifique Réutilisation
+Batterie Container «
+ 
+batteries
+ 
+» Broyage
+ 
+:
+- Recyclage du plomb- Incinération des plastiques- Traitement de l’électrolyte
+Emballages souillés Container «
+ 
+emballages gras
+ 
+» Broyage et incinération
+Filtres à huileFiltre à gazoleFiltre à essenceFût spécifique  «
+ 
+filtres à huile
+ 
+»Broyage, centrifugation et pressage
+ 
+:
+- Huiles
+ 
+: régénération ou incinération
+- Papier
+ 
+: incinération
+- Métal
+ 
+: valorisation matière
+Pots catalytiques Container spécifique  pour les pots catalytiques- Récupération des métaux précieux  (or, argent, platine…)- Recyclage des céramiques- Valorisation de l’acier
+Absorbant de sol sale  ou poussière de balayageFût «
+ 
+absorbant de sol
+ 
+» Régénération ou incinération
+DÉCHETS NON DANGEREUX
+DÉCHETS STOCKAGE DESTINATION
+Pièces métalliques Container «
+ 
+métaux
+ 
+» Tri chez le ferrailleur puis broyage  et valorisation
+Plastiques et caoutchoucs Container «
+ 
+métaux
+ 
+» Valorisation matière ou incinération
+Pneus Aire de stockage des pneus - Rechapage
+- Valorisation matière- Incinération
+Déchets d’équipement  électriques et électroniquesContainer «
+ 
+métaux
+ 
+» Recyclage et/ou élimination par des filières spécialisées
+Métaux non ferreux Container «
+ 
+métaux
+ 
+» Valorisation matière
+Papiers et cartons Container «
+ 
+emballages 
+ propres
+ 
+»Réutilisation comme matière première  dans la fabrication de cartons ou de papiers
+Pare brise et vitrages Container «
+ 
+métaux
+ 
+» Valorisation matière sous forme de calcin
+VALORISATION (réutilisation des déchets comme matière première) = RECYCLAGEFICHE
+63

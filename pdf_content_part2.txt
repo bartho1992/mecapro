@@ -1,0 +1,2268 @@
+ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Le type d’allumage qui équipe le moteur.
+> >Le schéma électrique.
+> >Les numéros repères des différentes bornes 
+des éléments.
+> >La méthode préconisée.
+> >Les valeurs constructeur.
+Préparer
+> >Un multimètre et/ou une valise de contrôle (diagnostic) conçu spécialement à cet usage.
+> >Effectuer tous les contrôles préliminaires  :
+• Présence d’étincelle à la bougie .
+• La batte
+rie : U = 12  V minimu
+m (voir fiche 
+concernée).
+• Les bougies  : voir la fiche précédente.
+• Si c’est
+ un allumage jumostatique, il 
+faut contrôler l’état des fils haute ten-sion
+ (faiscea
+u d’allumage) et leur conti-
+nuité : 1500  W ≤ R ≥ 2000 W 
+selon le 
+type et la longueur des fils (voir valeur constructeur). Si l’ohmètre indique l’in-fini
+ : un fil 
+est coupé.
+> >Le système d’injection est en état de fonc-tionnement.
+CONTRÔLER – MESURER
+1.  Vérifier l’ordre d’allumage (pour un allu-
+mage jumostatique).
+2.
+  Contrôle
+r les fusibles du circuit de gestion 
+moteur à l’aide de l’ohmètre  : R = 0 W.
+3
+.  Contrôle
+r l’alimentation en + APC du cal-
+culateur  à l’aide du voltmètre : U = 
+U bat-
+terie.CONTRÔLER  
+UN SYSTÈME D’ ALLUMAGE
+	Identifier les différents éléments compo-sant le système d’allumage.
+	Contrôler les éléments d’un système d’al-lumage.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	Un multimètre et/ou un appareil de dia-gnostic
+	Un oscilloscope
+	L’outillage courantMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES22
+OBJECTIF
+Oscilloscope
+Bobine jumostatique
+Bobine statique
+Alimentation 
+bobine (exemple)4.  Contrôler la masse du calculateur à l’aide 
+de l’ohmètre  : R = 0 W.
+5. Vérifier l’état 
+des connexions du circuit 
+d’allumage (bloc bobines, calculateur).
+6. Contrôler la cont inuité des fils reliant le cal-
+culateur aux différents éléments du circuit 
+d’allumage  à l’aide
+ de l’ohmètre  : R = 0 W.
+7. Contrôler la résistance des bobines pri-
+maires d’allumage 
+à l’aide de l’ohmètre  : 
+0,1W ≤ R ≥	1 W (voir valeurs constructeur).
+8.
+  Contrôle
+r la résistance des bobines se-
+condaires à l’aide de l’ohmètre  : 9000 W ≤ 
+R ≥	15 000 W (voir valeurs constructeur).
+9.  Mesurer l’alimentation 
+des bobines pri-
+maire en + APC à l’aide du voltmètre  : 
+U = U batterie.
+10. Con
+trôler la résistance du capteur régime 
+et position (type inductif) à l’aide de l’oh-mètre
+ (voir valeurs constructeur).
+11. C
+ontrôler le signal émis par le capteur 
+(moteur tournant au démarreur) à l’aide d’un oscilloscope
+ :
+       
+                            
+ .
+12. Contrôler la continuité des fils reliant le 
+capteur vitesse position au calculateur à l’aide d’un ohmètre
+ : R = 0 W.
+13. Co
+ntrôler la résistance interne du capteur 
+de pression d’air à l’aide de l’ohmètre  (voir 
+valeurs constructeur).
+14. Contrôle
+r l’alimentation du capteur de 
+pression d’air par le calculateur à l’aide du voltmètre
+ : U = 5 Volts.
+15. Co
+ntrôler la continuité des fils reliant le 
+capteur de pression d’air au calculateur à l’aide de l’ohmètre
+ : R = 0 W.
+16. Co
+ntrôler le signal émis par le capteur de 
+pression d’air à l’aide d’une pompe à dé-pression et d’un voltmètre
+ : A la Pa  : U = 5 
+V ; A Pa – 200mb  : U = 2,2 V (voir v
+aleurs 
+constructeur).
+17. Si tous les contrôles sont corrects es-sayez de démarrer, si la 
+panne per-
+siste changer le calculateur de ges-tion moteur.
+Il peut y avoir détérioration du sys-tème d’allumage si on contrôle la pro-duction d’étincelles en débranchant un fil de bougie et en faisant un essai directement sur le bloc moteur. Il est conseillé d’utiliser dans ce cas un «
+ éclateur  ».  À NOTER
+Résistance primaire sur bobine 
+jumostatique (exemple)
+Résistance primaire sur bobine 
+statique (exemple)
+1
+2
+34
+Résistance secondaire sur bobine 
+jumostatique (exemple)
+Capteur régime
+et position moteurDe 1 850
+à 2 450 Ω
+à 20 °C
+Résistance du capteur régime  
+et position moteur (exemple)ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue  
+technique du véhicule
+> >Le type de garde d’embrayage.
+> >Le type de commande (par câble ou 
+hydraulique).
+> >La valeur du jeu.
+> >La méthode préconisée.
+RÉALISER L’INTERVENTION
+Contrôles préliminaires
+> >La butée est toujours en appui sur le mécanisme.
+> >Mesurer le jeu entre la position de repos de la pédale et sa position en fin de course haute.
+Nota
+ : on observe dans ce cas que 
+les pédales 
+de frein et d’embrayage sont à la même hau-teur.
+Vérifier
+> >L’absence d’obstacles (surtapis…) sur la course de la commande de débrayage.
+> >L’emboîtement du câble de commande de débrayage sur le tablier.
+> >Le cheminement du câble de commande de débrayage.
+Régler
+1. Débloquer le contre-écrou situé sur la tige 
+filetée ou sur la gaine selon le cas.
+2. Tourner l’écrou de réglage pour ajuster le 
+jeu à la valeur demandée.
+3. Resserrer le contre-écrou.CONTRÔLER ET RÉGLER  
+LA GARDE D’EMBRAYAGE
+	S’assurer qu’en position débrayée le mécanisme n’est pas sollicité. Dans le cas contraire, le disque risque de patiner lorsque la transmission est en prise.	La revue technique du véhicule
+	L’outillage courantMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES23
+OBJECTIF
+Butée
+Jeu
+Pédale
+Jeu vers le haut
+Kit embrayage4. Contrôler à nouveau.
+Dans le cas d’une commande par câble à rat-
+trapage automatique il faut consulter la mé-thode constructeur.
+Dans le cas d’une commande hydraulique, le 
+réglage s’effectue sur la tige de poussée du cylindre récepteur. Le cylindre récepteur ne comporte pas toujours de réglage. Dans ce cas lorsque la garde est trop importante, il faut effectuer une purge du circuit (voir méthode constructeur).
+Pour effectuer la purge du circuit ne pas 
+utiliser d’appareil de purge automatique (ris-que d’émulsion du liquide dans le circuit) et n’utiliser que du liquide de frein neuf.
+Contrôler
+1. Serrer fortement le frein à main ou mettre 
+une cale. Faire tourner le moteur.
+2. Débrayer et passer la 4e ou la 5e vitesse.
+3. Accélérer le moteur fortement et lâcher la 
+pédale d’embrayage  : le moteur doit caler 
+immédiatement.
+4. S
+i après un réglage  complet de la garde, le 
+moteur ne cale pas immédiatement, il peut s’agir
+ :
+• de l’usure des garnitures du disque ou d’une faiblesse du mécanisme
+•
+ de la présence d’huile sur la garniture 
+du 
+disque.
+• Dans les deux cas, le remplacement de l’embr
+ayage est nécessaire (voir fiche 
+suivante).
+Pour les véhicules à embrayage au-tomatique, leur bon fonctionnement est lié en parti au niveau correct de l’huile du convertisseur.À NOTER
+Embout fileté
+Câble
+Extrémité de
+la fourchette Écrou Nylstop
+ou écrou + 
+contre-écrou Axe
+FourchettePurgeur
+Cylindre
+récepteurTige de
+poussée Écrou
++ contre
+-écrou
+Régler la gardeORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La méthode de démontage.
+> >Les couples de serrage.
+> >La méthode de réglage de la garde d’em-
+brayage (si elle est réglable).
+Préparer
+Déposer la boîte de vitesses  :
+> >Vidanger la boîte de vitesses.
+> >Déposer les roues, les étriers de frein…
+> >Déposer les transmissions gauche et droite.
+> >Déposer le démarreur.
+> >Déboîter la timonerie de boîte de vitesses.
+> >Déposer le collier d’échappement côté col-lecteur.
+> >Déposer les vis de fixation de la cloche d’embrayage.
+> >Désaccoupler le moteur de la boîte.
+RÉALISER L’INTERVENTION
+Déposer
+1. Repérer la position du mécanisme par rap-
+port au volant moteur. Immobiliser le volant moteur.
+2. Dévisser progressivement les vis de fixa-
+tion du mécanisme.
+3. Déposer le mécanisme en empêchant le 
+disque de tomber. Observer immédiate-ment le sens du disque (déport côté volant moteur ou côté boîte).
+4. Déposer la butée.REMPLACER ET CONTRÔLER  
+UN EMBRAYAGE
+	Réaliser le diagnostic du système d’em-brayage
+	Déposer, reposer l’embrayage	La revue technique du véhicule
+	L’outillage courant
+	Un centreur d’embrayage
+	Une clé dynamométrique
+	Un kit d’embrayage neuf (en cas de rem-
+placement complet)MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES24
+OBJECTIF  
+Examen de l’état
+de la piste de frottement
+du volant moteur                Centreur d’embrayage
+Contrôler
+1. Le disque  : 
+• Usure de la garniture par rapport aux 
+riv
+ets.
+• Traces d’huile sur la garniture.
+• Ressorts cassés ou ayant trop de jeu.
+• Cannelures abîmées.
+2. Le mé
+canisme  :
+• Déformation du diphragme.
+• Usure des extrémités par frottement de la butée.
+•
+ Rayures 
+ou bleuissement du plateau pres-
+seur.
+3. La butée  :
+• Essayer d’élancer la bague tournante, elle doit 
+tourner sans bruit et s’arrêter 
+rapidement.
+• Ergots de maintien (non cassé, non tordu).
+4. La fourchette  : usure des extrémités
+5. Le v
+olant moteur  :
+• Face d’appui rayée ou 
+bleuie (parfois pos-
+sibilité de rectification).
+Préparation pour la repose  
+de l’embrayage
+1. Nettoyer et dégraisser  :
+• Le volant moteur.
+• La cloche d’embrayage.
+2. To
+iler le plateau presseur du mécanisme.
+3. Lubrifier très légèrement  :
+• Le guide de la butée.
+• Les appuis et articulations de la four-chette.
+•
+ La bague pilote de l’arbre primaire ou 
+le 
+roulement.
+• Les cannelures de l’arbre primaire.
+Nota  : Utiliser le berlingot de graisse fourni 
+a
+vec le kit. Tout excès entraînera à terme un 
+échange de l’embrayage
+Reposer
+1. Enduire légèrement de graisse les canne-
+lures du disque.
+2. Remonter le disque en plaçant le centreur 
+d’embrayage dans la bague du volant mo-teur (attention au sens du disque).
+3. Reposer le mécanisme en respectant les 
+repères faits au démontage (en cas de re-montage de l’ancien mécanisme).
+4. Serrer progressivement en croix les vis de 
+fixation du mécanisme jusqu’au couple pré-conisé.
+5. Monter la butée sur son guide en prenant 
+soin de vérifier sa position et son accrochage.
+6. Reposer la boîte de vitesses.
+7. Régler la garde d’embrayage si nécessaire 
+(voir fiche précédente).Ne pas oublier de remettre l’huile dans la boîte de vitesses et mettre à niveau, de régler la garde d’em-brayage si nécessaire et de tester l’efficacité.
+En cas de remplacement, il est préco-
+nisé de changer le kit complet (disque + mécanisme + butée).À NOTER
+Repérer
+Dévisser
+Volant 
+moteur
+Disque
+Mécanisme
+Butée
+Repères de
+démontage
+Approcher,
+serrer la
+diagonale
+Mandrin de centrageORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La méthode particulière au type de véhicule.
+> >La contenance d’huile de la boîte de vitesses.
+> >Les couples de serrage (écrou de moyeu, 
+rotules, étrier de frein…).
+Préparer
+> >Vidanger la boîte de vitesses.
+RÉALISER L’INTERVENTION
+Déposer
+1. Déposer si nécessaire l’enjoliveur de roue
+2. Si la roue comporte un trou central, déblo-
+quer l’écrou de moyeu (couple en géné-
+ral élevé) sinon utiliser l’outil de blocage. Débloquer les vis de la roue. Lever le côté avant à démonter, placer une chandelle, déposer la roue. Dévisser complètement l’écrou de moyeu.
+3. Déposer l’étrier de frein complet et le sus-
+pendre afin que le flexible ne soit pas en tension (ne pas dévisser le flexible).
+4. Extraire la rotule de direction à l’aide d’un 
+arrache-rotule.
+5. Séparer le porte-fusée du bras de suspen-
+sion inférieur (rotule inférieure).
+6. Écarter le porte-fusée tout en repoussant la 
+transmission vers l’intérieur. 
+Attention
+ : En cas 
+de point dur, revisser lé-
+gèrement l’écrou de moyeu. Frapper avec un gros marteau par l’intermédiaire d’un jet en bronze.REMPLACER  
+UNE TRANSMISSION
+	Démonter et remonter une transmission d’un véhicule. 	La revue technique du véhicule
+	L’outillage courant
+	Un arrache - rotule
+	
+La douille de gros diamètre correspondant 
+à l’écrou de transmission (écrou de moyeu)
+	La transmission neuveMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES25
+OBJECTIF  
+Cales Chandelle
+Débloquer l’écrou de moyeu7. Dégager l’extrémité de la transmission du 
+porte-fusée.
+8. Déposer le système de maintien côté boîte-
+pont si la transmission en compte un. 
+9. Tirer sur la transmission en plaçant la main 
+derrière le soufflet pour éviter un déboîte-
+ment éventuel.
+Reposer
+1. Nettoyer au dégraissant les portées de la 
+transmission neuve aux deux extrémités.
+2. Emboîter le côté boîte-pont en vérifiant la 
+bonne mise en place.
+3. Emmancher les cannelures dans le moyeu. 
+Ne pas frapper. Visser l’écrou (neuf).
+4. Fixer le porte-fusée sur le bras inférieur. 
+Visser la rotule de direction (écrou neuf).
+5. Visser l’étrier sur son support (clé dynamo-
+métrique).
+6. Remonter les plaquettes, vérifier l’état de 
+l’ensemble du frein (fuites, usure, rayures sur le disque).
+7. Remonter la roue et reposer le véhicule. 
+Serrer l’écrou de moyeu au couple.
+8. Remettre l’huile dans la boîte de vitesses et 
+faire le niveau. Appuyer plusieurs fois sur la pédale de frein afin de rapprocher les pla-quettes sur le disque.
+9. Faire un essai du véhicule.
+Mettre de l’huile neuve pour le rem-plissage de la boîte de vitesses.À NOTER
+Outil de blocage                     Arrache rotuleORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La méthode de démontage particulière au 
+type de joint homocinétique.
+> >Identifier le type de montage de la trans-mission.
+Préparer
+> >Déposer la transmission du côté concerné (voir fiche précédente).
+RÉALISER L’INTERVENTION
+Dans le cas du joint tripode, c’est un remplace-ment de soufflet côté roue. Pour les soufflets côté boîte, il faut voir la méthode préconisée par le constructeur.
+Démonter
+1. Couper, à l’aide d’une pince, les colliers 
+existants en prenant garde de ne pas bles-ser les gorges du bol fusée.
+2. Enlever un maximum de graisse.
+3. Dégager le bol fusée de l’arbre de transmis-
+sion en soulevant une à une les branches de l’étoile de retenue (2, figure 1).
+Nota
+ :
+• Ne pas tordre les branches de l’étoile.
+• Récupérer la rotule d’appui, le ressort, la cale sous rotule.
+•
+ La cale sous rotule est d’épaisseur adap-tée 
+au jeu axial d’origine. Cette cale est à 
+conserver et sera réutilisée au montage.
+4. Dégraisser totalement les pièces.REMPLACER UN SOUFFLET DE 
+TRANSMISSION (joint tripode)
+	Remplacer un soufflet de transmission quelque soit le type de montage après avoir constaté un déchirement du souf-flet ou un jeu important dans la trans-mission.	La revue technique du véhicule
+	L’outillage courant
+	Cône de montage (tulipe)
+	Pince à ressort (pour soufflet)
+	
+Un soufflet neuf avec la quantité de graisse 
+suffisanteMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES26
+OBJECTIF
+2Pince pour collier de soufflet de 
+transmission (pince à ressort)
+Figure 1Remonter
+1.  Placer la transmission inclinée dans un 
+étau muni de mordaches.
+2. Engager l’outil  à fond sur la tulipe (figure 2).
+3. Lubrifier soigneusement et copieuse-
+ment avec de l’huile moteur propre:
+•  l’ensemb
+le de  l’outil (branche et cen-
+trage),
+•  la parti
+e intérieure du soufflet.
+4. Présenter le soufflet sur l’extrémité de 
+l’outil.
+5.  Disposer un chiffon propre autour d’une 
+main et la placer
+ sur le soufflet de façon à 
+bien étendre le premier pli.
+6.  Disposer l’autre main autour de la pre-
+mière et 
+tirer en veillant à ne pas replier 
+le premier pli du soufflet.
+7.  Amener le soufflet le plus près possible 
+de la 
+partie cylindrique de l’outil et le lais-
+ser revenir jusqu’à mi-course (figure 3).
+8.  Recommencer cette opération plusieurs 
+fois (maximum 5 fois) 
+de façon à assou-
+plir le caoutchouc du soufflet. Ne pas hé-
+siter à relubrifier les branches de l’outil en cours d’opération. Lorsque l’on sent que le coulissement devient plus facile, faire passer le soufflet sur la partie cylindrique de l’outil sans marquer de temps d’arrêt. Placer le ressort et la rotule d’appui dans le tripode.
+9. 
+ Amener les galets vers le centre. Posi-
+tionner l’étoile de retenue (2, figure 4).
+10. 
+Engager la tulipe dans le bol fusée. Bas-
+culer l’arbre pour engager une branche de l’étoile de retenue dans une encoche de la tulipe et appuyer pour la centrer cor-rectement. La mise en place des deux autres branches sera facilitée en utilisant par exemple un tournevis dont l’extrémité sera modifiée.
+11. S’assurer que les branches de l’étoile de 
+retenue sont en place dans leur logement.
+ Incliner l’arbre dans le plan d’une des 
+branches de 
+l’étoile, la rotule sous l’effet 
+du ressort décolle.
+12. Introduire la cale sous la tête de rotule. 
+Celle-ci ne doit pas dépasser de la tête de rotule.
+ Vérifier le fonctionnement du joint à la 
+main. Aucun 
+point dur ne doit apparaître. 
+Répartir dans le soufflet et dans le bol la quantité de graisse préconisée.
+13. Positionner les deux talons du soufflet 
+dans les gorges du bol fusée et bien en appui sur le tube de transmission.
+14. Fixer les deux colliers du soufflet avec la 
+pince appropriée.Il est possible de remplacer le soufflet quel qu’il soit, côté roue, sans déposer la transmission du véhicule à l’aide d’un cône approprié et d’un soufflet standard spécifique à cet usage.À NOTER
+2Figure 2
+T.AV. 586-01 T.AV. 537-02
+Figure 3
+Figure 4ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La méthode de démontage particulière au 
+type de joint homocinétique.
+> >Identifier le type de montage de la trans-mission.
+Préparer
+> >Déposer la transmission du côté concerné (voir fiche 25).
+RÉALISER L’INTERVENTION
+Dans le cas du joint à billes, c’est un remplace-ment de soufflet côté roue. Pour les soufflets côté boîte, il faut voir la méthode préconisée par le constructeur.
+Démonter
+1. Couper le collier et le soufflet sur toute sa 
+longueur.
+2. Enlever le maximum de graisse.
+3. Écarter le segment d’arrêt (7, figure ci-
+contre) et simultanément, appliquer quelques coups de maillet sur la face frontale du moyeu à billes (5).
+4. Séparer ainsi le joint de l’arbre.REMPLACER UN SOUFFLET DE 
+TRANSMISSION (joint à billes)
+	Remplacer un soufflet de transmission quelque soit le type de montage après avoir constaté  un déchirement du souf-flet ou un jeu important dans la trans-mission.	La revue technique du véhicule
+	L’outillage courant
+	Cône de montage (tulipe)
+	Pince à ressort (pour soufflet)
+	
+Un soufflet neuf avec la quantité de graisse 
+suffisanteMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES27
+OBJECTIF
+7
+5         Pince pour collier de soufflet  
+                   Segment d’arrêt  Remonter
+1. Engager sur l’arbre (figure ci-contre)  : le 
+collier caoutchouc (A), le soufflet (3).
+2. Emma
+ncher le joint à billes (1) muni de 
+son segment d’arrêt sur les cannelures de 
+l’arbre jusqu’en butée du segment de la gorge (B) de l’arbre.
+3. Répartir dans le soufflet et dans le bol de 
+fusée la quantité de graisse préconisée.
+4. Positionner les lèvres du soufflet dans les 
+gorges du bol et de l’arbre de transmission.
+5. Fixer les deux colliers du soufflet avec la 
+pince appropriée.
+Il est possible de remplacer le soufflet quel qu’il soit, côté roue, sans déposer la transmission du véhicule à l’aide d’un cône approprié et d’un soufflet standard spécifique à cet usage.À NOTER
+A
+B3 1
+2
+                 Remonter le soufflet ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue  
+technique du véhicule
+> >La méthode de réparation constructeur.
+> >Les couples de serrage.
+> >Les valeurs de réglage.
+> >Les références des outillages spécialisés.
+Préparer
+> >Vidanger la boîte de vitesses.
+> >Déposer la boîte de vitesses (voir la fiche   
+24 et la revue technique).
+> >Placer si possible la boîte sur un support 
+approprié.
+> >Travailler sur un établi propre et dégagé.
+> >Préparer des boîtes de rangement afin de classer les pièces scrupuleusement.
+RÉALISER L’INTERVENTION
+Démonter
+1. Suivre méticuleusement les instructions 
+du constructeur en ce qui concerne la chronologie de démontage et les outils à utiliser. Repérer la longueur des vis sur les carters et les noter.
+2. Repérer les éléments de la boîte de vi-
+tesses, leur sens, leur position et les noter. Les classer séparément dans des boîtes de rangement
+ :
+• arbre primaire et ses éléments de mise en position,
+•
+ arbre secondaire et ses éléments de mise en position,
+•
+ pignonne
+rie des 1re, 2e, 3e, 4e, 5e vitesses 
+et les synchroniseurs,
+• pignonne
+rie et renvoi de marche arrière,CONTRÔLER ET RÉGLER  
+UNE BOÎTE DE VITESSES
+	Démonter et remonter entièrement une boîte de vitesses dans le but d’identifier et de contrôler les différents éléments
+	Déterminer et remplacer un élément défectueux de la boîte de vitesses	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	L’outillage courant
+	Une clé dynamométrique
+	L’outillage spécialisé préconiséMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES28
+OBJECTIF
+1 : arbre primaire    
+2 : arbre secondaire    
+3 : fourchette 1re - 2e
+4 : fourchette 3e - 4e
+5 : fourchette 5e - 6e6 : fourchette marche arrière 
+7 : axe de marche arrière 
+8 : couronne de différentiel 9 : différentiel 10 : mécanisme de sélection 
+11 : levier de passage 310
+23 4
+56
+761
+8
+9117
+1011
+23814
+5
+9• coulisseaux, fourchettes et verrouillages,
+• couronne et boîtier de différentiel, élé-
+ments de mise en position (boîte-pont).
+Contrôler et remplacer  
+(si nécessaire)
+1. Les dents des pignons ne doivent pas être 
+trop fines, ni présenter d’arrachement côté attaque. 
+2. Les bagues des synchroniseurs ne doivent 
+pas présenter de traces d’usure.
+3. L’entrée des crabots ne doit pas être cou-
+pante.
+4. Le système de verrouillage des synchroni-
+seurs (bielles, ressorts, clavettes) ne doit pas être détérioré.
+5. L’état des roulements (bruits, jeu).
+6. L’usure des fourchettes en les replaçant 
+dans les gorges des synchroniseurs.
+7. Les coulisseaux, marqués aux cavités des 
+billes de verrouillage.
+8. Les billes et ressorts de verrouillage, l’état 
+du système d’interdiction.
+9. L’état du sélecteur côté commande et côté 
+coulisseau.
+Remplacer si nécessaire les éléments dé-fectueux.
+Remonter et régler
+1. Remonter chaque arbre dans sa position 
+précise. Elle est assurée à une seule extré-mité (pour prévenir les contraintes méca-niques et thermiques). On doit retrouver les 4 points de contact
+ :
+	arbre dans roulement  :
+• immobilisation d’un côté  →	épaulement 
+sur l’arbre  ;
+• immobilisation de l’autre côté → écrou 
+avec serr
+age au couple.
+	ensemble arbre + roulement dans 
+carter  :
+• immobilisation d’un côté → lamage, rai-
+nure dans le carter  ;
+• immobilisation de l’autre côté → appui 
+d’un couvercle.
+2. Effectuer les réglages demandés selon le 
+type de boîte en utilisant l’outillage spécifique 
+préconisé. Exemple sur une boîte-pont pour moteur longitudinal
+ : distan
+ce conique, jeu 
+de denture, précontrainte des roulements.
+Lorsqu’une boîte de vitesses ayant un kilométrage élevé présente une usure généralisée, il est préférable de prévoir son échange standard, ou son remplace-ment pour une boîte de vitesses neuve.À NOTER
+Simple
+guidageCouvercle
+Pignonnerie
+CarterArbre
+Mise en position des arbres
+ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Le type de montage  : 4 feins à disques ou 
+disques à l’avant et tambours à l’arrière.
+> >Le type de branchement du double circuit.
+> >Le type de correcteur de freinage.
+> >Le type d’ABS.
+> >Les caractéristiques des freins à disques  :
+• Type d’étrier.
+• Diamètre nominal du disque.
+• Épaisseurs nominale du disque et mini-
+male après usure.
+• Voile maximal du disque.
+• Écart maximal d’épaisseur du disque.
+• Épaisseur minimale des plaquettes.
+> >Les caractéristiques des freins à tambours  :
+• Diamètres nominal du tambour et maxi-mal après usure.
+•
+ Ovalisation maximale du tambour.
+• Épaisseur minimale des garnitures.
+> >Les caractéristiques du circuit hydraulique  :
+• Type de liquide de freins.
+• Périodicité de remplacement.
+> >Les couples de serrage.
+> >La méthode de réglage du frein à main.
+> >La méthode de démontage des plaquettes de freins et des mâchoires de freins à tam-bours.
+CONTRÔLER – MESURER
+> >Vérifier  que le voyant rouge indiquant un 
+niveau de liquide de frein trop bas ou une usure prononcée des plaquettes de frein ne soit pas allumé.
+> >Vérifier  que le voyant orange d’ABS ne soit 
+pas allumé.CONTRÔLER LE SYSTÈME  
+DE FREINAGE
+	Faire un diagnostic précis du système de freinage avant le passage au banc (contrôle technique)	La revue technique du véhicule 
+	Une fiche de relevé des contrôles 
+	L’outillage courant 
+	L’outillage de métrologie 
+	Un repousse–piston d’étrier
+	
+Appareil de contrôle pour le liquide de freinMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES29
+OBJECTIF
+1.   Servofrein2.   Maître-cylindre3.   Freins avant4.   Indicateur d’usure5.   Plaquette intérieure6.   Plaquette extérieure7.   Disque8.   Câble de frein de stationnement9.   Segments10. Cylindre récepteur11. Fr
+eins arrière1
+82
+3
+4
+5
+6 78
+91011Les freins à disques
+1. Déposer les plaquettes (voir fiche suivante)
+2. Contrôler l’épaisseur des plaquettes 
+3. Contrôler la conformité des disques (dia-
+mètre, épaisseur du chanfrein (collerette) 
+du rebord du disque)
+4. Contrôler l’épaisseur des disques à plu-
+sieurs diamètres et en 4 points à l’aide du micromètre.
+5. Contrôler le voile du disque (comparateur 
++ support aimanté) et son état de surface. Comparer avec les valeurs constructeurs. Une rectification est possible à condition de ne pas dépasser l’épaisseur minimale.
+6. Détecter les traces de gras autour du cache 
+– poussière et éventuellement sur le disque et les plaquettes. Repousser les pistons à l’aide d’une cale en bois ou les visser dans le cylindre selon le cas pour vérifier leur bon fonctionnement (il est préférable d’utiliser un repousse piston qui est l’outil approprié s’il est en votre possession).
+7. Noter tous les contrôles, remplacer ou ré-
+parer si nécessaire et remonter.
+Les freins à tambours
+1. Déposer le tambour.
+2. Mesurer le diamètre nominal au chanfrein 
+sur le rebord du tambour.
+3. Mesurer le 
+diamètre du tambour en 
+2 points.
+4. M
+esurer l’ovalisation du tambour.
+5. Vérifier l’état de surface. Une rectification 
+est possible à condition de ne pas dépas-ser le diamètre maximal autorisé. Mesurer 
+l’épaisseur des garnitures ainsi que l’état de surface
+ : traces de gras, rayures, etc.
+6. Ma
+nœuvrer les pistons des cylindres de 
+roue à la main pour vérifier s’ils ne sont pas grippés.
+7. Écarter les caches-poussières pour détec-
+ter les fuites. Actionner le frein à main et vérifier le bon coulissement des câbles et l’écartement des mâchoires.
+Le circuit hydraulique 
+1. Contrôler le maître-cylindre  : moteur tour-
+nant, freins en état → la course 
+à la pédale 
+doit être courte. Rester appuyé 1 min en-viron, la pédale ne doit pas aller au plan-cher. Contrôler le niveau dans le réservoir et l’état du liquide.
+2.
+ Contrôler l
+es canalisations rigides ou flexi-
+bles.Le système de freinage est très im-portant pour la sécurité du conduc-teur et des passagers.Un véhicule ne peut pas sortir d’un atelier avec des freins en mauvais état, la responsabi-lité du garagiste est engagée.À NOTER
+PisteCollerette
+Prendre
+4 mesures
+Comparateur           Contrôler l’usure du disque 
+         Contrôler le voile du disque 
+Contrôler le diamètre nominal  
+et l’ovalisation du tambourORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les recommandations particulières au mo-
+dèle de freins du véhicule pour dépose – re-pose des plaquettes + des disques.
+> >Le type exact de plaquettes.
+> >L’épaisseur minimale des disques.
+> >Le type de liquide frein préconisé.
+Préparer
+1. Caler et lever  le véhicule. Placer des chan-
+delles aux points prévus.
+2. Déposer les roues.
+3. Identifier le modèle de freins (étriers fixes 
+ou flottants), la marque et le type.
+4. Ouvrir le bouchon du réservoir de liquide 
+de freins pour voir si il est au niveau mini (sinon le vider jusqu’au mini) pour prévenir tout débordement lorsqu’on repousse les pistons.
+RÉALISER L’INTERVENTION
+Déposer
+1. Ne déposer qu’un côté à la fois afin de 
+conserver le montage de référence. Débran-cher le fil témoin d’usure sur la plaquette intérieure (si le véhicule en est équipé).
+2. Dégager le système de verrouillage des 
+plaquettes selon le modèle (clavettes, axe ou colonnettes).
+•
+ Pour les étriers fixes  et certains modèles 
+d’étriers flottants  : repousser les pla-
+quettes avec une 
+pièce de bois si on ne 
+dispose pas du repousse-pistons adéquat et extraire les plaquettes.REMPLACER DES PLAQUETTES 
+DE FREINS
+	Déposer, contrôler et reposer les pla-quettes de freins en respectant les pré-conisations du constructeur.
+	Contrôler et remplacer éventuellement les disques de freins	La revue technique du véhicule
+	Un jeu de plaquettes neuves + les disques 
+(éventuellement)
+	L’outillage courant
+	Un micromètre
+	Un comparateur avec son support
+	Un repousse-pistonsMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES30
+OBJECTIF  
+mini = 2 mm
+Épaisseur
+de la garniture
+Contrôle de l'épaisseur
+d'une plaquette de freinRepousser le piston
+Usure des plaquettes• Pour les étriers flottants, il faut démonter 
+tout ou partie de l’étrier selon le 
+modèle  ; 
+les plaquettes se dégagent latéralement.
+Contrôler
+1. Épaisseur de la garniture  : 2 mm mini-
+mum.
+2. Ét
+at du disque  (voir fiche précédente)  :
+• surface lisse (pas de rayure profonde),
+• épaisseur de piste en plusieurs points,
+• voile maximal du disque.
+3. État
+ de l’étrier  :
+• traces de gras,
+• grippage du piston,
+• état et montage du cache-poussière,
+• coulissement correct des glissières en cas d’étrier flottant.
+4. 
+État du flexible  :
+• fuites,
+• craquelures,
+• traces de frottement.
+Reposer et tester
+1. Nettoyer l’étrier, les pièces d’appui et de 
+coulissement.
+2. Repousser le ou les pistons à l’aide du re-
+pousse-pistons ou d’une pièce en bois le cas échéant. Si l’étrier comprend un piston qui se visse, tourner le piston en le repoussant (voir revue technique).
+3. Placer les éléments antibruit (s’ils existent) 
+dans la position trouvée au démontage. Remonter  les pièces dans l’ordre inverse 
+au démontage (comparer avec le côté non démonté pour le modèle).
+4. Actionner plusieurs fois la pédale de freins 
+pour rapprocher les plaquettes du disque. Vérifier la mise en place de tous les ver-rouillages. Faire le niveau dans le réservoir avec le liquide préconisé.
+5. Reposer et serrer les roues au couple.
+6. Faire un essai  du véhicule.
+En cas de fuite ou de grippage d’un piston, il est indispensable de remplacer l’étrier complet. Il peut être nécessaire de remplacer les deux étriers en cas de déséquilibre de la force de freinage. De même lorsqu’un disque présente un défaut grave (rayures profondes, différence d’usure d’un côté par rapport à l’autre), il faut remplacer les deux disques et mettre un jeu de plaquettes neuves. Les constructeurs préconisent de remplacer un jeu de disques au bout de deux remplacements d’un jeu de plaquettes.À NOTER
+Épaisseur du disque
+Voile du disqueORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les renseignements techniques particuliers 
+au modèle.
+> >La méthode de démontage et le réglage du frein à main.
+> >Le type de liquide frein préconisé.
+Préparer
+1. Caler et lever  le véhicule. Placer des chan-
+delles aux points prévus. Relâcher le frein à main et déposer les roues.
+2. Identifier le modèle de freins et son rattra-
+page automatique.
+3. Décrocher ou détendre  au maximum le 
+câble de frein à main par la vis de réglage sous le véhicule.
+RÉALISER L’INTERVENTION
+Déposer
+Déposer le tambour  :
+> >Ôter les vis de fixation ou retirer le bouchon 
+d’étanchéité du moyeu ainsi que l’écrou et la rondelle de fusée.
+> >Frapper  doucement autour du tambour 
+pour le décoller.
+> >Dépoussiérer  le tambour et les garnitures 
+à l’aide d’un pinceau et de nettoyant frein  
+(ne pas utiliser la soufflette).
+Démonter
+1. Ne démonter qu’un côté à la fois afin de 
+conserver un montage de référence.
+2. Ôter le ressort inférieur puis le ressort su-
+périeur (pince à freins).
+3. Mettre en place la pince à cylindres de 
+roues pour maintenir les pistons.REMPLACER DES FREINS  
+À TAMBOURS
+	Contrôler et remplacer les freins à tam-bours en respectant les préconisations du constructeur.	La revue technique du véhicule 
+	Un kit de frein complet 
+	Une pince à ressorts de freins 
+	Une pince à cylindres de roue 
+	Une clé à tuyauter 
+	Une bombe de nettoyant freinMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES31
+OBJECTIF  
+Cylindre de roue
+Garniture MâchoireFlasqueDéposer le tambour
+Pince 
+à cylindre
+Pince 
+à ressort
+Ne démonter qu’un seul côté à la fois 
+pour garder l’autre côté en modèle4. Dégrafer les ressorts de maintien latéraux 
+des mâchoires sur le flasque. Enlever les 
+mâchoires en repérant bien la position des ressorts et des différentes pièces de rattra-page automatique. 
+5. Déposer le segment primaire, la biellette et 
+le segment secondaire.
+6. Désaccoupler le câble de frein à main du 
+segment secondaire. S’assurer du bon cou-lissement du levier de frein à main.
+7. Déposer le cylindre de roue et boucher l’ar-
+rivée de liquide de frein venant du tuyau.
+Contrôler
+1. Le coulissement des câbles de frein à main 
+dans leurs gaines.
+2. L’usure des garnitures.
+3. Les fuites du cylindre de roue (en écartant 
+les cache-poussières) et vérifier qu’il ne soit pas grippé en contrôlant que les pistons in-térieurs se déplacent librement.
+4. Les ressorts, leviers et agrafes.
+5. L’ovalisation du tambour en prenant deux 
+mesures diamétralement opposées et son diamètre.
+6. L’état des roulements.
+Remonter
+1. Nettoyer avec la bombe de nettoyant frein 
+le flasque en évitant d’en mettre sur les roulements.
+2. Graisser légèrement le flasque à l’endroit 
+ou porte les segments pour éviter les grin-cements
+3. Monter le cylindre de roue neuf.
+4. Remonter les leviers de frein à main et de 
+rattrapage sur les nouvelles mâchoires.
+5.
+ Remonter tous 
+les éléments neuf dans 
+l’ordre inverse du démontage.
+ Remarque  : les consti tuants du mécanisme 
+de frein sont particuliers au coté droit et gauche, il est impératif de ne pas les panacher.
+6. Replacer les ressorts (pince ressorts de 
+freins). Placer le système de rattrapage en position de départ.
+7. Contrôler la bonne position de toutes les 
+pièces et leur fixation (comparer éventuel-lement avec l’autre côté).
+Reposer
+1. Nettoyer la piste du tambour de toute trace 
+de gras.
+2. Bien centrer  les mâchoires.
+3. Reposer le tambour et régler le câble de 
+frein à main.
+4. Purger le système de freinage (voir fiche 
+concernée), appuyer sur la pédale pour faire agir les systèmes de rattrapage.
+5. Faire un essai  sur route.Lors du remplacement des freins à tambour, il est préférable de changer les cylindres de roue mêmes s’ils ne fuient pas car souvent les fuitent se produisent peut de temps après et il faut donc refaire l’opération en rem-plaçant le kit complet puisque les gar-nitures sont imbibées de liquide frein dans ce cas là.
+Il est préférable de choisir des kits de 
+freins pré-montés. À NOTER
+Cylindre de roue
+Cache-poussière
+Piston
+GarnitureMâchoire
+           Contrôle de l’ovalisation
+ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les caractéristiques du circuit de freinage.
+> >Le type de double circuit.
+> >Le type de liquide frein préconisé (DOT 4…).
+Préparer
+> >Le bidon de liquide de freins correspondant 
+aux données constructeurs.
+> >Un tuyau en plastique souple dont le dia-mètre s’adapte sur les purgeurs.
+> >Une petite bouteille transparente.
+> >Une housse d’aile à placer impérativement sur l’aile avant gauche.
+1. Placer l’avant du véhicule sur chandelles 
+et déposer les roues (si cela est nécessaire pour accéder aux purgeurs).
+2. Soulever l’arrière du véhicule et placer le 
+sur chandelles uniquement s’il ne comporte pas de correcteur de freinage asservi à la suspension car celui-ci devrait alors détec-ter une charge.
+3. S’assurer que le niveau de liquide de frein 
+est au maxi, en rajouter si nécessaire. Lais-ser le bocal ouvert.
+4. Attention
+ : il y a u
+n ordre à respecter pour 
+effectuer la purge suivant le montage en H ou en 
+x. Il est 
+préférable de consulter 
+la revue technique du véhicule pour voir l’ordre d’ouverture des vis de purge. Selon le type de circuit il est possible de faire une purge de la roue la plus éloignée à la plus proche du maître cylindre (1.ARD, 2. AR.G, 3 AV.D, 4. AV.G).PURGER LE CIRCUIT  
+DE FREINAGE
+	Éliminer les bulles d’air qui, par leur compressibilité, empêchent la transmis-sion normale de l’effort de freinage.	La revue technique du véhicule
+	Les housses d’aile
+	L’outillage courant
+	Un bidon de liquide de freins correspon-
+dant aux données constructeurs
+	Une bouteille et un tuyau flexible trans-
+parentMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES32
+OBJECTIF  
+1. Maître-cylindre tandem
+2. Correcteur de freinage3. Récepteur de frein à disque4. Cylindre de roue (frein     à tambour, montage en H)
+   Appuyer lentement sur la pédale  RÉALISER L’INTERVENTION
+Purger
+1. Faire monter  quelqu’un dans la voiture 
+pour appuyer sur la pédale de frein.
+2. Retirer les bouchons des purgeurs et ou-
+vrir le purgeur arrière droit (exemple) en le 
+tournant d’environ ¼ de tour.
+3. Placer le tuyau sur le purgeur et le faire 
+tremper dans la bouteille.
+4. Effectuer la purge  :
+• Faire appuyer sur la pédale.
+• Ouvrir le purgeur et le refermer dès 
+que 
+la pédale est au plancher.
+• Faire pomper lentement est bien à fond sur la 
+pédale, dès qu’elle est au maxi, 
+rester en appui sur la pédale.
+• Ouvrir le purgeur et le refermer dès 
+que 
+la pédale est au plancher. Répéter l’opé-ration plusieurs fois jusqu’à qu’il n’y est plus de bulle d’air à chaque roue et dans l’ordre indiqué en fonction du type de cir-cuit.
+5. Faire le niveau  du bocal avec du liquide 
+neuf après la purge de chaque roue. La pé-dale doit rester ferme et non élastique si-non, recommencer la purge. Remettre les bouchons des purgeurs.
+6. Essayer le véhicule
+ : si le freinage est cor-
+rect mais 
+avec encore une course de la pé-
+dale trop longue, il faut vérifier le fonction-nement des rattrapages automatiques.
+Il est possible de purger sans appuyer sur la pédale de freins en utilisant un appareil de purge à pression ou à aspiration. Dans ce cas là plus besoin d’être deux (voir la notice de l’appa-reil).
+Si le véhicule est muni d’un système 
+ABS, il faut voir la méthode construc-teur si on veut également purger le bloc ABS (utilisation de l’outil de diagnostic). Dans le cas d’une purge classique voir la procédure ci-dessus.
+Dans tous les cas, la purge étant 
+très importante pour l’efficacité de freinage, il faut suivre la méthode constructeur.
+Attention à ne pas tomber du liquide 
+de frein sur la peinture du véhicule celui-ci est très corrosif.À NOTER
+Vis de purge
+Tuyau
+Bocal
+Bon Mauvais
+Purgeur
+de
+freins
+                  Ouvrir le purgeur 
+         Appareils de purge de freins ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Le type de double circuit.
+> >Le type de correcteur (compensateur).
+> >La position du correcteur.
+> >Les valeurs des pressions hydrauliques et 
+les conditions de contrôle.
+> >Le type de liquide frein préconisé.
+Préparer
+1. Placer le véhicule sur un pont élévateur 
+pour roues posées.
+2. Préparer la mallette de contrôle et sa no-
+tice ou 2 manomètres de pression hydrau-lique (de 0 à 100 bars) avec les raccords correspondant aux purgeurs de freins.
+3. Remplacer les purgeurs par les raccords de 
+prise de pression correspondants.
+4. Brancher les flexibles raccords aux mano-
+mètres. Respecter  le branchement du type 
+de double circuit en H ou en 
+x.
+5. Place
+r un aide à la pédale de frein.
+6. Purger les tuyaux et l’appareil de contrôle 
+au pied ou avec l’appareil de purge (voir la fiche concernée). Faire chuter la pression dans le bocal, après la purge de l’appareil.
+7. S’assurer que le maître-cylindre fonctionne 
+correctement. Tout d’abord il faut contrô-ler qu’il n’y a pas de fuites externes sur le maître cylindre.
+Procédure de contrôle
+ : exercer un effort sur 
+la pédale de frein  :
+> >Si la pédale s’enfonce un peu puis devient dure, le maître cylindre est en bon état
+> >Si la pédale s’enfonce progressivement, il y a une fuite interne, cela entraîne le rempla-cement du maître cylindre.RÉGLER UN CORRECTEUR  
+DE FREINAGE
+	Vérifier que la pression de freinage arrière est bien limitée à des valeurs pré-cises en fonction du freinage avant et de la charge du véhicule.
+	Contrôler et régler le compensateur de freinage.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	
+Une mallette de contrôle des pressions 
+hydrauliques ou 2 manomètres et raccords
+	Un bidon de liquide de freins correspon-dant aux données constructeursMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES33
+OBJECTIF  
+Double circuit
+en H
+Double circuit
+en X          Raccorder le manomètre RÉALISER L’INTERVENTION
+Contrôler – régler
+1. Contrôles préliminaires  :
+	Contrôler visuellement 
+l’absence de fuite.
+	Vérifier pour un véhicule équipé d’un correcteur asservi à la charge
+ :
+• l’état mécanique de la liaison 
+suspension-correcteur  ;
+• que le véhicule soit placé sur un sol plan 
+et horizontal, 
+train roulant en position de roulage
+ ;
+• que les conditions de charge préconisées par le 
+construc-
+teur soient respectées.
+2. Faire appuyer  progressive-
+ment sur la pédale de freins jusqu’à obtenir la 1
+ère pression demandée en lisant sa va-
+leur sur le manomètre avant.
+3. Faire maintenir  cette pression constante à 
+l’avant et lire la valeur indiquée par la ma-nomètre arrière. Noter la valeur.
+•
+ 1re mesure  : valeurs identiques (pression 
+non limitée à l’arrière)
+• 2e mesure  : répéter l’opération en pro-
+duisant une pre
+ssion plus élevée dans le 
+circuit avant et lire la valeur sur le mano-mètre AR. Noter la valeur.
+•
+ Répéter l’opération pour la 3e mesure, 
+éventuellement une 4e selon les valeurs 
+constructeur.
+4. Comparer les valeurs trouvées avec les va-
+leurs constructeur. En cas de défaut, il faut remplacer le correcteur ou bien régler selon les préconisations du constructeur.
+5. Si le correcteur est asservi à la suspension, 
+reprendre  les valeurs 2 fois
+ :
+• 1re prise  : véhicule à vide
+• 2e prise  : Véhicule en charge dans les 
+conditions définies par le constructeur.
+Débrancher l’appareil
+1. Faire chuter  la pression résiduelle sur l’ap-
+pareil. Débrancher les flexibles.
+2. Dévisser les raccords et revisser immédia-
+tement les purgeurs.
+3. Purger le circuit (voir fiche concernée) et 
+remettre à niveau le réservoir de liquide de frein.
+4. Abaisser le véhicule.
+5. Faire un essai .En cas de compensateur intégré dans les cylindres de roues, s’il y a un dé-faut sur un circuit, il faut remplacer les deux cylindres de roue.À NOTER
+Réglage d’un 
+compensateur asservi
+Comparer les pressions  
+avant et arrière
+Compensateur de freinageORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La méthode particulière de dépose/repose 
+de l’amplificateur de freinage (servo-frein) pour le véhicule concerné.
+> >Le diamètre de l’amplificateur de freinage.
+RÉALISER L’INTERVENTION
+Déposer
+1. Débrancher la batterie et déposer le 
+maître-cylindre.
+2. Débranche
+r le raccord de dépression sur le 
+corps du servo-frein.
+3. Déposer l’axe 
+de chape de commande sur 
+la pédale de frein et les quatre écrous de 
+fixation du servo sur le tablier.
+4. Déposer le servo-frein.
+Contrôler
+1. Contrôles préliminaires  :
+• vérifier l’état des canalisations et des rac-cords,
+•
+ vérifier le serrage des colliers.
+2. Contr
+ôles :
+	 Contrôle
+ n° 1  :
+• moteur à l’arrêt, enfoncer la pédale de frein,
+•
+ mettre le moteur en marche. Si le serv
+o-
+frein fonctionne la pédale doit s’enfoncer légèrement.
+	Contrôle n° 2
+ :
+• mettre le moteur en marche,
+• arrêter le moteur après 1 à 2 minutes de fonctionnement,
+•
+ enfoncer 
+la pédale avec la force habi-
+tuelle plusieurs fois afin de placer les deux chambres A et B à la pression atmosphé-rique,REMPLACER ET CONTRÔLER  
+UN SERVO-FREIN
+	Déposer et reposer un servo-frein.
+	Diagnostiquer un dysfonctionnement sur le servo-frein.
+	Effectuer les différents contrôles et réglage nécessaires au bon fonctionne-ment de celui-ci.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	L’outillage courant
+	Un manomètre de pression un dépressio-mètre avec un raccord en «
+ T ».MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES34
+OBJECTIF
+            Ampli.cateur de freinage  
+       (servo-frein) + maître cylindre
+         Branchement du manomètre • si la première course de la pédale est lon-
+gue et que les suivantes sont de 
+plus en 
+plus courtes le système fonctionne nor-malement. La pédale doit devenir dure et de course réduite.
+	Contrôle n° 3
+ :
+• mettre en marche le moteur et enfoncer la pédale,
+•
+ arrêter le moteur et garder la pédale enfoncée pendant 30 secondes environ,
+•
+ si la hauteur ne varie pas le 
+servo-frein 
+fonctionne.
+3. Si lors d’un des trois contrôles, un dis-
+fonctionnement est constaté, effectuer le 
+contrôle  à l’aide d’un manomètre  :
+• Brancher un manomètre de pression d’air entre le serv
+o-frein et la source de pres-
+sion.
+• Mettre le moteur en marche et contrô-ler la 
+valeur de dépression  : 0,7 b < P > 
+0,8 b (égal à 
+la dépression de la source 
+venant du collecteur d’admission ou de la pompe à vide). Sinon vérifier l’état des durits, du clapet de retenue, le montage et la source de dépression.
+•
+ Pour le contrôle de l’étanchéité du servo-frein, 
+mettre le moteur au ralenti, pincer 
+la durit provenant de la source de dépres-sion. Arrêter le moteur. En 15 secondes la dépression ne doit pas chuter de plus de 30 mbar sinon changer le servo-frein.
+•
+ Le fonctionnement du servo-frein ne doit occasionner 
+aucune variation du régime 
+moteur.
+Reposer
+1. Monter un joint neuf sur le maître-cylindre 
+et l’amplificateur.
+2. Vérifier avant la repose le réglage de garde 
+du maître-cylindre. Celle-ci s’obtient en agis-sant sur l’écrou de la tige de poussée pour obtenir la cote constructeur entre l’extrémité de la tige de poussée et la face d’appui du maître-cylindre (si elle est réglable).
+3. Contrôler également le réglage de la chape 
+côté pédale de frein.
+4. Dévisser le contre-écrou pour régler.
+5. Purger le circuit après repose.
+Remplacement du clapet  
+de retenue
+1. Débrancher le tube d’arrivée de dépres-
+sion au servo-frein.
+2
+. Tirer en tournant le clapet 
+de retenue 
+pour le dégager de la rondelle d’étanchéité caoutchouc.
+3.
+ Contrôler
+ l’état de cette rondelle d’étan-
+chéité et le clapet de retenue.
+4. Remplacer les pièces défectueuses et re-
+mettre l’ensemble en place.En cas de dysfonctionnement de l’amplificateur de freinage, il faut remplacer l’ensemble car il n’est pas réparable. Seuls sont possibles les remplacements du filtre à air et du clapet de retenue.À NOTER
+Pince durit
+Vers source
+de dépression
+Ressort 
+de
+rappelMembrane
+Chambre
+A
+Chambre
+BClapet 
+de
+retenue
+Troisième
+Première Deuxième
+Pendant
+30 secondesContrôle
+n° 1
+Contrôle
+n° 2
+Contrôle
+n° 3
+            Etanchéité du servo-freinORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >L’emplacement des composants 
+du système ABS et le schéma électrique.
+> >Les valeurs constructeur et les bornes de mesure des éléments du système.
+> >La méthode de purge.
+CONTRÔLER – MESURER
+Cette gamme de contrôle est une méthode générale. En fonction du type d’ABS équipant le véhicule, il est conseillé de voir la méthode préconisée par le constructeur.
+Contrôler
+1. Contrôle du ou des fusibles protégeant le 
+système ABS.
+2
+.  Contrôle
+ des capteurs de vitesse  :
+• vérifier le jeu au roulement,
+• vérifier la fixation des capteurs de roue,
+• contrôle
+r visuellement la propreté et l’état 
+de la couronne et des capteurs,
+• contrôler l’entrefer  (voir la  valeur construc-
+teur avant et arrière)  : Positi
+onner une 
+dent de la couronne en face le capteur de roue et contrôler l’écartement à l’aide d’un jeu de cales (écartement non réglable).
+3. Contrôle du témoin ABS  :
+• mettre le contact,
+• vérifier l’allumage du témoin puis son extinction au 
+bout de 3 secondes environ.
+4. Contrôle
+ de l’alimentation et la mise à la 
+masse du calculateur  :
+• couper le contact,CONTRÔLER LES CAPTEURS  
+D’UN SYSTÈME  ABS
+	Identifier tous les éléments d’un système ABS.  
+	Effectuer le diagnostic suite à une panne d’origine électrique (le voyant s’éclaire).
+	Réaliser la purge du circuit hydraulique à l’aide de l’outil de diagnostic.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	Un jeu de cales
+	Un multimètre
+	Un oscilloscope
+	Les fiches sur l’utilisation du multimètre 
+et le contrôle d’un relaisMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES35
+OBJECTIF
+Éléments de l’ABS
+1. Capteur 
+2. Cible 1
+2
+Capteur inductif
+3
+1. Bloc hydraulique ABS
+2. Calculateur ABS3. Capteurs des quatre roues4. Tuyauterie hydraulique5. Témoin hydraulique6. Faisceau électrique7. Capteur pédale de freins3
+33
+44126 5
+7
+3
+41
+2
+65
+7• débrancher le connecteur du calculateur 
+ABS,
+• mettre le contact,
+• contrôler l’alimentation du calculateur entre la borne du connecteur 
+et la masse, 
+multimètre en position voltmètre (= Ubat),
+• couper le contact,
+• contrôler la mise à la masse du calcula-teur 
+entre la borne du connecteur et la 
+masse, multimètre en position ohmmètre (= 0W).
+5. Contrôle des cap teurs de vitesse (si cap-
+teurs inductifs) au multimètre  :
+• couper le contact et débrancher le connec-teur du
+ calculateur,
+• contrôle
+r la résistance entre les bornes du 
+connecteur ABS sans débrancher le cap-teur, multimètre en position ohmmètre (voir valeur constructeur),
+•
+ contrôler la résistance entre les bornes du capteur de 
+roue, multimètre en position 
+ohmmètre (voir valeur constructeur),
+• contrôler l’isolement du capteur par rap-port à la masse,
+•
+ renouveler l’opération pour chaque cap-teur
+.
+6. Contrôle
+ de la tension délivrée par un cap-
+teur inductif  :
+• couper le contact,
+• débrancher le connecteur du calculateur,
+• relier un voltmètre en position alternatif aux bornes 
+du capteur ou aux bornes du 
+connecteur ABS,
+• soulever le véhicule roue par roue (en appuie sur une chandelle),
+•
+ faire tourner la roue à environ 60 tr/min,
+• contrôler la tension (voir valeur construc
+-
+teur).
+7. Contrôle du signal capteur à l’oscilloscope  :
+• couper le contact,
+• débrancher le connecteur du calculateur,
+• relier un oscilloscope aux bornes du cap-teur ou aux bornes du connecteur ABS,
+•
+ soulever le véhicule roue par roue (en appuie sur une chandelle),
+•
+ faire tourner les roues une à une à 
+envi-
+ron 60 tr/min,
+• contrôler la forme des signaux pour chaque roue. O
+n doit avoir un signal sinusoïdal.
+8.  Contrôle
+ des capteurs de vitesse (si cap-
+teurs actifs) à l’oscilloscope  :
+• contact mis, calculateur branché,
+• mesurer le signal aux bornes du capteur et comparer 
+avec le signal de référence 
+(signal carré).Un capteur inductif  n’a pas besoin d’être alimenté par une source de courant pour pouvoir délivré un signal contrairement au capteur actif qui doit avoir une source de tension.
+On ne peut donc pas contrôler un cap-
+teur actif à l’aide d’un ohmmètre.À NOTER
+1 2 3
+1. Roue phonique 
+2. Capteur 
+3. Support 
+Capteur actif
+U
+t
+Signal de capteur inductif
+U Tension de sortie
+t
+Signal de capteur actifORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >L’emplacement des composants du système 
+ABS et le schéma électrique.
+> >Les valeurs constructeur et les bornes de mesure des éléments du système.
+> >La méthode de purge.
+CONTRÔLER – MESURER
+Cette gamme de contrôle est une méthode générale. En fonction du type d’ABS équipant le véhicule, il est conseillé de voir la méthode préconisée par le constructeur.
+Contrôler
+1. Contrôle des relais  (si accessible)  :
+• couper le contact,
+• débrancher le connecteur du calculateur,
+• contrôler la tension d’alimentation aux bornes du connecteur 
+par rapport à la 
+masse (= Ubat),
+• contrôler la résistance des bobines de commande,
+•
+ contrôler le circuit de puissance des relais (palettes).
+2. 
+Contrôle de la résistance moto-pompe  :
+• couper le contact,
+• débrancher le connecteur du calculateur,
+• contrôler la résistance entre les bornes du connecteur 
+(voir valeur constructeur).
+3. Contrôle de la mise à la masse moto-
+pompe  :
+• couper le contact,
+• débrancher le connecteur du calculateur,
+• contrôler la mise à la masse moto-pompe (= 0 W).CONTRÔLER LES COMPOSANT S 
+ÉLECTRIQU
+ES D’UN SYSTÈM
+E ABS
+	Identifier tous les éléments d’un sys-tème ABS.
+	Effectuer le diagnostic suite à une panne d’origine électrique (le voyant s’éclaire).
+	Réaliser la purge du circuit hydraulique à l’aide de l’outil de diagnostic.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	Un multimètre
+	Un outil de diagnostic
+	Les fiches sur l’utilisation du multimètre 
+et le contrôle d’un relais.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES36
+OBJECTIF
+           Exemple de connecteur ABS
+                   Bloc hydraulique4. Contrôle contacte ur de position de pé-
+dale de frein 
+:
+• couper le contact,
+• débrancher le connecteur du calculateur,
+• mettre le contact,
+• contrôler la tension entre les bornes et 
+la masse en actionnant la pédale
+ de frein 
+(pédale relâchée = 0 V, pédale enfoncée = tension batterie).
+5. Contrôle des électrovannes du bloc
+ à l’aide 
+de l’outil de diagnostic :
+• couper le contact,
+• rebrancher le connecteur du calculateur,
+• brancher la valise de diagnostic,
+• mettre le contact,
+• sélectionner test par calculateur,
+• sélectionner le calculateur d’ABS,
+• rechercher le menu actionneur,
+• actionner les électrovannes ABS,
+• écouter le bruit de fonctionnement.
+6. Purge du circuit h
+ydraulique  :
+• couper le contact,
+• rebrancher le connecteur du calculateur,
+• rechercher sur la revue technique la pro-cédure et la 
+nécessité ou non de l’utilisa-
+tion de l’outil de diagnostic pour effectuer une purge,
+•
+ utiliser un appareil de mise sous pression de circuits de freinage classique,
+•
+ connecter ou non l’outil de diagnostic.Les relais (parfois), la moto-pompe et les électrovannes sont intégrés au bloc hydraulique.À NOTER
+             Contacteurs de position  
+ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La méthode particulière de dépose/repose 
+de l’airbag conducteur pour le véhicule concerné.
+> >Les consignes de sécurité.
+> >Les couples de serrage.
+RÉALISER L’INTERVENTION
+Cette gamme de dépose/repose est une mé-thode générale. Il est conseillé de voir la mé-thode préconisée par le constructeur pour le véhicule concerné.
+Dépose
+1. Contrôle et opérations préliminaires  :
+• Établir le contact et vérifier le fonction-nement du 
+témoin lumineux d’airbag au 
+niveau du tableau de bord (le témoin doit s’allumer puis s’éteindre).
+•
+ Retirer la clé du contacteur.
+• Débrancher la borne négative de la 
+batte-
+rie et isoler celle-ci. 
+• Attendre dix minutes avant toutes 
+autres 
+opérations (temps nécessaire pour la décharge de la capacité du module élec-tronique de déclenchement).
+•
+ Démonter et soulever la console centrale pour 
+débrancher la broche de connexion 
+électrique (A).DÉPOSER ET REPOSER  
+UN AIRBAG CONDUCTEUR
+	Déposer et reposer un airbag conducteur en respectant impérativement les règles de sécurité.	La revue technique du véhicule
+	L’outillage courant
+	L’outil de diagnosticMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES37
+OBJECTIF
+Airbag
+Volant Contacteur
+tournant
+Débrancher la broche  
+de connexion électrique2. Tourner le volant (C) pour dévisser et dé-
+poser les vis de fixation (A) et (B) de l’air-
+bag situées derrière celui-ci.
+3. Soulever et ramener  (avec précautions) 
+l’airbag (D) vers soi, jusqu’à pouvoir dé-brancher le connecteur. Déposer ensuite l’airbag conducteur et stocker celui-ci dans une armoire fermée en positionnant le sac gonflable vers le haut.
+4. Positionner les roues avant dans la posi-
+tion de «
+ ligne droite  » et desserrer légère-
+ment l’écrou central 
+de fixation du volant. 
+Extraire celui-ci jusqu’à venir en butée sur l’écrou, retirer le ensuite complètement et déposer le volant de direction. 
+5. Déposer le carter inférieur avec le carter 
+supérieur de la colonne de direction. Dégra-fer et débrancher la broche de connexion électrique (E). Dégrafer et dégager le trans-pondeur (F) sur le côté. Dévisser et déposer les trois vis de fixation (G) du contacteur tournant et déposer celui-ci sans forcer.
+Repose
+1. Régler le contacteur tournant en tournant 
+la platine supérieure jusqu’à obtenir l’ali-gnement des repères (H).
+2. Remonter tous les éléments en suivant 
+l’ordre inverse de la dépose et rebrancher la broche de connexion électrique (E) et re-monter le transpondeur (F).
+3. Serrer l’écrou central du volant et toutes les 
+vis de fixation de l’airbag au couple prescrit.
+4. Rebrancher la broche de connexion (A).
+5. Vérifier que personne ne se trouve à l’in-
+térieur du véhicule et rebrancher la borne négative de la batterie. Établir le contact et vérifier le fonctionnement du témoin lumi-neux d’airbag (le témoin doit tout d’abord s’allumer puis s’éteindre).
+Il est impératif de suivre les consignes de sécurité indiquées dans la revue tech -
+nique.
+Suite à une intervention sur le système d’airbag, il est conseillé d’effectuer un 
+contrôle complet du système avec l’outil de diagnostic.
+L’opération dépose/repose d’un airbag conducteur peut être nécessaire lors d’un 
+contrôle d’une géométrie d’un train avant pour recentrer le volant.À NOTER
+Dépose de l’airbag
+Débrancher le connecteur  
+et déposer le transpondeur
+Dépose du contacteur tournantORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les caractéristiques de la suspension avant 
+et arrière.
+> >La pression des pneumatiques.
+> >Les hauteurs de caisse avant et arrière.
+> >Les conditions et points de contrôle.
+CONTRÔLER
+Le jeu des articulations
+1. Soulever du sol les roues avant (pendantes).
+2. Donner aux roues un mouvement d’oscilla-
+tions haut / bas puis droite / gauche pour simuler les efforts dus à la route.
+3. Placer simultanément une main sur chaque 
+rotule et silentbloc (axe antibruit) et détec-ter les jeux anormaux de ces éléments.
+4. Reposer le véhicule au sol. Le train avant 
+se retrouvant alors en contrainte, déplacer le véhicule afin de redonner au train avant une assiette normale.
+L’état des amortisseurs  
+(sans appareil)
+1. Retirer le frein à main sur sol plat.
+2. Écraser par une forte poussée vers le bas 
+l’élément de suspension avant gauche puis relâcher vivement. La caisse doit remonter puis se stabiliser immédiatement. S’il sub-siste un balancement (> à une oscillation) l’amortisseur est hors d’usage. 
+3.
+ Répéter l’opér
+ation pour les 4 amortis-
+seurs.CONTRÔLER  
+LA SUSPENSION
+	Faire un diagnostic précis du système de suspension autre qu’une suspension pilo-tée avant le passage au banc (contrôle technique).	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	L’outillage courant
+	Un réglet ou un mètreMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES38
+OBJECTIF
+Roulement
+RotuleSilentbloc
+Donner une impression
+de balancement
+Faire la pression des pneumatiques
+Écraser l’élément de suspensionContrôle des jeuxLes hauteurs de caisse
+Le véhicule doit se trouver dans les condi-
+tions requises par le constructeur  : à vide, en 
+charge, réservoir plein ou non.
+1re méthode
+> >Vérifier  que la pression des pneus est cor-
+recte ainsi que la dimension des roues d’ori-gine.
+> >Mesurer  à l’aide d’un réglet ou d’une pige 
+spéciale la distance entre le châssis et le sol, aux 4 points indiqués par le construc-teur (en général sur les longerons dans l’axe des roues).
+> >Comparer  les hauteurs trouvées avec 
+celles prévues par le constructeur dans les mêmes conditions.
+2e méthode
+Aux côtes relevées aux 4 points du châssis, on soustrait pour chacun la côte relevée entre l’axe de roue et le sol. Ce qui a pour effet d’an-nuler un défaut éventuel de pression des pneu-matiques ou de dimension de roue. Comparer les côtes trouvées avec celles préconisées par le constructeur.
+Dans tous les cas il faut suivre la méthode pré-
+conisée par le constructeur.
+RÉGLER
+Si la différence entre les côtes trouvées et celles demandées par le constructeur dépasse la tolérance admise, il est nécessaire d’effec-tuer un réglage si les barres de torsions sont réglables (pour l’arrière).
+Sur les autres systèmes (ressorts à lames ou 
+hélicoïdaux), il faut remplacer les ressorts (voir fiches «
+ remplacer un amortisseur  »).
+Pour une plus grande précision, il est conseillé de compléter le contrôle des amortisseurs à l’aide d’un appareil de contrôle à mesure électronique des oscillations (banc de suspension).
+Les amortisseurs comme les ressorts 
+se remplacent par paire.À NOTER
+1 oscillation
+Temps
+H = hauteur de caisse/sol
+Barre 
+de torsionTraverseLongeron
+Triangle
+inférieur
+Dispositif
+de réglageEfficacité d’un amortisseur.
+Hauteurs de caisse.
+ Réglage de la barre de torsion.ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >que ce type d’amortisseur est bien exté-
+rieur au ressort.
+> >Les couples de serrage.
+> >Consulter la méthode préconisée par le 
+constructeur, ainsi que celle fournie avec les amortisseurs de rechange.
+Préparer
+1. Placer le train arrière sur chandelles.
+2. Déposer les roues.
+3. Placer le cric rouleur sous un bras de suspen-
+sion côté moyeu afin de comprimer légère-ment la suspension et débrider l’amortisseur
+RÉALISER L’INTERVENTION
+Déposer
+1. Ne démonter  qu’un seul côté à la fois  :
+• Pour conserver un montage de référence.
+• Dans cer
+tains cas, l’essieu arrière n’est 
+retenu à la détente que par les amortis-seurs.
+2. Dévisser l’écrou supérieur après avoir ob-
+servé le système de protection (écrou «
+ ny-
+listop  » ou le contre écrou). Placer la clé 
+appropriée 
+sur la tige pour l’empêcher de 
+tourner sur elle-même. En cas de difficulté, il est possible de tenir la tige de poussée de l’amortisseur à la pince-étau sous le passage de roue. Ne jamais faire cela avec l’amortisseur neuf.
+3. Dévisser l’axe inférieur. Déposer l’amortis-
+seur.REMPLACER  
+UN AMORTISSEUR ARRIÈRE
+	Remplacer les amortisseurs arrière ne nécessitant pas la dépose des ressorts. 	La revue technique du véhicule
+	Les deux amortisseurs arrière neufs
+	L’outillage courantMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES39
+OBJECTIF
+Amortisseur
+Système
+de maintien
+Écrou
+Nylstop
+Système
+de maintien
+Écrou
+Nylstop
+Soulever légèrement
+Côté tête d’amortisseurReposer
+1.  Enlever (avant la repose) toute rondelle 
+qui 
+aurait pu rester collée sur ou sous le 
+passage de roue et faire éventuellement 
+un montage à blanc des différentes ron-delles en s’aidant du schéma fourni. Bien respecter l’ordre et le sens des pièces.
+2. 
+ Visser sans 
+bloquer l’axe du pied d’amor-
+tisseur.
+3.  Placer sur la 
+tête : la rondelle métallique, 
+le joint caoutchouc collerette 
+vers le haut, 
+l’entretoise.
+4.  Faire so
+rtir la tige d’amortisseur et gui-
+der la tête à travers le trou de passage de roue.
+5. 
+ Placer les rondelles 
+supérieures dans le 
+bon ordre et serrer l’écrou au couple. Ne jamais serrer la tige de poussée à la pince, mais utiliser la clé adaptée au système de maintien de la tige. Placer le contre-écrou si nécessaire.
+6. 
+ Serrer l’axe inférieur au
+ couple.
+7.  Libérer la 
+suspension. Placer le cric sous 
+l’autre bras et répéter l’opération.
+8.  Reposer les roues.
+9
+.  Reposer le 
+véhicule au sol et serrer les 
+roues au couple.
+10.  Faire un
+ essai  du véhicule.
+Si des bruits persistent lors des chocs dus aux déformations de la route, vérifier les silentblocs des barres an-ti-roulis et les rotules de suspension (voir fiche précédente).À NOTER
+Points de fixation Déformation Tige corrodée Fuite Choc
+Contre-écrou (P.A.L)
+Écrou
+Rondelle
+d'acierJoint
+caoutchouc
+collerette
+en bas
+Passage             de roue
+ColleretteEntretoise
+Joint
+cahoutchoucRondelle
+d'acier
+Système
+de maintien
+Tête
+d'amortisseurContrôle de l’amortisseurORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Le type de jambe de force.
+> >Les couples de serrage.
+> >Consulter la méthode préconisée par le 
+constructeur, ainsi que celle fournie avec les amortisseurs de rechange.
+Préparer
+1. un cric et deux chandelles.
+2. le compresseur de ressort en vérifiant que 
+le type de griffes s’adapte bien au ressort.
+3. un arrache-rotule.
+RÉALISER L’INTERVENTION
+Déposer
+Ne démonter qu’un seul côté à la fois.
+1er cas : Jambe de force 
+indépendante
+> >Lever le véhicule.
+> >Déposer la roue.
+> >Déposer directement la jambe de force.
+2e cas : Porte-fusée solidaire de la 
+jambe de force
+> >Débloquer et déposer l’écrou de transmis-sion.
+> >Arracher les rotules inférieures et de direc-tion.
+> >Déposer la jambe de force.REMPLACER  
+UN AMORTISSEUR AVANT
+	Déposer et reposer la jambe de force, comprimer le ressort de suspension et remplacer l’amortisseur en prenant les précautions nécessaires pour prévenir tout risque d’accident.	La revue technique du véhicule
+	Les deux amortisseurs avant neufs
+	L’outillage courant
+	Un compresseur de ressortMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES40
+OBJECTIF
+Compresse ressort
+Types de montageRemplacer l’amortisseur
+1.  Placer la jambe de force dans un étau (ne 
+pas serrer par le tube d’amortisseur).
+2.  Position
+ner le compresseur de ressort.
+3.  Contrôle
+r que les griffes sont toutes bien 
+accrochées.
+4.  Déposer les 
+coupelles supérieures dès 
+que le ressort est libéré.
+5.  Détendre
+ lentement le ressort.
+6. Repérer la 
+position du ressort dans les 
+cuvettes et l’ordre des pièces déposées. 
+Dans le cas de l’outil à griffes, on peut laisser en place le ressort à condition de le remonter immédiatement.
+7. 
+ Remplace
+r la jambe de force ou la car-
+touche selon le cas.
+8.  Replacer
+ tous les éléments dans l’ordre 
+indiqué dans la notice et repéré au dé-montage
+ :
+• tirer la tige d’amortisseur au maximum,
+• placer le cache-poussières,
+• positionner le ressort dans la cuvette inférieure,
+•
+ placer l
+a cuvette supérieure et toute 
+pièce trouvée au démontage dans l’ordre et la position repérés,
+•
+ serrer l’écrou supérieur au couple,
+• détendre lentement le compresseur de ressort,
+•
+ vérifier la bonne mise en place,
+• déposer le compresseur de ressort.
+9.  Remonter
+ la jambe de force dans l’ordre 
+inverse de démontage.
+10.  Faire un
+ essai  sur route.
+Lors de la dépose du ressort de la jambe de force, il est conseillé de ne pas rester en face du ressort en cas de défaillance du compresse – res-sort.
+Si le système utilisé est une suspen-
+sion pilotée il est nécessaire de res-pecter les préconisations construc-teurs.À NOTER
+Déposer
+Écarter
+Compresser le ressortPositionner les griffes
+Déposer la coupelle supérieure  
+et le ressort
+RondelleÉcrou
+de sécurité
+Coupelle
+Roulement
+Semelle
+RessortButée
+de pleine
+charge
+Amortisseur
+jambe
+de forceORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les dimensions du pneumatique et de 
+la roue préconisées par le constructeur pour le type de véhicule concerné.
+> >Les pressions de gonflage préconisées.
+CONTRÔLER – DIAGNOSTI qUER
+Contrôler
+1. La pression des pneumatiques  : une 
+baisse régulière de la pression dans un pneu 
+provient en général d’une fuite au 
+niveau de la bande de roulement (clou, vis…). Ne pas ôter le corps étranger sans avoir repérer le trou au démontage, à l’aide d’une craie par exemple.
+2. Examiner les pneus sur le véhicule par 
+train (train avant et train arrière), sans oublier la roue de secours.
+3. Contrôler chaque pneumatique et roue 
+dans l’ordre suivant
+ :
+• 1- la bande de roulement (usure, cou-pures, corps étrangers),
+•
+ 2- le flanc (dimensions, coupures, cra-quelures),
+•
+ 3- l’accrochage et le bord de la jante (chocs, rouille, déformation),
+•
+ 4- la valve (présence du 
+bouchon, cisaille-
+ment),
+• 5- la fixation de la roue (vissage, 
+ovalisa-
+tion des trous),
+• 6- l’état du capteur de surveillance 
+élec-
+tronique de pression s’il existe.CONTRÔLER  
+LES PNEUMATIQUES
+	Mettre le véhicule en conformité avec le code de la route et, en cas d’usure anormale, de diagnostiquer un défaut du train roulant.	La revue technique du véhicule
+	Le code de la route
+	Un manomètre de pression de gonflageMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES41
+OBJECTIF
+1
+35
+2 4
+1,6 mm
+Contrôle du pneumatiqueDéfinir le pourcentage 
+d’usure de chaque pneu
+1. Observer la bande de roulement à 
+l’endroit le plus usé.
+2. Pourcentage d’usure  : un pneu 
+neuf est bien entendu usé à 
+0 %. 
+Il est usé à 100  % lorsque la 
+profondeur de la sculpture at-
+teint 
+1,6 mm et que les témoins 
+d’usure affleurent.
+3. On peut donc graduer les usures 
+entre les deux extrêmes. Une usure est dite normale lorsque tous les points de la bande de rou-lement présentent le même pour-centage d’usure.
+Diagnostiquer
+Principales usures anormales carac-téristiques
+ :
+> >Usure symétrique  de la bande de roule-
+ment sur les deux bords extérieurs  : sous-
+gonflage fréquent qui peut s’accompagner d’un décollement de calandrage.
+> >Usure asymétrique  décroissante d’une 
+épaule à l’autre  : 
+• Surface râpeuse  : défaut de parallélisme 
+(l’usure par défaut de 
+parallélisme se 
+répartit d’une manière égale sur les deux roues d’un même essieu).
+•
+ Surface lisse  : défaut de carrossage. 
+> >Usure des deux bords intérieurs  : trop 
+d’ouverture.
+> >Usure des deux bords extérieurs  : trop 
+de pincement.
+> >Usure en facettes  : défaut d’amortisseur.La plupart des véhicules roulent sous-gonflés. Il est préférable d’ajouter systématiquement 0,2 bar aux pres-sions préconisées et 0,5 bar à l’ar-rière en cas de véhicule très chargé ou de traction d’une caravane. À NOTER
+Sommet
+ou
+bande de
+roulement
+Nappe
+sommet
+Nappe
+carcasse
+Bourrelet
+Pointe
+de bourreletTringle
+AccrochagePortageFilet de
+centrageintérieur de
+l’enveloppe
+Revêtement
+de gomme
+intérieur
+(calandrage)Flanc
+Usure des
+2 bords intérieurs :
+ouvertureUsure des
+2 bords extérieurs :
+pincementContrôle des portes – balaisUsures prématurées des pneumatiques
+Usure du milieu de la 
+bande de roulement  :
+Cette usure est provo-quée par 
+une trop forte 
+tension sur les flancs du pneumatique. Soit à cause d’un surgonflage, soit à cause d’un pneu-matique surdimensionné par rapport à la taille de la jante.Usure des bords exté-rieurs :
+Cette forme d’usure est 
+due à un sous gonflage du pneumatique, ou à une surcharge du véhi-cule.Usure croissante  d’un bord à l’autre sans bavures :
+Un excès de carrossage 
+ou de contre carrossage, une suspension affaissée, une fusée faussée ou une déformation de l’essieu, peuvent entraîner cette forme d’usure.Usure croissante  d’un bord à l’autre avec présence de bavures :
+Cette forme d’usure est 
+due à un parallélisme in-correct.
+Si les bavures se sentent 
+en tirant la main vers l’extérieur, il y a pince-ment. Si les bavures se sentent en poussant la main vers l’intérieur, il y a ouverture.ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les dimensions du pneumatique préconi-
+sées par le constructeur pour le type de vé-hicule concerné.
+> >La pression de gonflage préconisée.
+Préparer
+•	Il faut effectuer tous les contrôles de la fiche précédente.
+RÉALISER L’INTERVENTION
+Démonter
+1. Repérer les masses d’équilibrage sur le 
+pneumatique chaque côté de la roue (à la craie) si on remonte le même pneumatique. Dans le cas du remplacement du pneuma-tique retirer les masses d’équilibrage.
+2. Déposer l’obus à l’intérieur de la valve.
+3. Décoller le bourrelet extérieur par des 
+pressions successives espacées d’environ 10 cm et en évitant d’agir à l’endroit de la valve. Lubrifier au fur et à mesure. Position-ner la roue sur le support, position inclinée, valve en haut.
+4. Enfoncer le bas du bourrelet dans le creux 
+de la jante. Utiliser les démonte-pneus  côté plat, commencer près de la valve. Tout en basculant le levier, appuyer sur le flanc op-posé de l’enveloppe pour placer le bourrelet en fond de gorge de jante. Engager ensuite le second levier côté plat à 10 cm environ à droite de la valve puis le basculer.REMPLACER UN PNEUMATIQUE 
+(à la table de montage)
+	Remplacer un pneumatique en évitant toute détérioration du bourrelet. 	Une table de montage
+	Deux démonte-pneus
+	Un démonte obus
+	Le lubrifiant spécial pneus
+	Un manomètre de pression de gonflage
+	Le pneu neufMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES42
+OBJECTIF  
+Lubrifiant spécial
+Démonte
+pneus
+Démonte
+obus
+Décoller
+                      Retirer l’obus 
+             Décoller, lubri.er extérieur  5. Placer le support verticalement. Dégager 
+le côté intérieur, bas du bourrelet dans le 
+creux de jante en utilisant les démonte-pneus côté recourbé pour venir crocheter le bord de la jante. S’assurer que le bourrelet de l’enveloppe est bien au fond de la gorge de la jante. Basculer le levier sans forcer vers l’extérieur. Engager un deuxième levier côté recourbé le long du siège de la jante, entre le bourrelet de l’enveloppe et le bord de la jante. Basculer ce levier et l’enveloppe se dégage de la jante
+Contrôler (voir fiche précédente)
+1. Bande de roulement  : usure et profondeur 
+des sculptures, 1,6 mm minimum.
+2. F
+lancs  : déchirures, coupures.
+3. In
+térieur (calandrage)  : corps étrangers 
+métalliques, déchirures, cloques.
+4. Ro
+ue : chocs, oxydation, valve.
+5. 
+Nettoyer si nécessaire la jante.
+Monter
+1. Changer la valve.
+2. Placer la roue sur le support incliné.
+3. Repérer le côté extérieur du pneumatique, 
+s’il n’a pas de côté marqué ou une flèche indiquant le sens de roulage, monter à l’ins-cription «
+ DOT » le côté extérieur. 
+4. Lub
+rifier les deux bourrelets. Engager 
+le premier bourrelet (intérieur) à la main jusqu’à son coincement puis terminer le montage avec un levier en utilisant le côté recourbé tout en appuyant de la main gauche sur l’épaule extérieure de l’enve-loppe.
+5. Remonter le bourrelet extérieur de préfé-
+rence sans outil.
+6. Enlever la roue du support. Gonfler au des-
+sus de la pression préconisée pour favoriser le centrage (3,5 bars).
+7. Laisser chuter un peu la pression, mettre 
+en place l’obus et ramener à la pression préconisée.
+8. Vérifier l’étanchéité de l’ensemble dans un 
+bac à eau.
+Remarque
+ : Si le même pneumatique est re-
+monté (en 
+cas de crevaison par exemple) et 
+que les positions des masses d’équilibrage par rapport au flanc ont été repérées, il n’est pas nécessaire de rééquilibrer la roue.Le démontage/montage à la machine utilise le même principe qui consiste à entrer d’un côté dans le creux de la jante pour excentrer le pneu et éviter ainsi la rupture des tringles.À NOTER
+Creux 
+de jante
+Bourrelet
+dans le creux
+Démontage par excentrageORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les dimensions du pneumatique préconi-
+sées par le constructeur pour le type de vé-hicule concerné.
+> >La pression de gonflage préconisée.
+Préparer
+> >Il faut effectuer tous les contrôles de la fiche précédente.
+RÉALISER L’INTERVENTION
+Démonter
+1. Décoller l’enveloppe d’un côté et de l’autre 
+du pneumatique (ne pas décoller face à la valve).
+2. Poser la roue sur le support horizontal et la 
+maintenir par les griffes de l’appareil.
+3. Abaisser le porte-outil jusqu’à ce que la 
+face intérieure de l’outil vienne en contact contre le bord la jante et faire monter le bourrelet sur le guide.
+4. Pousser l’enveloppe vers le bas de la jante 
+du côté opposé à l’outil pour  faciliter la 
+montée du talon. Faire tourner le plateau dans le sens horaire.
+5. Répéter l’opération sur le deuxième talon.
+Contrôler  
+1. Bande de roulement  : usure et profondeur 
+des sculptures, 1,6 mm minimum.REMPLACER UN PNEUMATIQUE 
+(à la machine à pneus)
+	Remplacer un pneumatique en évitant toute détérioration du bourrelet. 	Une machine à pneus
+	Deux démonte–pneus
+	Un démonte obus
+	Le lubrifiant spécial pneus
+	Un manomètre de pression de gonflage
+	Le pneu neufMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES43
+OBJECTIF  
+                   Machine à pneus2. Flancs  : déchirures, coupures.
+3. Inté
+rieur (calandrage)  : corps étrangers 
+métalliques, déchirures, cloques.
+4. Rou
+e : chocs, oxydation, valve.
+5. N
+ettoyer si nécessaire la jante.
+Monter
+1. Nettoyer la jante et remplacer la valve (si 
+pneu neuf).
+2. Repérer le sens de montage de l’enveloppe 
+(DOT à l’extérieur ou sens de roulage → 
+flèche).
+3. Lubrifier les talons de l’enveloppe.
+4. Placer l’enveloppe sur la jante et mettre en 
+place le porte outil comme lors du démon-
+tage de l’enveloppe.
+5. Placer la valve 10 cm avant l’outil dans le 
+sens horaire.
+6. Placer le talon sous le bec de l’outil et au 
+dessus du rouleau puis manuellement en-gager l’enveloppe sur la jante dans le sens horaire jusqu’à obtenir une résistance.
+7. Actionner ensuite le plateau dans le sens 
+horaire pour mettre en place le premier ta-lon de l’enveloppe.
+8. Répéter la même opération pour le deu-
+xième talon en engageant bien le talon dans le creux de jante sinon destruction de l’enveloppe.
+9. Libérer la jante du plateau et gonfler le 
+pneu à la pression de 3,5 bars. Laisser chu-ter la pression et mettre l’obus. Gonfler le pneu à la pression préconisée.
+Il est nécessaire de bien régler la ma-chine pour éviter toute détérioration du pneu ou de la jante.À NOTERDécollage 
+de l’enveloppe  
+  Montage de l’enveloppe 
+Lubrifier
+Démontage de l’enveloppe21
+3
+4
+56
+     Démontage/montage à la machineORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les dimensions du pneumatique préconi-
+sées par le constructeur pour le type de vé-hicule concerné.
+> >La pression de gonflage préconisée pour l’avant et l’arrière.
+Préparer
+La roue
+1. Laver la roue pour éliminer toute trace de 
+boue, notamment à l’intérieur.
+2. Sécher à l’air comprimé.
+3. Éliminer les cailloux coincés dans les sculp-
+tures.
+La machine
+1. Adapter le plateau au système de fixation 
+de la roue  :
+	soit c’est un plateau 
+universel avec 
+manetons  :
+• Mesurer l’entre - axe des trous de fixa-tion 
+et positionner les manetons sur le 
+plateau (nombre et entre – axe).
+• Il faut tout d’abord placer un maneton dans le trou 
+0 du plateau et l’ergot du maneton 
+dans l’encoche zéro du disque à encoches.
+• Monter ensuite le nombre de manetons suivant le nombre 
+de trous de fixation de 
+la roue à équilibrer en les positionnant.
+• Serrer à la main les écrous de fixation des manetons puis bloquer à la clé.
+	soit c’est un c
+ône de centrage par le 
+trou central  :
+• Visser la vis de broche sur l’axe du 
+pla-
+teau universel.
+• Positionner le ressort et le cône contre 
+le 
+plateau.ÉQUILIBRER  
+UNE ROUE
+	Compenser par des masses les balourds du pneumatique, qui ont tendance à pro-voquer des réactions dans la direction (vibrations) et la suspension.	La revue technique du véhicule
+	Une équilibreuse de roues
+	Pince pour la pose – dépose masses
+	Outillage courantMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES44
+OBJECTIF
+Centreur universel
+PlateauManetons
+mobiles
+               Equilibreuse de roues 
+                   Plateau universel 
+                  Cône de centrage 
+• Monter la roue sur le cône.
+• Serrer la roue grâce à l’écrou de serrage 
+r
+apide.
+2. Étalonner la machine en affichant la lar-
+geur du boudin ou de la jante (à l’aide du compas), le diamètre de roue (valeur re-levée sur le pneumatique) et le déport (à l’aide de la pige de déport). Appuyer sur la touche correspondante.
+RÉALISER L’INTERVENTION
+Principe
+1. Équilibrage dynamique  :
+• C’est la partie du balourd se trouvant en déport 
+par rapport à l’axe de pivotement 
+et provoquant des oscillations.
+• Il faut placer la masse sur le bord 
+exté-
+rieur de la jante diamétralement opposé au défaut.
+2. Équilibrage statique
+ :
+• C’est la partie du balourd se trouvant dans le 
+plan de l’axe de pivotement (plan 
+neutre).
+• Il faut placer la masse sur le bord 
+inté-
+rieur de la jante diamétralement opposé au défaut.
+Contrôler
+1. Abaisser le carter de protection et entraî-
+ner la roue en rotation.
+2. Lire les valeurs indiquées en statique et en 
+dynamique. La valeur lue à gauche donne le balourd intérieur et à droite celui de l’ex-térieur
+3. Équilibrer s’il y a plus de 10 g de défaut.
+Équilibrer
+Cette procédure est un exemple. Dans tout les cas consulter la notice de l’équilibreuse utilisée.
+1. Enlever les anciennes masses.
+2. Entraîner la roue en rotation.
+3. Arrêter la roue.
+4. Repérer les positions des masses indiquées 
+par la machine.
+5. Balourd intérieur
+ : faire tourner la roue 
+pour que les 2 extrémités 
+des flèches, si-
+tuées à gauche sur l’afficheur, soient en po-
+sition opposées. Bloquer la roue et poser la masse à l’intérieur de la jante à midi.
+ Balourd e
+xtérieur  : procéder de la même 
+manière que précédemment a
+vec les 
+flèches situées à droite de l’afficheur
+6. Fixer les masses.
+7. Après avoir mis en place les masses d’équi-
+librage, procéder  à un nouveau lancement 
+de la roue pour vérifier l’équilibrage. L’affi-cheur doit indiquer  0  0.Il est nécessaire de prendre les masses de la bonne valeur et adap-tées au rebord de jante (jante alu…) sinon celles-ci risquent de tomber en roulage et cela va provoquer des vi-brations dans le volant.
+Certaines machines permettent 
+d’équilibrer les roues sans les dé-poser. Elles présentent l’avantage d’équilibrer en même temps tous les éléments tournants (disques, moyeux). Mais on ne peut pas per-muter une roue équilibrée ainsi sans refaire un équilibrage complet.À NOTER
+Mesure de 
+la largeur de jante
+Mesure
+de départ
+                          Compas
+                       Pige de déport 
+        Exemple de résultat de mesure ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les dimensions du pneumatique préconi-
+sées par le constructeur pour le type de vé-hicule concerné.
+> >La pression de gonflage préconisée.
+> >La voie et l’empattement du véhicule.
+> >La valeur en mm du parallélisme, s’il s’agit de pincement ou d’ouverture.
+Préparer (contrôles  
+préliminaires)
+1. Contrôler la conformité des dimensions des 
+pneus, l’état, la pression etc. (voir fiche 41).
+2. Contrôler la suspension (voir fiche 38).
+3. Contrôler les jeux  :
+• dans les roulements,
+• dans les rotules,
+• dans la direction.
+4. Place
+r le véhicule sur un sol plat.
+5. Oter le frein à main.
+CONTRÔLER – MESURER
+Contrôler le point milieu
+1. Braquer le volant à fond à droite puis bra-
+quer jusqu’en butée à gauche en comptant les tours et les fractions de tours.
+2. Diviser le nombre trouvé par 2.
+3. Revenir vers la droite de ce nombre, le vo-
+lant doit alors se trouver en position ligne droite, les roues doivent être dans l’aligne-ment du véhicule.PRÉPARER AU CONTRÔLE  
+DE LA GÉOMETRIE DU VÉHICULE
+	Faire un pré-contrôle du train avant nécessité par un véhicule dont la tenue de route ou l’usure des pneus est anor-male	La revue technique du véhicule
+	Un double- mètre 
+	Une fiche de relevé de contrôle
+	L’outillage courantMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES45
+OBJECTIF
+Braquer à fond à droite 
+Braquer à fond à gauche 
+Centrer les repères DO
+O
+G
+D
+O
+GD
+Contrôle du point milieu4. Déposer le volant et recentrer -le sur la 
+colonne de direction (suivre les recomman-
+dations du constructeur pour la dépose de l’airbag) si  le volant n’est pas centré.
+Mesurer
+1. Ne pas lever  le véhicule.
+2. Mesurer la voie avant à l’aide d’un mètre, 
+de l’axe du pneu gauche à l’axe du pneu droit.
+3. Faire deux mesures
+ : A à l’avant des 
+roues, B à l’arrière des roues  :
+• la différence des deux côtes A - B 
+doit 
+être égale à la valeur indiquée par le constructeur (parallélisme),
+•
+ si la côte A est supérieure à la 
+côte B, le 
+parallélisme est en ouverture,
+• si la côte B est supérieure à la 
+côte A, le 
+parallélisme est en pincement,
+• si on trouve un pincement, alors qu’il 
+est 
+demandé de l’ouverture, il faudra procé-der à un contrôle précis du parallélisme.
+4. Mesurer les empattements gauche et droit 
+du véhicule en position ligne droite.
+Nota
+ : Si on constate une différence de 
+me-
+sure par rapport aux valeurs constructeur, il est nécessaire de procéder à un contrôle com-plet des trains avant et arrière à l’aide d’un appareil de mesure des trains roulants.
+Pour un contrôle complet du train avant avec l’appareil, consulter la fiche suivante.À NOTER
+Voie 
+A > B =ouverture 
+B > A pincement
+Empattement droitMesurer la voie
+Voie 
+A > B =ouverture 
+B > A pincement
+Empattement droitMesurer le parallélisme
+Voie 
+A > B =ouverture 
+B > A pincement
+Empattement droit
+Mesurer l’empattementORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les valeurs des angles  :
+• de carrossage,
+• de chasse,
+• d’inclinaison de pivot, et les noter sur la 
+fiche de relevé.
+> >Les points de réglage possibles pour le pa-rallélisme et les angles du train avant, s’ils sont réglables.
+Préparer
+1. Placer le véhicule sur le pont et positionner 
+– le bien centré.
+2. Effectuer les contrôles préliminaires (voir 
+fiche précédente).
+3. Contrôler la position du point milieu (voir 
+fiche précédente).
+4. Vérifier les hauteurs sous coque (hauteurs 
+de caisses).
+5. Effectuer le montage des têtes de mesure 
+et des plateaux pivotants  :
+• Monter et brancher les têtes de mesure. Vérifier en 
+tirant sur les têtes qu’elles ne 
+peuvent pas tomber. Mettre en place les systèmes anti-chute s’ils existent. Mettre sous tension le banc de train roulant.
+•
+ Lever le véhicule et placer les plateaux pivotants 
+sous les roues avant. Placer des 
+cales de rattrapage de hauteur sous les roues arrière si nécessaire ou bien libérer les plaques à billes arrière.
+6. Effectuer la compensation du voile
+ : À l’aid
+e 
+de la notice du banc de trains roulants, ef-fectuer l’opération de compensation du voile. C’est-à-dire annuler le voile de chaque roue (quelques fois appelée, neutralisation du voile ou improprement «
+ dévoilage  »).CONTRÔLER LA GÉOMETRIE  
+DU TRAIN AVANT
+	Détecter les causes d’une mauvaise tenue de route, d’une usure anormale des pneumatiques.
+	Contrôler les trains roulants et régler le parallélisme dans le cas, par exemple, d’un remplacement de rotule de direction.	La revue technique du véhicule
+	Une fiche de relevé de contrôle
+	L’outillage courant
+	Un pont
+	Un banc de contrôle de trains roulantsMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES46
+OBJECTIF  
+                Appareil de contrôle  
+                  des trains roulantsCONTRÔLER – MESURER
+1. Effectuer le diagnostic complet  : A l’aide 
+de la notice du banc de 
+trains roulants ef-
+fectuer toutes les opérations nécessaires au 
+diagnostic complet.
+ Nota  : Pour la mise 
+en place du presse 
+pédale de frein, démarrer le moteur pour bénéficier de l’assistance de freinage. Lors des braquages, s’assurer que les têtes ne touchent pas les ailes, le pare-chocs ou une partie du pont.
+2. Relever les valeurs du véhicule et noter-les 
+dans le tableau ci-joint.
+3. Rechercher les valeurs constructeur (à no-
+ter dans le tableau) et les angles réglables sur ce véhicule.
+4. Effectuer la comparaison des différentes 
+valeurs. 
+5. Régler le parallélisme
+ : Positionner la direc-
+tion au 
+point milieu, placer le bloque volant 
+et régler le parallélisme. Serrer les vis ou écrou de réglage au couple. Centrer le vo-lant si nécessaire.
+6. Contrôler tous les angles des trains.
+7. Régler tous les angles réglables.
+8. Ranger complètement le banc de train rou-
+lant. Retirer le bloc volant, le presse pé-dale, les plateaux avant et les cales sous les roues arrières.Comparer les valeurs trouvées avec celles du constructeur pour parfaire le diagnostic.
+quelque soit le banc de contrôle utili-
+sé effectuer les mêmes opérations en respectant le même ordre chronolo-gique. Dans tous les cas, suivre scru-puleusement la notice fournie avec le banc de contrôle.À NOTER
+Exemple de réglage  : Le réglage du paral-
+lélisme s’effectue en 
+tournant la biellette en 
+(A) après avoir desserré la vis (B). Tableau de contrôle 
+Angles avantValeurs constructeur Valeurs relevées Conclusion
+Maxi Mini Gauche Droite Bon / Mauvais 
+Parallélisme total
+Parallélisme partielCarrossageChassePivotAngle inclus
+Angles arrière Maxi Mini Gauche Droite Bon / Mauvais 
+Parallélisme totalParallélisme partielCarrossageAngle de poussée

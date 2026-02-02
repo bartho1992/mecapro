@@ -1,0 +1,1986 @@
+© Dunod, Paris, 1994, 2010
+EAN 9782100554652C réation maquette intérieure : Anne Pachiaudi
+Mise en pages : Yves Tremblay
+Maquette de couverture : MATEO
+Illustration de couverture : Powerful engine © terex - Fotolia.comDes mêmes auteurs
+Technologie fonctionnelle de l’automobile, 6e édition, 2009
+Tome 1  Le moteur 
+et ses auxiliairesTome 2   La transmission, 
+le freinage, la tenue de route 
+et l’équipement électriqueQuel est l’objectif de l’ouvrage  ?
+Les compétences nécessaires pour exercer le métier de technicien de main-
+tenance automobile ont fortement évolué face aux équipements électro-niques qui se généralisent. Véritable médecin des voitures, le technicien 
+démonte , contrôle , répare  et règle  tous les systèmes mécaniques du vé-
+hicule. Outre l’entretien auto courant (graissage, vidange, contrôle des prin-cipaux organes, etc.), le mécanicien qualifié effectue des travaux se rappor-tant à des éléments plus complexes
+ : moteur
+, boîte de vitesse, embrayage, 
+essieux, etc.
+Sous forme de fiches synthétiques , l’objectif de cet ouvrage est d’apporter 
+une aide efficace au sein d’une démarche professionnelle méthodique 
+supplémentaire indispensable pour acquérir une méthode de travail .
+À qui s’adresse cet ouvrage  ?
+Ces fiches s’adressent particulièrement aux futurs professionnels de la main-
+tenance automobile en formation, que ce soit par la voie de la formation 
+initiale  (du CAP au Bac Pro) en lycée professionnel ou par celle des stages 
+ou de l’apprentissage en alternance . Ils y trouveront les moyens de 
+travailler de manière autonome , l’enseignant ou le formateur étant ainsi 
+plus disponible pour répondre aux questions de chacun et pour organiser les différents postes de travail. 
+Cet ouvrage s’adresse également à toute personne qui désire s’occuper de 
+l’entretien de son véhicule . Ces fiches représentent la boîte à outils 
+idéale  ainsi qu’une aide efficace et méthodique pour certaines interventions 
+qui ne demandent pas de matériel coûteux et spécifique.
+Enfin, les automobilistes qui souhaitent seulement pouvoir mieux dialoguer 
+avec leur garagiste et comprendre une réparation y découvriront toutes les connaissances nécessaires.
+Comment travailler avec ce manuel  ?
+La fiche se prête particulièrement bien à une présentation synthétique 
+des connaissances . Elle constitue un véritable document ressource 
+lorsque l’élève travaille sur un TP à l’atelier. L’utilisateur ou l’élève retrouve l’essentiel de ce qu’il doit connaître sous une forme concise
+ :
+> >l’objectif de la fiche,
+> >le matériel, les consommables et la documentation nécessaire,
+> >l’organisation du poste de travail,
+> >la réalisation de l’intervention,
+> >les différents contrôles et mesures,
+> >les précautions.INTRODUCTIONLes fiches, traitées sur une double page , sont regroupées par thème pour 
+une meilleure vision de l’intervention ou du contrôle à réaliser  :
+> >Documentation et outillage
+> >Moteur
+> >Injection
+> >Allumage
+> >Transmission
+> >Freinage
+> >Suspension
+> >Train roulant
+>
+>Électricité
+> >Organe de sécurité et de confort
+En fin d’ouvrage, une fiche de relevé des contrôles vierge  permet de no-
+ter et de comparer ses mesures avec celles du constructeur. Il est vivement 
+conseillé de la photocopier car elle sera utile dans de nombreux cas.
+Un document de synthèse sur les déchets principaux  d’un atelier de mé-
+canique est donné également à la fin de l’ouvrage pour indiquer où stocker 
+ses déchets et leur destination finale dans un souci de respect de l’environ-nement.
+Ce recueil de fiches, accompagné des ouvrages de Technologie fonction-
+nelle de l’automobile , tomes 1 et 2 , forment avec la documentation 
+technique des véhicules un ensemble cohérent adapté à un apprentissage 
+méthodique permettant de développer l’autonomie et l’adaptabilité
+ : des 
+qual
+ités devenues indispensables pour appréhender des technologies en per-
+pétuelle évolution.
+Bruno CollombTABLE DES MATIÈRES
+1 RECHERCHE D’UNE PANNE
+2 IDENTIFIER ET CHOISIR L’OUTILLAGE
+3 ORGANISER UNE RÉPARATION
+4 AMÉLIORER SON SAVOIR-FAIRE
+60 UTILISATION DU PIED À COULISSE 
+ET DU MICROMÈTRE (MÉTROLOGIE)
+61 UTILISATION D U COMPARATEUR  
+(MÉTROLOGIE )
+62 FICHE DE RELEVÉ DES CONTRÔLES
+63 LES DÉCHETS  PRINCIPAU x 
+D’UN ATELIER  DE MÉCANI qUE
+5 VIDANGER UN MOTEUR
+6 RÉGLER LE JEU AU x SOUPAPES
+7 REMPLACER LE LI qUIDE DE 
+REFROIDISSEMENT
+8 CONTRÔLER LE CIRCUIT DE REFROIDISSEMENT
+9
+ CONTRÔLER LES COMPRESSIONS
+10 DÉPOSER, CONTRÔLER ET REPOSER LA CULASSE
+11
+ CONTRÔLER ET REMPLACER DES SOUPAPES
+12
+ CONTRÔLER L’USURE DES CYLINDRES
+13 REMPLACER LES CHEMISES ET LES PISTONS
+14
+ CONTRÔLE DU VILEBRE qUIN
+15 CONTRÔLER LE DÉPASSEMENT DES CHEMISES
+16
+ CALER LA DISTRIBUTIONET OUTILLAGE
+MOTEURDOCUMENTATION17 CONTRÔLE DU CIRCUIT D’ALIMENTATION 
+SUR UN SYSTÈME D’INJECTION 
+18 CONTRÔLER UN SYSTÈME D’INJECTION ÉLECTRONI
+qUE
+19 CONTRÔLER L’ANTIPOLLUTION
+20 REMPLACER UN FILTRE À CARBURANT
+21 REMPLACER ET RÉGLER DES BOUGIES
+22 CONTRÔLER UN SYSTÈME D’ALLUMAGE
+23 CONTRÔLER ET RÉGLER LA GARDE D’EMBRAYAGE
+24
+ REMPLACER ET CONTRÔLER UN EMBRAYAGE
+25
+ REMPLACER UNE TRANSMISSION
+26 REMPLACER UN SOUFFLET DE TRANSMISSION (
+JOINT  TRIPODE )
+27 REMPLACER UN SOUFFLET DE TRANSMISSION (
+JOINT  À BILLES )
+28 CONTRÔLER ET RÉGLER UNE BOÎTE DE VITESSESTABLE DES MATIÈRES
+INJECTION
+ALLUMAGE
+TRANSMISSION29 CONTRÔLER LE SYSTÈME DE FREINAGE
+30 REMPLACER DES PLA qUETTES 
+DE FREINS
+31 REMPLACER DES FREINS À TAMBOURS
+32 PURGER LE CIRCUIT DE FREINAGE
+33 RÉGLER UN CORRECTEUR DE FREINAGE
+34 REMPLACER ET CONTRÔLER 
+UN SERVO-FREIN
+35 CONTRÔLER LES CAPTEURS  
+D’UN SYSTÈME ABS
+36 CONTRÔLER LES COMPOSANTS  
+ÉLECTRI qUES D’UN SYSTÈME ABS
+37 DÉPOSER ET REPOSER UN AIRBAG CONDUCTEUR
+58
+ CONTRÔLER ET RECHARGER UNE CLIMATISATION
+59
+ CONSIGNES  DE SÉCURITÉ  
+(SYSTÈME  DE CLIMATISATION )
+38 CONTRÔLER LA SUSPENSION
+39 REMPLACER UN AMORTISSEUR ARRIÈRE
+40 REMPLACER UN AMORTISSEUR AVANTTABLE DES MATIÈRES
+FREINAGE
+ET DE CONFORT
+SUSPENSIONORGANES DE SÉCURITÉ41 CONTRÔLER LES PNEUMATI qUES
+42 REMPLACER UN PNEUMATI qUE
+(À LA TABLE  DE MONTAGE )
+43 REMPLACER UN PNEUMATI qUE
+(À LA MACHINE  À PNEUS )
+44 ÉqUILIBRER UNE ROUE
+45 PRÉPARER AU CONTRÔLE 
+DE LA GÉOMETRIE DU VÉHICULE
+46 CONTRÔLER LA GÉOMETRIE DU TRAIN AVANT
+47
+ REMPLACEMENT D’UN ROULEMENT DE ROUE
+48 UTILISATION D’UN MULTIMÈTRE
+49 CONTRÔLER ET CHARGER UNE BATTERIE
+50 CONTRÔLER UN RELAIS
+51 CONTRÔLER L’ÉCLAIRAGE ET LA SIGNALISATION
+52
+ RÉGLER LES PHARES
+53 REMPLACER LE DÉMARREUR ET L’ALTERNATEUR
+54
+ CONTRÔLER LE CIRCUIT DE CHARGE
+55 CONTRÔLER LE CIRCUIT DE DÉMARRAGE
+56 RÉVISER UN DÉMARREUR
+57 RÉVISER UN ALTERNATEURTABLE DES MATIÈRES
+TRAIN ROULANT
+ÉLECTRICITÉCollecter 
+les informationsClient 
+VéhiculeVérifier et confirmer 
+le dysfonctionnement constaté
+Faire les contrôles 
+préliminaires
+Lister les hypothèses
+Classer les hypothèses 
+hiérarchiquementDe la plus logique 
+à la moins évidente
+Réaliser des essais 
+et des mesures
+Comparer et 
+trouver les défauts
+Éliminer la causeAttention à bien éliminer la cause 
+si non le défaut risque de réapparaître
+Remettre en conformité
+Valider la réparation Essai du système ou essai routierVoir les valeurs constructeursVoir dans la rubrique « à noter »RECHERCHE  
+D’UNE PANNE
+	Observer des symptômes et, par déduc-
+tion, découvrir l’origine des défauts de fonctionnement d’un système.
+	
+Exploiter facilement des documents 
+techniques, élaborer le diagnostique et résoudre des pannes.	La documentation technique du véhicule
+	Le matériel nécessaire pour rechercher la panne constatéeMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES1
+Objectif
+LES ÉTAPES D E LA RECH ERCHE D’UNE PANNEPour collecter des informations auprès du client, 
+il est bon de poser des questions pertinentes  :
+> >quel est le défaut constaté  ?
+> >qui est le conducteur principal  ? qui a con s-
+taté le défaut  ? qui a touché le véhicule  ? 
+(client, garage, autre)
+> >Où cela s’est produit  ? quel type de route  ?
+> >quand se produit le problème (matin, soir, 
+par temps de pluie  ?), quand cela s’est pro-
+duit la première fois  ?
+> >Dans quelles circonstances  ?
+> >Est ce que cela se produit souvent  ? Con-
+sommez-vous anormalement de l’huile, 
+de 
+l’essence  ?
+Pour démarrer la recherche de panne 
+il est 
+nécessaire de  :
+> >connaître  le fonctionnement du système  ;
+> >déterminer  les éléments pouvant être en 
+cause  ;
+> >connaître  l’implantation des éléments  ;
+> >savoir quels outils je peux  utiliser  ;
+> >savoir contrôler  les éléments mis en cause.Il est important, en premier lieu,  de contrôler
+ :
+•  les niveaux de carburant, d’huile mo-
+teur, d
+e liquide de refroidissement, 
+de la batterie, du liquide de frein  ;
+•  l’état des courroies et des durites  ;
+•  les bons contacts électriques des 
+cosses de batterie, la connexion des connecteurs
+ ;
+•  les voyants défauts au tableau de 
+bord.
+La couleur de la fumée d’échappe-ment peut donner des indications im-portantes
+ :
+•  fumée blanche et humide  : normale 
+à froid, si elles persiste moteur chaud il y a au minimum rupture du joint de culasse (consommation de liquide de refroidissement)
+ ;
+•  fumée bleue ou grasse  : il y a usure 
+des segments et des cylindres  
+(consommation d’huile)  ;
+•  fumée noire  : le filtre à air est bou-
+ché, le mélange carburé est trop riche (consommation anormale de carburant), l’EGR est grippé.À NOTERL’OUTILLAGE COURANTIDENTIFIER  
+ET CHOISIR L ’OUTILLAGE
+	Proposer une liste de l’outillage mini-
+mal nécessaire à la réalisation de tâche simple
+	Connaître certains matériels spécifiques pour réaliser des tâches plus complexes	Catalogues d’outillage ou un poste infor-matique avec connexion Internet afin de sélectionner le matériel nécessaire
+	Établir une liste chiffrée de l’outillage à acquérir
+	Une caisse à outilsMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES2
+OBJECTIF
+À fourche
+Mixte
+À pipe débouchéeÀ molette
+À bougies
+DynamométriqueMâles « Allen »
+« Torx »
+Multiprise
+Étau
+Coupante diagonaleUniverselle
+Garagiste
+À dénuder
+Plats CruciformesCourt
+platCourt
+cruciforme
+Les clés
+Le coffret à douilles Les pinces
+Les tournevisL’outillage courant est suffisant pour 
+réaliser les opérations simples. Il n’en est pas de même de l’outillage spé-cifique demandé pour les opérations plus compliquées, qui représentent pour les professionnels des investis-sement très importants.À NOTER
+Burette
+Bac de vidange
+Démonte-obus
+CaleClé de vidange
+Sangle
+à
+cartoucheLubrifiant
+pneus
+Cric rouleur
+ChandelleDémonte-
+pneuBrosse métalliqueBoites 
+de rangement
+Housse d’aile
+Pince 
+à freins
+Baladeuse
+Cric rouleur Chandelle
+Pied à coulisseL’outillage pour l’entretien
+Les instruments de mesure
+Multimètre
+L’OUTILLAGE  SPÉCIFI qUE 
+(ExEMPLES )
+Compresse 
+ressortCompressiomètreAppareils
+de diagnosticORGANISER SON POSTE DE TRAVAIL
+S’informer
+> >Vérifier  que le défaut de fonctionnement né-
+cessite bien l’intervention prévue.
+> >Choisir  parmi les fiches celle qui corres-
+pond à l’intervention.
+> >Vérifier  que la revue technique correspond 
+bien avec le type précis du véhicule et re-
+lever :
+• la métho
+de utilisée pour la réparation,
+• les vale
+urs constructeur,
+• les vale
+urs de couple de serrage.
+> >Vérifier  que l’on possède bien l’outillage 
+nécessaire.
+Préparer
+> >Dégager  l’aire de travail.
+> >Préparer  une servante d’atelier.
+> >Disposer  les principaux outils à utiliser ain-
+si que la caisse à outils sur la servante.
+> >Préparer  le véhicule  :
+• lever  le capot  ;
+• placer  les prote
+ctions (housse d’ailes, 
+housse de siège, tapis de sol, protection volant).
+RÉALISER L’INTERVENTION
+> >Nettoyer  la zone d’intervention.
+> >En cas de levage  du véhicule  :
+• placer le cric sous le longeron av
+ant ou 
+arrière et lever  ;• Chercher  
+la revue technique correspon-
+dante au véhicule.
+• Préparer  
+la servante et les outils néces-
+saires.
+• Protéger  
+le véhicule (housse de siège, 
+housse d’ailes, tapis de sol…).
+Servante d’atelierORGANISER  
+UNE RÉPARATION
+Travailler méthodiquement afin d’éviter  :
+	les pertes de temps
+	les dégradations sur les véhicules
+	les accidents corporels
+Prévenir les risques professionnels.	La fic he correspondant à la réparation  
+à effectuer
+	La revue technique (RT) correspondant au véhicule à réparerMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES 3
+OBJECTIF
+• placer  une chandelle sous le bas de caisse 
+au poi
+nt d’ancrage (voir RT)  ;
+• libérer  le cric  ;
+• répéter  l
+’opération pour l’autre côté du 
+même essieu  ;
+• s’assure
+r de la stabilité du véhicule  ;
+• déposer  les roues.
+> >En cas de vidange  des liquides, prévoir  la 
+contenance du bac par rapport aux conte-
+nances à vidanger pour éviter tout débor-dement.
+> >S’éclairer  avec une baladeuse alimentée 
+en 24 V continu ou une baladeuse rechar-geable (le 220 volts présente des risques d’électrocution).
+CONTRÔLER
+Lorsque la réparation est terminée  :
+> >Serrer  vis, écrous, colliers…
+> >Vérifier  tous les niveaux.
+> >Vérifier  le serrage des roues (clé dynamo-
+métrique) et la pression des pneumatiques.
+> >Essayer  le véhicule.
+> >Vérifier  les éventuelles fuites.
+> >Ranger  et nettoyer son poste de travail.Housse d’aile
+Longeron
+Cric
+Levage du véhicule
+BaladeuseSi l’on n’est pas en possession  de la documentation correspondant exactement au type de véhicule ni de l’outillage nécessaire, il est préférable de renoncer à effectuer l’opération.
+L’essentiel de cette fiche est valable 
+pour pratiquement toutes les inter-ventions décrites dans les autres fiches.À NOTERORGANISER SON POSTE DE TRAVAIL
+Identifier la boulonnerie
+> >Respecter l’appellation des éléments  : 1 vis 
++ 1 écrou = 1 boulon.
+> >Il existe un grand nombre de formes de 
+têtes de vis (à tête hexagonale, hexagonale creuse, à tête fraisée, etc..).
+> >Un goujon se serre et se desserre en pla-çant deux écrous bloqués un sur l’autre (les pinces détériorent le filetage), puis se dé-visse comme une vis. Respecter le sens des goujons.
+> >Le pas d’une vis est la distance en mm qui sépare 2 filets contigus. Attention, les vis peuvent être au pas normalisé ou non, véri-fier la concordance des pas avant de visser.
+RÉALISER L’INTERVENTION
+Desserrer – Dévisser
+1. Utiliser de préférence une clé à pipe dé-
+bouchée 
+ou une douille à 6 pans. En cas 
+d’accès difficile, utiliser une clé à œil. La clé à fourche présente l’inconvénient d’arrondir les têtes de vis trop serrées.
+2.
+ Pour augme
+nter la force de desserrage, 
+utiliser  une poignée coulissante ou une 
+clé à tube, munies d’un tube (rallonge) augmentant le bras de levier (ne pas utili-ser ce tube au serrage). Éviter l’usage du cliquet car on risque de détériorer la roue libre intérieure.
+3.
+ Travaill
+er dans une position confortable en 
+utilisant des outils à sa disposition (exemple  : 
+cliquet 
++ rallonge + cardan + douille).AMÉLIORER  
+SON SAVOIR-FAIRE
+Découvrir quelques règles de base qui per-mettent des démontages sans risque pour l’opérateur, le système démonté et l’ou-tillage ainsi que la fiabilité du serrage.	la revue technique (RT) correspondant au véhicule rubrique «
+ couples de serrage  »
+	l’outillage approprié à l’interventionMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES4
+OBJECTIF
+Vis + écrou = boulon
+ÉcrouExtrémité
+plate : vissée
+dans la pièceContre-écrou
+Extrémité
+bombée: 
+côté écrou
+Goujon
+Pas
+Diamètre
+nominalDiamètre
+nominalPas
+normalisé
+6
+8
+10121 mm
+1,251,501,75
+Augmenter la force
+Tube
+Cliquet
+Cardan
+Rallonge
+DouilleRallonge
+Travailler confortablementAugmenter
+la longueur
+non oui
+Dévisser
+Pour dévisser ou visser une vis à tête fendue, 
+le tournevis à utiliser est celui dont la largeur de la lame correspond exactement à la lon-gueur de la fente.
+Serrer
+1. Lorsqu’une pièce à serrer comporte plu-
+sieurs vis, faire prendre , puis approcher 
+toutes les vis à la main. Serrer ensuite l’en-semble. Ne jamais serrer une vis alors que les autres ne sont pas prises.
+2. Respecter les couples de serrage. Utiliser 
+la clé dynamométrique à chaque fois que le couple de serrage est indiqué dans la revue technique. Les couples s’expriment en new-ton-mètre (N.m) ou en déca newton-mètre (daN.m).
+Rendre indesserable
+1.  Les éléments qui présentent un réel danger 
+s’ils se 
+desserrent comportent un système 
+de protection. Exemples  : biellettes, élé-
+ments de direction et de freinage. 
+ Il est n
+écessaire de les remplacer à 
+chaque démontage.
+2. Tout écrou classique doit être monté
+ avec 
+une rondelle plate ou une rondelle éventail, ou les deux.
+3.
+ Il exist
+e également un produit appelé «  frein 
+filet » qui pe
+rmet de maintenir bloqué par 
+exemple un écrou sur un filetage.
+Certaines vis ont le pas à gauche, elles sont en général repérées par une encoche sur les arêtes des plats. Dans ce cas, dévisser dans le sens habituel de vissage.À NOTER
+Toutes les vis
+prises avant de serrer
+Clé fictiveF = 10 N
+Longueur = 1 MMoment du 
+couple de serrage
+= 10 N⋅m
+= 1 daN ⋅m
+Bague nylon
+Écrou 
+« Nylstop »Créneaux fins
+Écrou 
+haute température
+Tôle frein
+ou « arrêtoir »Goupille 
+fendue Écrou 
+à créneaux
+Clé dynamométrique
+Frein
+Filet
+ORGANISER SON POSTE DE TRAVAIL
+Relever dans le manuel  
+du véhicule
+> >Le type d’huile moteur préconisée.
+> >La quantité d’huile nécessaire.
+> >Le type d’huile de transmission.
+> >Le type de liquide de freins.
+Préparer
+> >La quantité d’huile nécessaire.
+> >Le filtre à huile.
+> >La clé à vidange, la clé à filtre.
+> >Le bac à vidange.
+> >Un chiffon et les protections du véhicule 
+(housse d’aile et de siège, tapis de sol).
+RÉALISER L’INTERVENTION
+Vidanger
+1. Ouvrir le bouchon de remplissage d’huile 
+et la jauge.
+2. Lever le véhicule.
+3. Dévisser le bouchon de vidange au-dessus 
+du bac et laisser égoutter.
+Remplacer le filtre à huile
+1. Placer le bac sous le filtre.
+2. Dévisser le filtre à l’aide de l’outil spéci-
+fique ou d’une sangle spéciale. Vider l’huile dans le bac.
+3. Huiler le joint du nouveau filtre.
+4. Visser jusqu’au contact avec le bloc moteur.
+5. Serrer à la main de ¾ de tour.VIDANGER  
+UN MOTEUR
+	Remplacer l’huile du moteur au kilomé-trage préconisé par le constructeur
+	Contrôler les niveaux des différents liquides
+	Effectuer les contrôles usuels	L’huile moteur préconisée
+	Le filtre 
+	La clé à vidange, la clé à filtre et le bac à vidange
+	Le manuel de bord du véhicule ou la revue techniqueMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES5
+OBJECTIF
+> >quelle huile  pour le moteur  ?
+> >quelle huile pour la boîte  ?
+> >quelle huile pour les freins  ?
+> >quelle quantité  ?
+ Dévisser
+Remplacer le filtre à huile
+Remplir
+1.  Remplacer le joint de bouchon de vidange.
+2. Revisser
+ le bouchon après écoulement 
+complet. Serrer modérément
+3. Essuyer le carter inférieur
+.
+4. Enlever le 
+bac de vidange et baisser le vé-
+hicule.
+5. Verser l’huile lentement. Replacer la jauge, 
+vérifier le niveau après un temps d’écoule-
+ment.
+6. Placer une étiquette de vidange ou remette 
+l’indicateur de maintenance du tableau de bord à 0.
+Vérifier les niveaux
+1. Boîte de vitesses  
+Boîte manuelle  : Rechercher dans la revue 
+technique la position 
+du bouchon de niveau. 
+Le dévisser. L’huile doit affleurer la partie in-férieure du trou.
+Boîte automatique
+ : Faire tourner le moteur. 
+Tirer 
+la jauge spéciale et vérifier le niveau. 
+Ajouter l’huile préconisée par le trou de niveau 
+si nécessaire.
+2. Freins 
+Vérifier le niveau dans le bocal situé sur le maître cylindre. Ajouter l’huile spéciale freins si le niveau est en dessous du mini.
+3. Liquide de refroidissement
+Vérifier le niveau dans le vase d’expansion. Ajouter le liquide jusqu’au repère maxi.
+4. Batterie (sauf dans le cas  
+d’une batterie sans entretien)
+Vérifier le niveau d’électrolyte de chaque élé-
+ment. Compléter avec de l’eau distillée (10  mm 
+au-dessus des plaques.
+Il est possible de vidanger par aspi-ration grâce à une pompe électrique. Toutefois, il est recommandé de vidanger de temps en temps par le dessous afin de détecter la présence éventuelle de corps étranger dans l’huile (eau, limaille, etc.).À NOTER
+Indice
+de fluidité
+à froidIndice
+de viscosité
+à chaud
+W = Winter
+(hiver)
+1 2
+Témoin 
+de niveau
+Niveau
+de liquide 
+de freins Maxi
+Mini
+Maitre
+cylindre
+Comment lire  
+la viscosité d’une huile  ?
+1. Bouchon de vidange
+2. Bouchon de remplissageORGANISER  SON POSTE  DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >la valeur du jeu des soupapes
+> >les conditions de réglage (moteur chaud, 
+moteur froid)
+> >la méthode de réglage préconisée
+Préparer
+> >Préparer l’outillage et le jeu de cales d’épais-seur
+> >Déposer le cache culbuteurs
+> >Repérer les soupapes d’admission (en pro-longement de la tubulure d’admission), les soupapes d’échappement (en prolongement de la tubulure d’échappement)
+CONTRÔLER , RÉGLER
+Culbuteur à vis
+Méthode dite «  en balance  »
+> >Tourner le vilebrequin  jusqu’à obtenir la 
+fin de la fermeture de la soupape d’échap-pement et le début de l’ouverture de la sou-pape d’admission (point de balance) du cy-lindre n°
+ 1 (en général côté volant moteur).
+> >Contrôler  et éventuellement régler  le jeu 
+des soupapes d’admission et d’échappe-ment du cylindre n°
+ 4 (côté opposé au vo-
+lant moteur).
+> >Rechercher  la balance du cylindre n°  3 et 
+régler  l’admission 
+et l’échappement du 2. 
+Pour la suite, suivre la méthode ci-contre.RÉGLER LE JEU  
+AUX SOUPAPES
+Maintenir un jeu fonctionnel entre la queue de soupape et sa commande lorsque la came est inactive.	La revue technique
+	L’outillage courant
+	
+Un jeu de cales d’épaisseur (jeu de jauges)
+	Des pastilles si c’est un réglage par pas-tilleMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES6
+OBJECTIF
+Vis de
+réglage
+CameJeu
+Soupape
+Balance
+admission et
+échappementRégler
+admission et
+échappement
+Méthode dite «  pleine ouverture  »
+> >Tourner le vilebrequin  jusqu’à obtenir 
+l’ouverture complète de la soupape d’échap-
+pement du cylindre n°  1 (enfon
+cement com-
+plet).
+> >Régler  le jeu des soupapes d’admission du 
+cylindre n°  3 et d’échappement du cylindre 
+n° 4.
+> >Mettre en pleine ouverture  la soupape 
+d’échappement du cylindre n°  3 et régler 
+l’admission du 4 et l’échappement de 2. Pour la suite suivre la méthode ci-contre.
+Réglage par pastille
+> >Contrôler  le jeu de toutes les soupapes se-
+lon la méthode préconisée pour ce moteur.
+> >Noter  le jeu trouvé pour chaque soupape.
+> >Faire la différence  entre les valeurs trou-
+vées et celles préconisées.
+> >Déposer  l’arbre à cames en repérant le ca-
+lage de la distribution.
+> >Mesurer  l’épaisseur des pastilles pour cha-
+que soupape.
+> >Placer  les nouvelles pastilles plus ou moins 
+épaisses que celles trouvées selon le cas (voir le tableau ci-contre pour un exemple).
+> >Remonter  l’arbre à cames en remettant le 
+pignon au repère de calage.
+Les méthodes en balance et en pleine ouverture proposées correspondent aux moteurs 4 cylindres en ligne avec un ordre d’allumage
+ : 1 – 3 – 4 – 2.À NOTER
+Arbre à cames
+Jeu de fonctionnement
+Poussoir
+de soupape
+Soupape
+Jeu relevé
+Jeu préconisé
+Différence
+Pastille trouvée
+À placer
+Pleine
+ouverture
+d’échappement
+Régler
+adm. échap.Déconnecter 
+la durite inférieure s’il n’y a pas de bouchon de vidange
+ORGANISER SON POSTE DE TRAVAIL
+Rechercher dans la revue  
+technique du véhicule
+> >Le schéma du circuit.
+> >La position des bouchons de vidange et des vis de purge.
+> >La contenance du circuit.
+Préparer
+> >La quantité de liquide de refroidissement né-cessaire.
+> >Un bac à vidange.
+> >Les protections du véhicule (housse d’aile et de siège, tapis de sol).
+RÉALISER L’INTERVENTION
+Vidanger
+1. Attendre que la température du liquide ait 
+diminué (ainsi que la pression). Faire chuter la pression résiduelle en ouvrant progressi-vement le bouchon de remplissage du vase d’expansion (ou du radiateur si le circuit ne comprend pas de vase).
+2. Ouvrir le bouchon de vidange du radiateur 
+au-dessus d’un bac de récupération, ou dé-connecter la durite inférieure.
+3. Déposer le bouchon de vidange du bloc-
+moteur (rechercher son emplacement dans la revue technique).
+4. Vider et nettoyer  le vase d’expansion.
+Remplir
+1. Visser le bouchon du bloc-moteur et le bou-
+chon de vidange du radiateur, remonter la durite inférieure.REMPLACER LE LIQUIDE  
+DE REFROIDISSEMENT
+	Évacuer les dépôts qui se forment dans les cavités du moteur et de la culasse afin d’éviter l’entartrage du moteur.
+	Remplacer le liquide de refroidissement qui perd peut à peut de ses propriétés.	La revue technique du véhicule
+	Du liquide de refroidissement
+	Un bac pour récupérer le vieux liquide
+	L’outillage courantMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES7
+OBJECTIF
+> >Ouvrir lentement le circuit.
+> >Déposer les bouchons de vidange  du radiateur et du bloc-moteur.2.  Ouvrir la ou les vis de purge.
+3. Remplir le 
+vase d’expansion jusqu’au re-
+père maxi avec le liquide de refroidisse-
+ment.
+Purger
+Dans tous les cas, mettre la commande de chauffage au maxi (au plus chaud).
+Circuit sans vase d’expansion
+Laisser tourner le moteur, bouchon de radia-teur ouvert, jusqu’à ouverture du thermostat (le liquide circule dans la durite supérieure qui devient très chaude).
+Circuit avec vase d’expansion
+1.  Le liquide de refroidissement  est au ni-
+veau dans le vase.
+2.
+  Le bouch
+on du radiateur  est fermé, ce-
+lui du vase est ouvert.
+3.  Placer le v
+ase le plus haut possible si le 
+liquide ne s’écoule pas des vis de purges.
+4.  Fermer les vis 
+de purge dès que le liquide 
+s’écoule en jet continu (sans bulle d’air), compléter le niveau du vase et fermer le circuit.
+5. 
+ Démarrer
+ le moteur et le maintenir au ré-
+gime de 1500  tr/min.
+6.  Laisser 
+tourner le moteur jusqu’à l’en-
+clenchement puis l’arrêt du moto ventila-teur de refroidissement.
+7. 
+ Ramener le 
+moteur à son régime de ra-
+lenti.
+8.  Arrêter le 
+moteur puis attendre son re-
+froidissement.
+9.  Ouvrir lentement le 
+bouchon du vase 
+d’expansion pour faire chuter la pression
+10.  Contrôle
+r et corriger  le niveau si néces-
+saire.
+Si le vase d’expansion est fixé au point le plus haut du circuit, il n’est pas nécessaire de le soulever. S’il est solidaire du radiateur, bien suivre les instructions du constructeur (revue technique).
+Il est nécessaire de contrôler le cir-
+cuit de refroidissement lors du rem-placement du liquide de refroidisse-ment. (voir fiche suivante)
+Ne jamais ouvrir la vis de purge mo-
+teur tournant.
+Ne jamais ouvrir le bouchon du vase 
+d’expansion moteur chaud.À NOTER
+Durite de liaison 
+vase / radiateurVase non accolé 
+au radiateur
+MiniMaxi> >Mettre le chauffage au maximum pour que le liquide circule dans le radiateur de chauffage habitacle et que  le circuit soit purger correctement.
+Radiateur de refroidissement
+> >Mettre le vase au niveau.ORGANISER SON POSTE DE TRAVAIL
+Rechercher dans la revue  
+technique du véhicule
+> >Le schéma du circuit de refroidissement 
+avec ses composants.
+> >Les températures d’ouverture du thermos-tat et de mise en marche du motoventila-teur.
+> >La pression de tarage de la soupape du vase d’expansion.
+Préparer
+> >Un pèse antigel ou un réfractomètre.
+> >Un contrôleur d’étanchéité.
+> >Un thermomètre.
+RÉALISER L’INTERVENTION
+Contrôler (moteur arrêté)
+1. Laisser refroidir  quelques minutes et ou-
+vrir les bouchons du vase d’expansion et du radiateur (s’il est distinct). Vérifier  si
+ :
+• le niveau est correct dans le vase,
+• la protection contre le gel est correcte 
+(à 
+l’aide du pèse antigel).
+2. Contrôler  :
+• le serrage de tous les colliers
+• l’état apparent des courroies, des durites et du radiateur
+•
+ la pompe à eau (fuite visuelle et contrôle du jeu si elle est accessible)
+3
+. Contrôler les éventuelles fuites  : Mettre 
+le circuit en pression. Monter l’embout du contrôleur d’étanchéité à la place du bou-CONTRÔLER LE CIRCUIT  
+DE REFROIDISSEMENT
+	Contrôler et diagnostiquer une anomalie sur un circuit de refroidissement dû a un échauffement du moteur
+	Contrôler l’étanchéité du circuit de refroi-dissement	La revue technique du véhicule
+	Du liquide de refroidissement
+	Le matériel spécifique de la rubrique «
+ préparer  »MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES8
+OBJECTIF
+Bouchon
+soupapes Raccord
+Pompe
+de contrôlePèse antigel
+Contrôleur d’étanchéité
+Raccord pour contrôler la pression  
+de tarage de la soupape du bouchonchon du radiateur ou du vase d’expansion 
+selon le montage. Pomper jusqu’à une pres-sion de 0,1 bar inférieure à la pression de tarage de la soupape du vase. Contrôler les fuites éventuelles sur tous les éléments du circuit (durites, raccords, pompe à eau, ra-diateur…).
+4. Vérifier la pression de tarage  de la sou-
+pape du vase (à l’aide du contrôleur d’étan-chéité).
+5. Contrôler le fonctionnement du moto-
+ventilateur
+ : Débrancher le connecteur 
+du thermocontact et relier 
+les deux bornes 
+électriquement entre elles  ; le ventilateur 
+doit tourner (contact mis). S’il 
+ne tourne 
+pas, changer le thermocontact. Ce test est possible si le véhicule n’est pas multiplexé. Sinon, il faut faire un test actionneur à l’aide de l’outil de diagnostic.
+Contrôle de la régulation  
+de température
+Le niveau du vase est correct, la courroie est tendue et le circuit est purgé. Le thermocon-tact a été contrôlé, il fonctionne.
+Contrôler la température de déclenchement 
+du motoventilateur à l’aide de l’indicateur du tableau de bord ou d’un thermomètre. S’il y a dysfonctionnement
+ :
+> >Calorstat bloqué fermé  : La mise en re-
+lation av
+ec le radiateur ne se fera pas et 
+donc le moteur va surchauffer (risque pour le joint de culasse), les motoventilateurs ne se déclencheront pas car la sonde qui les commande ne recevra pas de liquide chaud.
+> >Calorstat bloqué ouvert  : Le moteur verra 
+toujours son liq
+uide circuler vers le radia-
+teur, donc il sera dès le départ refroidit. Le moteur n’arrivera pas à atteindre une tem-pérature de fonctionnement normale (T° de liquide entre 80 et 90°), ce qui impli-quera une consommation et une pollution en hausse.
+> >Calorstat qui grippe  : La montée en tem-
+pérature se 
+fera normalement mais on va 
+dépasser le seuil de température normale pour l’ouverture, puis il va s’ouvrir d’un coup et la température chutera alors rapi-dement pour devenir normale.
+Dans tous les cas, si l’indicateur du tab-leau de bord entre dans sa zone rouge ou si la lampe témoin de température s’allume alors que le liquide n’a pas cir-culé dans la durite supérieure, il faut rem-placer le calorstat.Pour contrôler les fuites en pression sans pompe de contrôle, il faut pur-ger le circuit, fermer les bouchons de vase et du radiateur
+ ; faire monter le 
+moteur en température (motoventi-lateur enclenché) et contrôler visuel-lement les écoulements de liquide de refroidissement.À NOTER
+Thermostat fermé
+Thermostat ouvert
+1
+2Calorstat
+Le circuit est surveillé par  :
+> >Un capteur de niveau d’eau 1.
+> >Un capteur de température d’eau 2.ORGANISER SON POSTE DE TRAVAIL
+Rechercher dans la revue  
+technique du véhicule
+> >Le rapport volumétrique.
+> >La pression en fin de compression.
+> >Le jeu aux soupapes.
+PRÉPARER LA MESURE
+1. Contrôler le serrage de la culasse (fiche 
+suivante).
+2. Contrôler le réglage du jeu aux soupapes 
+(fiche 6).
+3. Déposer les 
+bougies (moteur essence)  ; les 
+injecteurs ou les bougies de préchauffage 
+(moteur diesel). 
+Il est préférable sur les 
+moteurs diesel injection directe de placer les compressiomètre à la place des bougies de préchauffage.
+4.
+ Déconnec
+ter l’alimentation des bobines 
+(moteur essence).
+5. Lire la notice du compressiomètre.
+6. Placer sur le compressomètre les rallonges 
+et embout adéquat.
+7. Placer une carte vierge sur le support du 
+compressiomètre.
+8. Remettre le compressiomètre à 0.
+CONTRÔLER – MESURER
+Il est nécessaire qu’il y ait une deuxième per-sonne (moteur essence).
+1.
+ Le premi
+er opérateur appuie  fortement 
+l’embout du compressiomètre sur le trou de 
+bougie.CONTRÔLER  
+LES COMPRESSIONS
+	Vérifier l’étanchéité de la chambre de combustion, principalement réalisée par les soupapes et les segments.
+	Mesurer les pressions en fin de compres-sion.	La revue technique du véhicule
+	Une clé à bougie
+	Le compressiomètre adapté pour un mo-
+teur essence (pressions de 0 à 20 bar) ou pour un moteur diesel (0 à 40 bar) avec sa notice
+	Une fiche de relevé des contrôlesMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES9
+OBJECTIF
+Compressiomètre
+Clé à bougies2. Le deuxième opérateur appuie  à fond sur 
+la pédale d’accélérateur (uniquement sur 
+moteur essence) et actionne le démarreur pendant 5 secondes.
+3.
+ Lire la valeur
+, appuyer sur la pointe de 
+l’embout pour faire chuter la pression.
+4. Déplacer
+ la fiche graphique afin que l’ai-
+guille se présente en face du deuxième cy-lindre.
+5.
+ Reprodui
+re la même opération sur les 
+autres cylindres.
+SYNTHÈSE
+1. La valeur trouvée en bars pour chaque cy-
+lindre doit être au moins égale au chiffre du rapport volumétrique.
+Exemple
+ : rapport volumétrique = 9/1, pres-
+sion de compression minimale de 9 bar
+.
+2. La différence de pression entre les différents 
+cylindres ne doit pas être inférieure à 1 bar. Une pression anormalement faible répartie régulièrement sur tous les cylindres indi-quera principalement une usure de la seg-mentation et des cylindres. 
+Une pression nettement inférieure sur un seul cylindre peut provenir principalement d’une soupape grillée (son métal a perdu une partie de ses propriétés) ou de segments cassés sur un piston.
+D’autres indices peuvent aider à l’éta-blissement de diagnostic des com-pressions, tels qu’un kilométrage im-portant, une consommation anormale d’huile, un manque de puissance ou un démarrage à froid difficile.À NOTER
+Pression en bars
+Pression en barsCylindres Cylindres
+Manque de compression
+sur cylindre n° 1Diagramme normalORGANISER SON POSTE DE TRAVAIL
+Rechercher dans la revue  
+technique du véhicule
+> >L’ordre de serrage et le couple de serrage 
+des vis de culasse.
+> >L’épaisseur de la culasse  : côte neuve, côte 
+minimale.
+> >La valeur du jeu aux soupapes.
+> >La méthode de calage de la distribution.
+Préparer
+> >Protéger le véhicule pour l’intervention.
+> >Le matériel nécessaire.
+> >Déposer tout ce qui est périphérique et gê-nant pour la dépose de la culasse (indiqué dans la revue technique).
+RÉALISER L’INTERVENTION
+Déposer
+1. Débrancher la cosse négative de la batte-
+rie. Vidanger le circuit de refroidissement.
+2. Suivre la méthode de démontage préconi-
+sée par le constructeur.
+3. Dévisser toutes les vis de culasse de ¼ de 
+tour environ en respectant l’ordre de des-serrage préconisé. Dévisser complètement toutes les vis sauf la vis centrale.
+4. Faire pivoter  la culasse sans la soulever 
+pour la décoller (afin d’éviter le décollement des chemises amovibles).
+5. Ôter la vis centrale et déposer la culasse, 
+placer les brides de chemises (si les che-mises sont amovibles).
+6. Nettoyer les plans de joints de la culasse et 
+du bloc-moteur.DÉPOSER, CONTRÔLER  
+ET REPOSER LA CULASSE
+	Déposer une culasse, vérifier sa planéité avant de mettre en place un joint de culasse neuf.
+	
+Éviter toute déformation de la culasse lors de son démontage et assurer une étan-chéité parfaite au serrage.
+	Reposer la culasse.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	L’outillage courant
+	Une clé dynamométrique + une clé angu-
+laire 
+	Une règle en acier rectifié + un jeu de cales
+	Deux brides de chemises.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES10
+OBJECTIF
+Jeu de calesClé dynamométrique
+Clé angulaire
+Desserrage de la culasse
+Exemple : méthode en croixContrôler
+1. Enlever le joint de culasse et observer son 
+état : écrasements, brûlures, coupures.
+2. Net
+toyer soigneusement les plans de joint  : 
+côté culasse et côtés bloc-moteur. Observ
+er 
+les défauts apparents  : traces de passage 
+d’eau ou de gaz, fissures.
+3. C
+ontrôler la planéité de la culasse  :
+• poser la règle rectifiée sur le plan de 
+joint 
+de culasse et tenter de passer des 
+cales d’épaisseur entre la règle et le plan de joint à tous les points indiqués sur le schéma,
+•
+ noter toutes les valeurs trouvées  ; si 
+l’on trouve en un ou plusieurs 
+points une 
+déformation > 0,05 mm, la culasse est à 
+rectifier,
+• mesurer l’épaisseur de la culasse. Si la culasse une 
+fois rectifiée avait une 
+épaisseur inférieure à l’épaisseur mini-male préconisée, il faudrait remplacer la culasse (hors cotes). Attention cer-
+taines culasses ne sont pas recti-fiables (voir revue technique).
+4. Contrôler l’état des soupapes, l’usure des 
+cylindres et le dépassement des chemises si nécessaire (voir les fiches concernées).
+Reposer
+1. Enlever les brides de chemises (si les che-
+mises sont amovibles).
+2. Vérifier la propreté des plans de joint.
+3. Nettoyer les trous des vis de culasse en 
+passant un taraud approprié et les souffler.
+4. Poser le joint neuf en respectant son sens 
+(marqué haut ou top sinon placer le sertis-sage le plus large côté bloc-moteur).
+5. Brosser les vis et graisser les filetages à 
+la graisse graphitée (parfois il est préconisé de remplacer les vis de culasse
+ : voir revue 
+technique).
+6. Vi
+sser les vis sans les serrer.
+7. Serrer en respectant l’ordre et le couple de 
+serrage (clé dynamométrique et/ou clé an-gulaire).
+Il est indispensable de découvrir la cause de la rupture du joint de culasse, donc l’échauffement anormal du moteur, sinon le phénomène se reproduira. En cas de doute, il faut faire éprouver la culasse c’est-à-dire voir si elle n’est pas fissurée avant le remontage (plus particulièrement sur un moteur diesel). Les microfissures ne sont pas visibles à l’œil nu.À NOTER
+Placer les brides de chemises
+Nettoyer la culasse
+Contrôle de la planéité
+Différentes positions de la règle
+Serrage à la clé dynamométrique + la clé angulaire
+Serrage de la culasse
+Exemple : méthode en spiraleORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Le diamètre de tête des soupapes d’admis-
+sion et d’échappement.
+> >L’angle de portée des soupapes d’admission et d’échappement.
+Préparer
+> >Déposer et contrôler la culasse (voir fiche précédente).
+> >Déposer l’arbre à cames si nécessaire.
+> >Préparer un support de rangement pour les soupapes.
+RÉALISER L’INTERVENTION
+Démonter
+1. Frapper  au maillet sur le bord des cuvettes 
+supérieures afin de décoller les cônes des clavettes.
+2. Placer le compresseur de ressorts de sou-
+pape et compresser les ressorts.
+3. Dégager les deux clavettes avec une pince 
+fine et les ranger dans un compartiment correspondant à chaque soupape
+4. Décomprimer les ressorts.
+5. Dégager le compresseur de ressort.
+6. Retirer  dans l’ordre  :
+• la cuvette supérieure,
+• le ou les ressorts,
+• la cuvette inférieure,
+• la rondelle d’appui sur culasse,
+• la soupape.
+Attentio
+n : le type de clavetage 
+peut être dif-
+férent selon le type de soupape.CONTRÔLER ET REMPLACER  
+DES SOUPAPES
+	Vérifier l’étanchéité parfaite réalisée par les soupapes.
+	Contrôler le bon guidage et la fixation des soupapes après avoir détecté un défaut de compression.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	Un compresseur de ressort de soupape (lève-soupape)
+	Un rodoir (ventouse) avec de la pâte  à roderMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES11
+OBJECTIF
+M
+Côté cylindre n° 1
+Ressort
+Cuvettes
+RondelleSoupape
+M
+1
+2
+3
+4
+5
+6
+71. les deux clavettes 
+2. cuvette supérieure 3. 1er ressort 
+4. 2e ressort 
+5. cuvette inférieure 6. tige ou queue7. tête 
+Compresseur de ressort de soupapeContrôler
+1. Vérifier le jeu des queues de soupapes 
+dans les guides (quelques centièmes de mm 
+maximum.
+2. Contrôler l’état des portées  :
+• Légèrement piquée  : simple rodage.
+• Légèrement creusée  : rectification.
+• Tête creusée  : remplacement.
+3. Cont
+rôler les sièges de soupapes  :
+• Mettre de la craie sur la portée de la sou-
+pape (s
+upposée parfaite), remettre la sou-
+pape en place et la tourner d’un quart de tour à l’aide du rode soupape.
+• En cas de portée légèrement marquée, des petites irrégularités sur les traces 
+de 
+la craie apparaîtront, un simple rodage de la soupape suffit.
+•
+ Si les portées dépassent 1 à 1,2 
+mm de 
+large ou sont déteriorées (trace de craie interrompue ou très irrégulière), il faut rectifier les sièges. 
+Roder
+1. Décalaminer totalement les soupapes et 
+les chapelles au grattoir et à la toile émeri.
+2. 
+Enduire la portée de pâte à roder (grosse). 
+Mouiller la ventouse et la coller.
+3. Placer la
+ soupape sur son siège et frotter en 
+faisant tourner la soupape sur elle-même.
+4. Lorsque les 
+grains n’agissent plus, net-
+toyer la portée .
+5. Une fois le rodage terminé, il faut vérifier 
+s’il a été réalisé correctement.
+• Nettoyer
+ soigneusement la soupape et son 
+siège.
+• Marquer des traits au cray
+on espacés de 
+5 mm environ.
+• Applique
+r le rodoir sur la soupape et effec-
+tuer ¼ de tour en appuyant légèrement.
+• La portée a lieu à l’endroit où le 
+trait est 
+effacé, pour que le rodage soit sastisfai-sant, chaque trait doit être effacé en son milieu sur une largeur de 1,5 à 2 mm. Si ce n’est pas le cas reprenez votre rodage.
+6. 
+ Lorsque l’état 
+de la portée est correct, pas-
+ser à la pâte fine et nettoyer  l’ensemble.
+7. Remonter
+ les soupapes dans l’ordre in-
+verse de démontage.
+8. Contrôler l’étanc héité en remplissant la 
+chambre d’essence. Envoyer de l’air compri-mé par les chapelles, il ne doit pas apparaître de bulles autour des têtes de soupapes.
+9. Frapper au maillet sur les queues de sou-
+papes pour s’assurer de la mise en place des deux clavettes.
+Attention : Pour éviter une usure de la tige et 
+du guide, aucune trace de pâte à roder ne doit se trouver sur la tige.Lorsque les ressorts ont des spires à 
+pas variable, placer les ressorts avec les spires les plus rapprochées côté culasse. Les soupapes se remplacent par jeu (admission et échappement). 
+Le rodage des soupapes est réalisable 
+si la soupape, le guide et le siège sont encore dans les tolérances du constructeur, donc il faut contrôler ces éléments avant de procéder au rodage des soupapes.À NOTER
+Usure
+Usure
+1 mm
+Portée piquée Portée légèrement 
+creusée
+Portée très 
+creusée ou fondue
+Ventouse
+Soupape
+Siège
+Culasse
+Guide
+Tige
+Rodage  
+de la soupape
+Contrôle  
+d’étanchéité
+Contrôle  
+de la portéeContrôle  
+du jeu de queue 
+de la soupape 
+dans le guideORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue  
+technique du véhicule
+> >Les caractéristiques du moteur  : l’alésage.
+> >Contrôler que le type du moteur corres-
+ponde bien au type de la revue technique.
+Préparer
+> >Déposer la culasse en prenant bien toutes les précautions d’usage (placer les brides de chemises) (voir fiche
+ 10). Déposer les 
+bielles et les pistons. Nettoy
+er les alésages 
+des cylindres en dégraissant et en toilant légèrement pour éliminer la calamine.
+> >Préparer le comparateur  :
+• Placer la montre sur le tube et la serrer.
+• Placer u
+n embout de pige à la partie 
+inférieure de telle sorte qu’au repos la longueur totale de la pige soit légère-ment supérieure au diamètre intérieur des cylindres à mesurer.
+CONTRÔLER – MESURER
+1. Placer la pige du comparateur dans le cy-
+lindre en la comprimant légèrement (sens perpendiculaire à l’axe du vilebrequin) à la hauteur du cordon d’usure
+ : diamètre no-
+minal du cylindre, qui va 
+servir de côte de 
+référence.
+2. Faire osciller  légèrement le tube du com-
+parateur et l’arrêter dans la position ou l’ai-guille change de sens (diamètre minimal).CONTRÔLER L ’USURE  
+DES CYLINDRES
+	Comparer le diamètre intérieur des cylindres avec le diamètre nominal d’ori-gine, à la suite d’une perte de compres-sion et d’une consommation excessive.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	Un comparateur d’alésage et sa noticeMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES12
+OBJECTIF
+Cadran
+mobileCadran
+fixe
+Fixation
+TubeComparateur
+d'alésage
+Pige
+rétractableContre-
+écrou
+Alésage
+Embout de pige
+amovibleRechercher
+diamètre
+minimal0 face
+à l'aiguille
+Cordon
+d'usure
+Pige
+perpendiculaire
+Axe du
+vilebrequin3. Tourner le cadran de la montre pour ame-
+ner le 0 à la pointe de l’aiguille.
+4. Descendre la pige de quelques mm au 
+point A (point d’usure maximal).
+5. Faire osciller  le tube du comparateur pour 
+trouver le diamètre minimal.
+6. Lire la différence  entre le 0 du cadran et 
+la position de l’aiguille. Une graduation de 
+comparateur représente 0,01 mm (1/100e 
+mm).
+7. Noter cette valeur.
+8. Répéter l’opération aux points B et C et no-
+ter les valeurs trouvées.
+9. Répéter l’opération sur les autres cylindres 
+et noter les valeurs trouvées.
+DIAGNOSTI qUER
+1. Rechercher la côte d’usure maxi. Sa valeur 
+ne doit pas dépasser 0,0015 mm par mm d’alésage. 
+ Exemple  : Alésage  d
+e 100 mm  : usure 
+ma
+ximale de 0,15 mm
+2. Contrôler visuellement l’intérieur des cy-
+lindres
+3. Si l’usure maximale est dépassée en un 
+point ou et si une rayure importante existe sur un cylindre, il faut prévoir
+ :
+• Chemise 
+amovibles  : rempla
+cement des 
+chemises.
+• Bloc alésé  : rectification des alésages et 
+montage des pistons aux 
+côtes répara-
+tion. Dans ce cas, mesurer l’alésage afin de s’assurer qu’il n’est pas déjà à la der-nière côte de réalésage.Si d’autres éléments du moteur sont à la côte limite (vilebrequin, pompe à huile…), il est judicieux d’effectuer un devis comparatif entre la réparation du moteur et son échange standard, en tenant compte de l’état des autres parties (mécanique et carrosserie) ainsi que de la vétusté du véhicule.À NOTER
+Différence entre
+0 et position
+de l’aiguille
+Point A
+B
+CORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les moyens d’identification du type de mo-
+teur.
+> >Les caractéristiques détaillées du moteur.
+> >La méthode constructeur pour le démon-tage du moteur.
+Préparer
+> >L’outillage spécialisé  : un extracteur de che-
+mise et 
+des brides de chemises, une pince 
+et un compresseur de segment, un four ou un réchaud spécial bielles, un gabarit d’em-manchage des axes de piston, un compa-rateur avec son support magnétique, un micromètre avec plusieurs calibres, un pied à coulisse, une presse hydraulique, une clé dynamométrique.
+> >Déposer le moteur.
+> >Caler et déposer la distribution.
+> >Déposer la culasse.
+RÉALISER L’INTERVENTION
+Démonter
+1. Déshabiller le moteur et déposer le carter 
+inférieur.
+2. Déposer les chapeaux de bielles en les re-
+pérant (n° de cylindre et sens). Sortir les pistons des chemises et remonter les cha-peaux de bielles munis de leurs coussinets sur les têtes de bielles.
+3. Déposer les chapeaux de paliers en les re-
+pérant (n° et sens). Déposer le vilebrequin et récupérer les cales de jeu latéral.
+4. Décoller les chemises à l’aide de l’extrac-
+teur approprié. Les déposer et les repérer REMPLACER LES CHEMISES  
+ET LES PISTONS
+	Déposer et reposer les pistons, les che-mises et les segments
+	Remettre en état le bas moteur en sui-vant les opérations détaillées de la revue technique	La revue technique du véhicule.
+	Une fiche de relevé des contrôles.
+	Les fiches concernant la dépose/repose culasse, le contrôle du dépassement des chemises et le calage de la distribution.
+	L’outillage spécialisé.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES13
+OBJECTIF
+Pince à segments
+Compresseur de segments
+Déposer les chemises et les pistons(en cas de remontage). Chasser les axes 
+de pistons à la presse après avoir repéré le sens des pistons sur les bielles.
+Contrôler
+1. L’état des pistons et des segments  : Tête 
+piston marquée, gorge des segments dété-riorés, segments
+ grippés dans leurs gorges 
+ou cassés, jupe déformée.
+2. L’état des portées du vilebrequin  (micro-
+mètre), tourillons et manetons usés, ova-lisation et conicité
+ : à comparer avec les 
+valeurs constructeur (v
+oir fiche suivante).
+3. Observer l’état des coussinets  : usure du 
+régule.
+4. L’é
+tat du bloc-cylindres  : corrosion des 
+chemises, des plans de joint.
+Remonter
+1. Nettoyer les éléments devant être remon-
+tés. Assembler les bielles et les pistons à l’aide des axes. Bien respecter la méthode préconisée (à chaud ou  à froid).
+2. Monter les segments neufs à l’aide de la 
+pince spéciale en commençant par le seg-ment râcleur. Huiler et tiercer les segments.
+3. Monter à blanc les chemises pour réaliser le 
+dépassement demandé (voir fiche
+ : Contrô-
+ler le dépassement des chemises).
+4. Emma
+ncher les pistons dans les chemises 
+à l’aide du compresseur de segments. Mon-ter le vilebrequin en plaçant les cales de jeu. Monter les coussinets neufs, les huiler et serrer les paliers au couple, les ergots des coussinets doivent être face à face.
+5. Placer les chemises munies des pistons 
+dans le bloc, contrôler et bloquer à l’aide des brides de chemises.
+6. Placer les coussinets neufs sur les bielles, les 
+huiler, serrer au couple en vérifiant en per-manence la bonne rotation du vilebrequin.
+Cette opération s’accompagne d’un contrôle de la pompe à huile, du cla-pet de décharge des canalisations d’huile du vilebrequin, d’un remplace-ment du kit de distribution (chaîne + tendeur ou courroie + galets) et de la pompe à eau.
+Pour les moteurs possédant un bloc 
+à alésage direct ne pas tenir compte de la dépose des chemises. En cas d’usure des cylindres, il est nécessaire de réaléser à une cote supérieure (lorsque cela est possible) et d’adap-ter les pistons de plus fort diamètre.À NOTER
+Tête
+de bielle
+Coups
+de pointeauChapeau
+de bielle
+Segment 
+coup de feu 
+Étanchéité 
+Segment racleur Déposer les segments des pistons.
+Monter le segment râcleur en premier.
+Ergots
+face à face
+Serrer les paliers au couple.ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les couples de serrage des paliers du vile-
+brequin.
+> >Les valeurs de contrôle du vilebrequin (jeu axial…).
+Préparer
+> >Le contrôle du vilebrequin est à effectuer lors de la dépose des pistons (fiche précé-dente), il faut suivre toute la procédure de dépose décrite dans cette fiche. 
+RÉALISER L’INTERVENTION
+Démonter
+> >Déposer  le vilebrequin du moteur en sui-
+vant les instructions du manuel de répara-tion.
+> >Nettoyer  les pièces à contrôler.
+> >Repérer  l’ordre et le sens de montage des 
+composants  :
+• Les chapeaux de paliers et les chapeaux de bielles 
+doivent être repérés pour les 
+remettre dans la même position et le même sens, s’ils n’ont pas de repères il faut les numéroter et repérer le sens avec des petits coup de pointeau mais il faut choisir une zone non fragile, qui n’a pas d’usinage.
+•
+ Les coussinets si toutefois ils devaient être rem
+ontés doivent retrouver leur 
+emplacement et sens d’origine. Si on les inverse on peut fausser leurs ajustements et créé un problème moteur (pression d’huile, manque de jeu pour la bielle…)CONTRÔLE  
+DU VILEBREQUIN
+	Déposer, reposer un vilebrequin en repé-rant correctement les pièces et en res-pectant la procédure du constructeur.
+	Effectuer les contrôles métrologiques, visuels et mesurer les jeux du vilebre-quin 	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	Un marbre avec 2 vés
+	Un comparateur avec son support magné-tique
+	Un micromètreMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES14
+OBJECTIF
+Conicité
+OvalisationA1 A2
+B1B2
+Contrôle de la conicité  
+et de l’ovalisationAlignement des tourillons
+Conicité
+OvalisationA1 A2
+B1B2Contrôler
+1. Contrôle visuel  :
+• Rayures  : fines ou prononcées.
+• Traces de coups, grippage, oxy
+da-
+tion.
+• Partie filetée, état des logements 
+de cla
+vettes, pions de centrage du 
+volant.
+2. Contrôle de la conicité et de l’ova-
+lisation des manetons et des tou-rillons
+ :
+• Mesurer le diamètre de chaque coté du maneto
+n puis refaire la 
+mesure en décalant le micromètre de 90° (Voir schéma). 
+•
+ Refaire le même travail sur le tourillon.
+Tout
+e ovalisation ou conicité doit 
+être inférieure à 0,05 mm.
+3. Contrôle de l’alignement des tou-
+rillons  : La flexion doit être inférieure 
+à 0,05 
+mm. La mesure est effectuée 
+sur des vés reposant sur un marbre, avec un comparateur et son support magnétique .
+Remonter
+1. Remonter en suivant le manuel de ré-
+paration. 
+2. Nettoyer les passages d’huile du vi-
+lebrequin, des manetons et tourillons, il ne doit subsister aucune impureté.
+3. Respecter les couples de serrage pré-
+conisé par le constructeur.
+4. Contrôler le jeu latéral (ou axial) du 
+vilebrequin
+ :
+• On serre au couple prescrit puis on mesure le 
+jeu latéral du vilebrequin 
+à l’aide d’un comparateur sur son support que l’on met en bout de vilebre-quin, s’il n’est pas dans la tolérance on l’ajustera en remplaçant par des cales plus ou moins épaisses.
+•
+ On vérifie ensuite que le vilebrequin seul tourne sans forcer.
+Ce type d’intervention est peut pratiquée de nos jours en atelier, car le coût horaire de la main d’œuvre fait qu’il n’est plus rentable de refaire un moteur. On préfère alors proposer un moteur Echange standard.
+Toutefois dans certains cas particulier on peut encore être amené à pratiquer ce 
+genre d’intervention.À NOTER
+a
+b
+c
+a. Vilebrequin
+b. Manetonsc. TourillonsCoussinets
+supérieurs
+Coussinets
+inférieursExemple de réglage de jeu latéral
+Dans cet exemple, le jeu latéral est réalisé au niveau du palier n°2 par deux demi-cales (k) rapportées côté carter cylindre.ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Le type de joints.
+> >La valeur du dépassement demandé.
+> >Les épaisseurs des joints proposés.
+> >La méthode préconisée par le constructeur.
+Préparer
+•	Le bloc moteur nu.
+•	Nettoyer soigneusement les portées des 
+joints d’embase côté bloc et côté chemise afin de réaliser une planéité parfaite.
+CONTRÔLER – MESURER
+Mesurer
+1. Placer les chemises sans joint dans leur po-
+sition définitive.
+2. Vérifier s’il y a un léger enfoncement ou un 
+léger dépassement des chemises.
+3. En cas d’enfoncement  :
+• placer  la
+ règle en travers du bloc-cylindres 
+de telle sorte que l’aiguille soit en appui sur une partie parfaitement plane du bloc-moteur. Tourner le cadran de la montre pour amener le 0 en face de l’aiguille,
+•
+ placer l’
+aiguille du comparateur sur le 
+bord de la chemise et lire la valeur de l’enfoncement (1 graduation = 1/100
+e 
+de mm),
+• recommen
+cer l’opération au point dia-
+métralement opposé à la chemise et relevé la valeur trouvée,
+•
+ effectuer la moyenne des deux lectures et la noter
+.CONTRÔLER LE DÉPASSEMENT 
+DES CHEMISES
+	Choisir l’épaisseur des joints d’embase des chemises qui permettront de réaliser une étanchéité parfaite au serrage de la culasse.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	Un comparateur avec un support appro-prié (règle)
+	Un micromètreMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES15
+OBJECTIF
+Comparateur
+FixationRègle
+rectifiée
+1er cas :
+mesure de 
+l'enfoncement
+Bloc
+Chemise
+1 : pointe sur le bloc
+2. pointe sur la chemise
+A
+B
+Moyenne = mesure A + mesure B
+24. En cas de dépassement  :
+• placer  la
+ règle en travers du bloc-
+cylindres,
+• étalonne
+r le comparateur sur le bord de 
+la chemise, cadran à 0,
+• déplacer  
+la règle pour placer l’aiguille 
+du comparateur sur une surface plane du 
+bloc-cylindres et lire la valeur,
+• faire une seconde mesure diamétrale-ment opposée, 
+effectuer la moyenne et 
+noter la valeur.
+5. Répéter l’opération sur les autres chemises.
+Calcul de l’épaisseur  
+du joint demandé
+Exemple  :
+> >Dépassement demandé  : entre 0,14 et 0,21.
+> >Dépassement trouvé  : 0,08.
+> >Épaisseur des joints proposés  : 0,08 – 0,10 
+– 0,12 et 0,14.
+> >Épaisseur du joint à placer  : 0,21 – 0,08 = 
+0,13
+Le joint le plus 
+proche immédiatement inféri-
+eur est 0,12.
+Contrôler
+Contrôler l’épaisseur du joint au micromètre  :
+> >Bien positionner sur l’embase de la chemise
+> >Remonter la chemise et refaire les contrôles. 
+Noter le dépassement trouvé.
+> >L’écart de dépassement entre deux che-mises ne doit pas dépasser 0,04 mm.
+> >Placer les brides de chemises.
+Certains moteurs sont équipés de joints toriques d’une épaisseur unique. Vérifier seulement s’il existe bien un dépassement avant de poser la culasse afin d’obtenir un écrase-ment correct des joints au serrage.
+Sur les moteurs équipés de bloc à 
+alésage direct, il est nécessaire de mesurer le dépassement des pistons pour déterminer l’épaisseur du joint de culasse. Le contrôle de dépas-sement des chemises n’est pas né-cessaire puisque les chemises sont inamovibles.À NOTER
+2e cas :
+mesure
+du dépassement
+Mesure du dépassement  
+des chemises
+Micromètre
+Contrôle
+de l'épaisseur
+des joints
+ExempleORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >le schéma de calage de distribution.
+> >la méthode préconisée.
+> >la signification des repères sur la chaîne ou 
+sur la courroie.
+> >le système de réglage de la tension.
+Préparer
+> >appliquer la méthode constructeur de la re-vue technique.
+> >déposer la courroie accessoire si nécessaire.
+> >déposer tous les carters de distribution.
+> >vidanger le circuit de refroidissement en cas de remplacement de la pompe à eau.
+RÉALISER L’INTERVENTION
+Déposer
+1. Mettre les pignons de vilebrequin et 
+d’arbre à cames aux repères définis dans la revue technique.
+2. Détendre la courroie par le galet ten-
+deur.
+3. Déposer la courroie.
+4. Si c’est une chaîne, déposer  le tendeur 
+de chaîne et l’un des pignons d’arbre à cames ou de vilebrequin selon le cas.
+5. Déposer la pompe à eau, si le constructeur 
+le préconise.
+Reposer
+Reposer  la pompe à eau neuve.
+Cas de la courroie
+1. Suivre les consignes indiquées dans la re-
+vue technique.
+2. Mettre en position  les galets (tendeur et 
+enrouleur).CALER  
+LA DISTRIBUTION
+	Synchroniser parfaitement l’arbre à cames avec le vilebrequin, l’ouverture et la fermeture des soupapes devant correspondre à une position précise des pistons.	La revue technique du véhicule
+	Un coffret de piges de calage correspon-
+dant au véhicule
+	Un tensiomètre de courroie
+	Une clé dynamométrique
+	Un kit complet de distribution (galets + courroie), éventuellement la pompe à eau si c’est préconisé par le constructeur.MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES16
+OBJECTIF
+Début de
+levée de camePMH
+AOA
+Angle
+d'avance à
+l'ouverture
+1. courroie de distribution 
+2. poulie d’arbre à cames 3. tendeur de courroie 4. galets fixe enrouleurs 5. pompe à eau 6. équipage mobile 7. arbre à cames 8. came 9. soupapes 10. ressort de soupape 11. poussoir 3. Engager la courroie dont les repères doi-
+vent coïncider avec ceux des pignons,
+Le brin opposé au tendeur doit être parfaite-
+ment tendu.
+4. Régler la tension de la courroie (voir la ten-
+sion préconisée dans la revue technique).
+Cas de la chaîne
+1. Suivre les consignes indiquées dans la re-
+vue technique.
+2. Déposer le pignon d’arbres à cames ou le 
+vilebrequin.
+3. Monter la chaîne aux repères et reposer le 
+pignon.
+4. Placer le tendeur de chaîne et débloquer le 
+système de rattrapage.
+Nota  : En cas de doute sur la position des 
+re-
+pères de vilebrequin et d’arbre à cames, pro-
+céder comme suit  :
+1. Rech
+ercher le point mort haut (P.M.H.) 
+du cylindre n°  1 (par le trou de bougie par 
+exemple). 
+Faire ¼ de tour en arrière par 
+la vis de vilebrequin afin d’amener tous les pistons à la même hauteur.
+2. Tourner le pignon d’arbres à cames pour 
+l’amener dans la position préconisée selon le cas
+ :
+• repère du pignon dirigé vers un repère fixe,
+• orientation approximative à confirmer grâce aux rep
+ères sur chaîne ou sur pignon,
+• alignement précis des repères des deux pignons.
+3.
+ Ramener le piston n°  1 au P.M.H.  : le re-
+père vilebrequin doit se trouver 
+dans la po-
+sition préconisée.
+Attention  : cette méthode est très approxi-
+mative 
+et permet simplement de retrouver 
+les repères d’arbre à cames et de vilebrequin. Dans tout les cas il faut respecter la méthode constructeur.
+Contrôler
+1. Effectuer 2 tours de vilebrequin  ; il ne doit 
+pas y avoir de point dur.
+2.
+ Revenir dans la position de calage.
+3. Vérifier que les repères ou les trous de pi-
+geage correspondent et que la tension est parfaite.
+4. Vérifier le serrage des vis de fixations des 
+pignons et des galets (clé dynamomé-trique).
+5. Purger le circuit de refroidissement (voir la 
+fiche concernée).
+5. Contrôler le jeu aux soupapes si c’est pré-
+conisé dans la revue technique.
+6. Remonter les carters.
+7. Démarrer le moteur. S’il existe un bruit sus-
+pect ou un point dur, arrêter immédiatement le moteur et revoir le calage ou la tension.Une erreur d’une seule dent peut avoir des conséquences graves pour le moteur. Respecter la périodicité de remplacement des courroies préconi-sée par le constructeur (kilométrage ou années). La rupture d’une courroie peut détériorer gravement le moteur.
+Pour éviter des erreurs, sur de nom-
+breux véhicules, la tension de la courroie se fait par un tendeur auto-matique.À NOTER
+Maillons
+repérés
+Brin
+tenduTendeur 
+de chaîne
+Maillons
+repérés
+Sens de rotation
+Pignon
+d’arbre
+à cames
+Pignon
+de vilebrequinCas de la chaîne
+Maillons
+repérés
+Brin
+tenduTendeur 
+de chaîne
+Maillons
+repérés
+Sens de rotation
+Pignon
+d’arbre
+à cames
+Pignon
+de vilebrequin
+Cas de la courroieORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Les éléments du circuit d’alimentation.
+> >La pression d’alimentation.
+> >Le débit sous pression.
+Préparer
+> >Le matériel de mesure.
+> >Un extincteur à proximité.
+> >Rechercher à l’aide de la documentation 
+constructeur les bornes du relais qu’il fau-dra shunter afin d’alimenter la pompe à car-burant, moteur à l’arrêt et contact coupé (si le véhicule n’est pas multiplexé).CONTRÔLE DU CIRCUIT D’ ALIMENTATION 
+SUR UN SYSTÈME D’INJECTION 
+	Contrôler et remettre en conformité le circuit d’alimentation en carburant d’un système d’injection.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	Un manomètre de pression d’essence
+	Une éprouvette graduée
+	Un chronomètreMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES17
+OBJECTIF  
+1. Pompe à carburant
+2. Filtre à carburant3. Régulateur de pression d’alimentation en carburant4. Canalisation d’alimentation en carburant5. Rampe d’injection6. Réservoir de réaspiration des vapeurs d’essence 34
+12
+65
+Éprouvette graduée
+Schéma fonctionnel du circuit d’alimentation en essenceCONTRÔLER – MESURER
+1. Contrôle de la pression  
+d’alimentation
+> >Débrancher  le conduit d’arrivée de car-
+burant au niveau du raccordement moteur 
+(arrivée de la canalisation sur la rampe d’in-jecteurs).
+> >Adapter  un Té de dérivation puis un mano-
+mètre 0-6 bars.
+> >Faire démarrer  le moteur.
+> >Relever  la pression et la comparer à la va-
+leur donnée dans la documentation tech-nique.
+2. Contrôle du débit  
+d’essence
+> >Débrancher  la conduite d’alimentation ou 
+celle de retour au réservoir (selon le cas) et la plonger dans une éprouvette.
+> >Faire débiter  la pompe pendant un certain 
+nombre de secondes et comparer la quan-tité débitée avec celle préconisée par le constructeur.
+> >Shunter  les voies 3 et 5 (gros fils –  cal-
+culat
+eur débranché) sur le connectique du 
+relais de pompe à essence, pour mettre en action la pompe à essence.
+> >Débit mini : 80 à 120 I/h.
+> >Si le débit est faible, vérifier  la tension 
+d’alimentation (perte de débit de 10 % pour une chute de tension de 1 volt).
+De nombreux véhicules actuels ont le circuit de carburant sans retour au réser -
+voir. Le régulateur de pression est incorporé à l’ensemble pompe/jauge, on ne peut donc plus utilisé la méthode indiqué pour mesurer le débit. Dans ce cas il faut voir la méthode préconisée par le constructeur.
+Si le véhicule possède un réseau multiplexé, on ne shunte pas le relais (risque de 
+détérioration), on met juste le contact pour contrôler la pression d’alimentation.À NOTER
+Pompe à essence
+Exemple de mesure  
+de pression d’essenceORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >Le type d’injection qui équipe le moteur.
+> >Les éléments qui composent le système.
+> >L’implantation de ces éléments sur le véhicule.
+> >Le schéma électrique du système d’injection.
+> >Les valeurs constructeur et les bornes de 
+mesure.
+Préparer
+> >Vérifier l’état du filtre à air.
+> >Contrôler la tension de la batterie et le cir-cuit de charge.
+> >Contrôler l’allumage (bougies, bobines).
+> >Le multimètre et/ou l’appareil de diagnostic.
+> >Contrôler le circuit d’alimentation en carbu-rant (fiche précédente).
+> >Contrôler la qualité des gaz d’échappement avec un analyseur de gaz (voir la fiche sui-vante).
+CONTRÔLER – MESURER
+Plusieurs paramètres d’entrée du système d’injection sont à contrôler, les sondes de température d’eau et d’air, la pression d’air admission, etc., mais également les éléments commandée tel que les injecteurs, le papillon motorisé, etc. Tous les éléments à contrôler se trouvent dans la revue technique. Le tableau suivant est nécessaire pour con-trôler tous les éléments du système et pour trouver l’élément causant la défaillance
+ :
+Éléments Conditions de contrôle Numéro des bornes Valeur constructeur Valeur relevée ConclusionCONTRÔLER UN SYSTÈME  
+D’INJECTION ÉLECTRONIQUE
+	Identifier les éléments et effectuer le 
+diagnostic d’un système d’injection élec-tronique pour déterminer l’élément en panne.	La revue technique du véhicule
+	Une fiche de relevé des contrôles
+	Un multimètre
+	Un appareil de diagnostic (lecteur EOBD)MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES18
+OBJECTIF
+Les appareils de mesure.
+Lecteur EOBD  
+(Européen On Board Diagnostic)
+MultimètreBeaucoup de pannes peuvent provenir de mauvais contacts des connecteurs élec-
+triques. Il est donc conseiller de vérifier ces connecteurs avant toutes interventions. Les masses peuvent également être une source de panne, il faut donc les contrôler.
+Le lecteur de diagnostic EOBD appelé aussi Scantool est un outil permettant d’avoir accès aux informations internes des systèmes embarqués. Il se branche sur la prise d’auto diagnostic OBD du véhicule et scanne les informations mémori-sées ou les données courantes mises à disposition.À NOTER 
+Les différents éléments à contrôler d’un système d’injection  (exemple)
+Exemple d’un schéma électrique d’injectionORGANISER SON POSTE DE TRAVAIL
+> >Relever dans la revue technique du véhi-
+cule.
+> >le régime de ralenti.
+> >les valeurs de contrôles.
+> >les conditions de mesure.
+Préparer
+> >Étudier la notice de l’analyseur de gaz.
+> >Mettre en marche l’analyseur afin de respecter son temps de mise en température de fonctionnement.
+> >Le système d’allumage (bou-gies) et le système d’injection doivent être en bon état.
+> >Brancher un tuyau d’évacua-tion des gaz d’échappement si le véhicule est à l’intérieur.
+CONTRÔLER – MESURER
+1. Contrôles  
+préliminaires
+> >Vérifier  l’état du filtre à air, le 
+remplacer si nécessaire.
+> >Vérifier  l’état des bougies, les remplacer si 
+nécessaire.
+> >Contrôler  l’état de la ligne d’échappement 
+qui ne doit pas présenter de fuite.
+> >Faire tourner  le moteur en le maintenant 
+à 2000 tr/min jusqu’à ce qu’il atteigne sa température de fonctionnement.
+2. Branchement de l’analyseur 
+de gaz
+> >L’analyseur est à température et étalonné.
+> >Le moteur est à température et aucun 
+consommateur ne fonctionne.CONTRÔLER  
+L ’ ANTIPOLLUTION
+	Contrôler la pollution produite par un 
+véhicule à l’aide de l’analyseur de gaz.
+	Maintenir la teneur des gaz nocifs émis à une valeur définie par le constructeur et limitée par la réglementation en vigueur.	La revue technique du véhicule
+	Un analyseur de gaz et sa notice
+	Une clé à bougie et un jeu de calesMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES19
+OBJECTIF
+Moteur à essence g/km
+CO HC NOx PM
+(Injection directe)Moteur Diesel g/km
+CO HC NOx PM
+(Injection directe)
+Exemple avec 9 %
+de CO2 et 3 % de CO :
+CO corrigé : 4 %analyseur 
+de gaz
+Normes antipollution EuroV> >Brancher  la pince haute tension sur le cy-
+lindre N°1 (si possible).
+> >Régler  la sonde de température à la lon-
+gueur de la jauge à huile puis l’introduire à 
+la place de celle-ci.
+> >Introduire  la sonde de gaz dans la sortie 
+d’échappement.
+3. Mesurer et interpréter
+> >Comparer  les valeurs obtenues avec les 
+valeurs constructeur.
+> >Imprimer  un ticket avec la date, le nom du 
+véhicule, l’immatriculation et le kilométrage si les valeurs sont conformes.
+> >Faire une recherche  de panne sur le sys-
+tème d’injection si les valeurs sont non conformes.
+Résultat d’une combustion normale
+1. CO2 – Le pourcentage doit être le plus élevé 
+possible (8 à 10% au minimum, mais la va-leur normale est de 15%)
+ : - % < 8% prise 
+d’air sur tubulure 
+d’échappement ou CO 
+trop important.
+2. CO –  Le plus faible possible sans compro-
+mettre la stabilisation du ralenti. Si le CO est trop élevé le mélange est trop riche. Il faut donc contrôler le système d’injection et la sonde lambda.
+3. CO corrigé = (CO × 15) / (CO + CO
+2) 
+La lecture peut se faire directement sur l’abaque ou sur l’appareil s’il donne directe-ment la valeur. On le diminue en diminuant le CO ou en augmentant le CO
+2.
+4. HC –  Nombre de particules par million 
+(p.p.m.) de carburant non brûlé  : si > 800 
+p.p.m., contrôler le système d’allumage.
+5.
+ O2 – pourcentage d’oxygène contenu dans 
+les gaz d’échappement.
+Bilan de contrôle
+Régime 
+de ralenti 
+(Tr/mn)CO (%) CO corrigé (%)CO2
+(%)HC
+(ppm)O2
+(%)Lambda
+RalentiRalenti 
+accéléréRalentiRalenti 
+accéléré
+Valeurs constructeur
+Valeurs relevées
+Sur les moteurs à injection catalysés (actuels) aucun réglage n’est possible.
+Le moteur diesel fait l’objet d’une réglementation qui limite l’opacité des gaz 
+d’échappement. Le contrôle s’effectue grâce à un opacimètre.À NOTER
+Lecture normale (exemple)
+Exemples de causes probables pour  des valeurs de CO, CO
+2, HC et O2 erronées
+COProblème d’injection
+Filtre à air saleEnrichissement défectueux à l’ac-célération (voir aussi contacteur de papillon)Bougies défectueusesRégulateur de pression défectueux
+HCSYSTEME D’ALLUMAGE:Fils de bougie défectueuxAvance à l’allumage erronéeBougies défectueuses
+COMBUSTION INCOMPLÈTE:
+Mélange pauvreÉtanchéité du circuit d’aspiration défectueuse
+DÉFAUTS MÉCANI
+qUES:
+Compression insuffisante
+Soupapes non étanches
+CO2Étanchéité du système d’échappe-ment
+O
+2Étanchéité du système d’échappe-mentMélange grasORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >L’implantation du filtre à carburant.
+> >La procédure de purge du circuit de carbu-
+rant.
+Préparer
+> >Placer un bac au sol sous le filtre.
+> >Nettoyer la zone d’intervention.
+RÉALISER L’INTERVENTION
+Déposer
+1. Déposer le support de filtre si nécessaire
+2. Dévisser la ou les vis du couvercle du sup-
+port de filtre.
+3. Déposer  :
+• la cartouche,
+• les joints.
+4. Extra
+ire le joint de couvercle de sa gorge.
+5. Nettoyer soigneusement toutes les pièces.
+Remarque  : De nombr
+eux moteurs diesel pos-
+sède un filtre à carburant qui se remplace en-tièrement (bloc complet) en débranchant les raccords de carburant ainsi que les différents connecteurs. Dans ce cas voir la procédure constructeur.REMPLACER UN FILTRE  
+À CARBURANT
+	Éviter tout risque de passage d’impure-tés vers le circuit haute pression
+	Remplacer un filtre à gasoil	la revue technique du véhicule
+	la cartouche filtrante ou le filtre à carbu-rant neuf approprié
+	1 bac pour recueillir le gazole 
+	 l’outillage courantMATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES20
+OBJECTIF
+Élément 
+filtrant
+Détecteur
+d'eauRéchauffeur
+Filtre à carburant  
+avec élément filtrantReposer
+1. Placer les nouveaux joints.
+2. Placer la nouvelle cartouche en vérifiant 
+que tous les joints sont bien en place.
+3. Visser la ou les vis de fixation modérément 
+Purger
+1. Desserrer la vis de purge à la sortie du 
+filtre ou sur le couvercle.
+2. Actionner la pompe manuelle d’amorçage 
+(si le filtre en est muni) jusqu’à ce que le 
+gazole coule sans bulle d’air. Pour purger correctement le filtre, la purge de l’eau dans le filtre décanteur se fait en même temps (si le filtre possède ce système).
+3.
+ Resserre
+r la ou les vis de purge, établir le 
+contact.
+4. Essuyer le gazole qui a coulé.
+Nota  : Si le filtre ne comporte pas de 
+disposi-
+tif d’amorçage, avant montage, il faut remplir l’élément filtrant avec du carburant propre et filtré. Actionner ensuite le démarreur jusqu’au démarrage du moteur.
+Démarrer
+1. Vérifier le niveau de carburant dans le ré-
+servoir.
+2. Démarrer.
+3. Contrôler l’apparition de fuites éventuelles 
+aux filtres et aux raccords.Si le filtre est auto-amorçant (pas de 
+pompe manuelle), ne pas débrancher les tuyauteries. Démarrer et accélé-rer modérément pendant une minute. Dans tous les cas, bien suivre les ins-tructions du constructeur.
+Sur les moteurs à injection haute 
+pression à rampe commune ne sur-tout pas débrancher les tuyauteries haute pression et suivre la méthode constructeur.À NOTER
+Filtre à carburant (bloc complet)ORGANISER SON POSTE DE TRAVAIL
+Relever dans la revue technique 
+du véhicule
+> >La marque et le type de bougies préconi-
+sées par le constructeur (les équivalences éventuelles dans d’autres marques).
+> >L’écartement des électrodes.
+Préparer
+> >La ou les clés à bougies nécessaires  :
+En dimension  :
+• clé de 16 (bougies à sièges coniques),
+• clé de 21 (bougies à sièges plats).
+En forme  :
+• droites ou articulées,
+• douille longue + rotule + rallonge…
+> >De la graisse graphitée.
+> >Souffler les puits de bougies à l’air compri-mé avant la dépose.
+RÉALISER L’INTERVENTION
+Déposer
+1. Débrancher les fils de bougie ou déposer la 
+ou les bobines couvrant les bougies.
+2. Dévisser les bougies en plaçant éventuelle-
+ment un petit tube sur le manche pour aug-menter la force de desserrage.
+3. Boucher les puits des bougies pour éviter 
+toute intrusion de corps étranger dans le moteur.
+Contrôler
+1. Il ne doit pas y avoir de fissure de la porce-
+laine et le filetage ne doit pas être abîmé.REMPLACER ET RÉGLER  
+DES BOUGIES
+	Contrôler et remplacer si nécessaire les bougies d’allumage.	La revue technique du véhicule
+	Une clé à bougies appropriée
+	Un jeu de cales 
+	Un flexible pose-bougies
+	Une soufflette 
+	Les bougies neuves correspondantes  
+(si remplacement)MATÉRIELS, CONSOMMABLES 
+ET DOCUMENTS NÉCESSAIRES21
+OBJECTIF
+Rallonge + clé à bougie  
+à serrage à couple limitéClés à bougies
+Rallonge + clé à bougie  
+à serrage à couple limité
+Bougie
+2. La présence de dépôts sur les électrodes 
+donne des indications sur l’état du moteur  :
+• électrod
+es mouillées  : Bougies noyées, 
+défaut d’allumage,
+• présence
+ de suie noire  : Mélange trop 
+riche ; filtre à air colmaté, problème d’in-
+jection,
+• calamine  : huile b
+rûlée, le moteur 
+consomme de l’huile (usure des seg-
+ments…),
+• électrodes chargées de dépôts blancs  : 
+silice,
+ filtre à air inefficace. L’état normal 
+doit être blanc-gris sans dépôt.
+3. Régler l’écartement de 0,6 mm à 1 mm se-
+lon les indications du constructeur à l’aide du jeu de cales.
+Remplacer
+1. Lorsque les dépôts sont trop importants  : 
+• l’électrode centrale est trop usée,
+• la périodicité (kilométrage) est dépassée. Remplacer les 
+bougies par le modèle pré-
+conisé.
+2. Vérifier  :
+• le type exact,
+• la similitude des culots (courts ou longs),
+• le type de portée (conique ou plat).
+Reposer
+1. Contrôler l’écartement avant la repose.
+2. Enduire le filetage de graisse graphitée. 
+Faire prendre la bougie à la main ou avec un morceau de durite suffisamment long, terminer à la clé et serrer au couple
+ (voir 
+valeurs constructeurs):
+• Bougies 
+à portée conique  : 20 N.m 
+(
+2 daN.m).
+• Bougies à joint  : 30 N.m (3daN.m).
+3. Conn
+ecter les fils de bougie ou reposer la 
+ou les bobines.
+4. Faire un essai .
+Au serrage, ne jamais mettre de ral-longe à la poignée de la clé à bougie, car sa longueur est calculée pour ap-pliquer le couple de serrage correct en plaçant la main normalement sur la poignée.
+Ne jamais remonter des bougies sur 
+une culasse chaude.À NOTER
+Aspect
+Jeu
+Normal Dépôts importants Encrassement
+par la calamineEncrassement
+par l'huile
+Surchauffe Préallumage Isolant fendu
+ou casséVitrification
+Différents états de la bougie
+Normal Dépôts importants Encrassement
+par la calamineEncrassement
+par l'huile
+Surchauffe Préallumage Isolant fendu
+ou casséVitrification

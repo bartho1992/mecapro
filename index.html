@@ -31,6 +31,12 @@
                     <span class="heart-icon">❤️</span> Favoris
                     <span class="favorites-count" id="favoritesCount">0</span>
                 </a>
+                <!-- Auth buttons -->
+                <span id="userInfo" class="nav-user" style="display: none;"></span>
+                <a href="pages/login.html" id="loginBtn" class="nav-link auth-btn">🔐 Connexion</a>
+                <button id="logoutBtn" class="nav-link auth-btn" onclick="logoutUser()" style="display: none;">🚪
+                    Déconnexion</button>
+                <a href="pages/admin.html" id="adminBtn" class="nav-link admin-btn" style="display: none;">⚙️ Admin</a>
             </div>
             <button class="menu-toggle" id="menuToggle" aria-label="Menu">
                 <span></span>
@@ -333,7 +339,27 @@
         </div>
     </footer>
 
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
+    <script src="js/firebase-config.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/user-data.js"></script>
     <script src="js/app.js"></script>
+
+    <script>
+        // Check admin status and show admin button
+        auth.onAuthStateChanged(async (user) => {
+            if (user) {
+                const isAdmin = await isUserAdmin(user.uid);
+                const adminBtn = document.getElementById('adminBtn');
+                if (adminBtn && isAdmin) {
+                    adminBtn.style.display = 'inline';
+                }
+            }
+        });
+    </script>
 </body>
 
 </html>
