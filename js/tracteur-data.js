@@ -3,6 +3,7 @@ const tracteurLessons = [
     {
         id: 'tracteur-1', title: 'Moteur Diesel Agricole', icon: '🚜', level: 'Débutant', duration: '30 min',
         description: 'Spécificités des moteurs diesel agricoles : couple, refroidissement, entretien.',
+        image: '../images/tracteur-diesel.png',
         content: {
             intro: 'Les moteurs agricoles sont conçus pour le couple à bas régime et la durabilité. Ils fonctionnent souvent à pleine charge pendant des heures.',
             sections: [
@@ -23,6 +24,7 @@ const tracteurLessons = [
     {
         id: 'tracteur-2', title: 'Hydraulique Agricole', icon: '💧', level: 'Avancé', duration: '40 min',
         description: 'Maîtrisez le circuit hydraulique : pompe, distributeurs, vérins, relevage.',
+        image: '../images/tracteur-hydraulic.png',
         content: {
             intro: 'L\'hydraulique est le nerf du tracteur. Elle alimente le relevage, la direction, les outils et la transmission sur certains modèles.',
             sections: [
@@ -43,6 +45,7 @@ const tracteurLessons = [
     {
         id: 'tracteur-3', title: 'Transmission et Prise de Force', icon: '⚙️', level: 'Intermédiaire', duration: '35 min',
         description: 'Boîtes powershift, CVT et fonctionnement de la prise de force.',
+        image: '../images/tracteur-transmission.png',
         content: {
             intro: 'La transmission agricole doit offrir une large plage de vitesses et un contrôle précis de la prise de force.',
             sections: [
@@ -63,6 +66,7 @@ const tracteurLessons = [
     {
         id: 'tracteur-4', title: 'Électricité et Électronique', icon: '⚡', level: 'Intermédiaire', duration: '25 min',
         description: 'Circuit 12V, CAN Bus agricole et diagnostic tracteur.',
+        image: '../images/tracteur-electrical.png',
         content: {
             intro: 'Les tracteurs modernes sont bardés d\'électronique. Maîtriser les bases du diagnostic est essentiel.',
             sections: [
@@ -83,6 +87,7 @@ const tracteurLessons = [
     {
         id: 'tracteur-5', title: 'Pneumatiques et Lestage', icon: '🔵', level: 'Débutant', duration: '20 min',
         description: 'Choix des pneus, pression selon usage et techniques de lestage.',
+        image: '../images/tracteur-wheels.png',
         content: {
             intro: 'Les pneumatiques transmettent la puissance au sol. Leur choix et réglage sont cruciaux pour l\'efficacité et la préservation des sols.',
             sections: [
@@ -116,7 +121,30 @@ document.addEventListener('DOMContentLoaded', function () {
 
 function openLesson(id) {
     const l = tracteurLessons.find(x => x.id === id); if (!l) return;
-    document.getElementById('lessonBody').innerHTML = `<div class="lesson-full"><div class="lesson-hero"><div class="lesson-hero-content"><span class="lesson-badge">${l.level}</span><h2>${l.icon} ${l.title}</h2><p class="lesson-intro">${l.content.intro}</p></div></div><div class="lesson-sections">${l.content.sections.map(s => `<div class="lesson-section"><h3>${s.title}</h3><div class="section-content">${s.content.replace(/\n/g, '<br>')}</div></div>`).join('')}</div><div class="lesson-quiz"><h3>📝 Quiz</h3><div id="quizContainer"></div><button class="btn btn-primary" onclick="startQuiz('${l.id}')">Commencer</button></div></div>`;
+    document.getElementById('lessonBody').innerHTML = `
+        <div class="lesson-full">
+            <div class="lesson-hero">
+                <img src="${l.image}" alt="${l.title}" class="lesson-image" onerror="this.style.display='none'">
+                <div class="lesson-hero-content">
+                    <span class="lesson-badge">${l.level}</span>
+                    <h2>${l.icon} ${l.title}</h2>
+                    <p class="lesson-intro">${l.content.intro}</p>
+                </div>
+            </div>
+            <div class="lesson-sections">
+                ${l.content.sections.map(s => `
+                    <div class="lesson-section">
+                        <h3>${s.title}</h3>
+                        <div class="section-content">${s.content.replace(/\n/g, '<br>')}</div>
+                    </div>
+                `).join('')}
+            </div>
+            <div class="lesson-quiz">
+                <h3>📝 Quiz</h3>
+                <div id="quizContainer"></div>
+                <button class="btn btn-primary" onclick="startQuiz('${l.id}')">Commencer</button>
+            </div>
+        </div>`;
     document.getElementById('lessonModal').classList.add('active'); document.body.style.overflow = 'hidden';
 }
 

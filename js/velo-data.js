@@ -3,6 +3,7 @@ const veloLessons = [
     {
         id: 'velo-1', title: 'Le Dérailleur et la Transmission', icon: '⚙️', level: 'Débutant', duration: '20 min',
         description: 'Comprenez le fonctionnement du dérailleur et apprenez à le régler.',
+        image: '../images/velo-derailleur.png',
         content: {
             intro: 'La transmission transforme votre énergie en mouvement. Un dérailleur bien réglé offre des passages fluides.',
             sections: [
@@ -23,6 +24,7 @@ const veloLessons = [
     {
         id: 'velo-2', title: 'Freins à Disque et V-Brake', icon: '🛑', level: 'Intermédiaire', duration: '25 min',
         description: 'Entretenir et régler les systèmes de freinage vélo.',
+        image: '../images/velo-brakes.png',
         content: {
             intro: 'Le freinage est crucial pour la sécurité. Disques hydrauliques ou V-Brake, un bon réglage garantit puissance et modulation.',
             sections: [
@@ -43,6 +45,7 @@ const veloLessons = [
     {
         id: 'velo-3', title: 'Roues et Pneumatiques', icon: '🔵', level: 'Débutant', duration: '20 min',
         description: 'Changement de chambre, dévoilage et pression optimale.',
+        image: '../images/velo-wheels.png',
         content: {
             intro: 'Les roues sont le lien avec le sol. Savoir réparer une crevaison vous rend autonome.',
             sections: [
@@ -63,6 +66,7 @@ const veloLessons = [
     {
         id: 'velo-4', title: 'Pédalier et Boîtier', icon: '🔄', level: 'Intermédiaire', duration: '25 min',
         description: 'Standards de boîtiers et entretien.',
+        image: '../images/velo-crankset.png',
         content: {
             intro: 'Le pédalier est le point de transfert de puissance. Comprendre les standards est essentiel.',
             sections: [
@@ -83,6 +87,7 @@ const veloLessons = [
     {
         id: 'velo-5', title: 'Direction et Jeu de Direction', icon: '🎯', level: 'Intermédiaire', duration: '20 min',
         description: 'Régler le jeu de direction et entretenir les roulements.',
+        image: '../images/velo-steering.png',
         content: {
             intro: 'Le jeu de direction permet à la fourche de tourner. Un réglage précis assure fluidité et sécurité.',
             sections: [
@@ -117,7 +122,30 @@ document.addEventListener('DOMContentLoaded', function () {
 
 function openLesson(id) {
     const l = veloLessons.find(x => x.id === id); if (!l) return;
-    document.getElementById('lessonBody').innerHTML = `<div class="lesson-full"><div class="lesson-hero"><div class="lesson-hero-content"><span class="lesson-badge">${l.level}</span><h2>${l.icon} ${l.title}</h2><p class="lesson-intro">${l.content.intro}</p></div></div><div class="lesson-sections">${l.content.sections.map(s => `<div class="lesson-section"><h3>${s.title}</h3><div class="section-content">${s.content.replace(/\n/g, '<br>')}</div></div>`).join('')}</div><div class="lesson-quiz"><h3>📝 Quiz</h3><div id="quizContainer"></div><button class="btn btn-primary" onclick="startQuiz('${l.id}')">Commencer</button></div></div>`;
+    document.getElementById('lessonBody').innerHTML = `
+        <div class="lesson-full">
+            <div class="lesson-hero">
+                <img src="${l.image}" alt="${l.title}" class="lesson-image" onerror="this.style.display='none'">
+                <div class="lesson-hero-content">
+                    <span class="lesson-badge">${l.level}</span>
+                    <h2>${l.icon} ${l.title}</h2>
+                    <p class="lesson-intro">${l.content.intro}</p>
+                </div>
+            </div>
+            <div class="lesson-sections">
+                ${l.content.sections.map(s => `
+                    <div class="lesson-section">
+                        <h3>${s.title}</h3>
+                        <div class="section-content">${s.content.replace(/\n/g, '<br>')}</div>
+                    </div>
+                `).join('')}
+            </div>
+            <div class="lesson-quiz">
+                <h3>📝 Quiz</h3>
+                <div id="quizContainer"></div>
+                <button class="btn btn-primary" onclick="startQuiz('${l.id}')">Commencer</button>
+            </div>
+        </div>`;
     document.getElementById('lessonModal').classList.add('active'); document.body.style.overflow = 'hidden';
 }
 
