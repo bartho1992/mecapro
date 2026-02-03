@@ -542,4 +542,84 @@ select option {
         display: block;
         overflow-x: auto;
     }
+
+    .devices-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ===== Connected Devices Styles ===== */
+
+.devices-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+}
+
+.device-card {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    padding: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+}
+
+.device-card.active {
+    border-color: rgba(74, 222, 128, 0.3);
+}
+
+.device-card.inactive {
+    opacity: 0.6;
+}
+
+.device-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.device-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.device-icon {
+    font-size: 28px;
+}
+
+.device-status {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.device-info p {
+    margin: 6px 0;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.device-info strong {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.btn-disconnect {
+    width: 100%;
+    margin-top: 12px;
+    padding: 10px 16px;
+    background: rgba(239, 68, 68, 0.2);
+    border: 1px solid rgba(239, 68, 68, 0.4);
+    border-radius: 8px;
+    color: #ef4444;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn-disconnect:hover {
+    background: rgba(239, 68, 68, 0.4);
+    transform: translateY(-1px);
 }

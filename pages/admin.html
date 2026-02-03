@@ -101,6 +101,25 @@
                 </tbody>
             </table>
         </div>
+
+        <!-- Connected Devices Section -->
+        <div class="users-section" style="margin-top: 24px;">
+            <h2>
+                📱 Appareils connectés
+                <button onclick="refreshDevices()" class="btn-secondary" style="font-size: 12px;">🔄 Actualiser</button>
+            </h2>
+            <p style="color: rgba(255,255,255,0.5); font-size: 14px; margin-bottom: 16px;">
+                Sélectionnez un utilisateur pour voir ses appareils connectés
+            </p>
+            <div class="form-group" style="margin-bottom: 20px;">
+                <select id="deviceUserSelect" onchange="loadUserDevices()" style="width: 100%; max-width: 400px;">
+                    <option value="">-- Sélectionner un utilisateur --</option>
+                </select>
+            </div>
+            <div id="devicesContainer">
+                <p style="color: rgba(255,255,255,0.5); text-align: center;">Sélectionnez un utilisateur ci-dessus</p>
+            </div>
+        </div>
     </div>
 
     <!-- User Details Modal -->
@@ -150,6 +169,7 @@
     <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
     <script src="../js/firebase-config.js"></script>
     <script src="../js/auth-guard.js"></script>
+    <script src="../js/device-tracker.js"></script>
     <script src="../js/auth.js"></script>
     <script src="../js/user-data.js"></script>
 
@@ -414,6 +434,110 @@
                 }
             }
         }
+
+        // ===== CONNECTED DEVICES MANAGEMENT =====
+
+        // Populate user select for devices
+        async function populateDeviceUserSelect() {
+            const users = await getAllUsers();
+            const select = document.getElementById('deviceUserSelect');
+
+            select.innerHTML = '<option value="">-- Sélectionner un utilisateur --</option>' +
+                users.map(user => `<option value="${user.uid}">${user.displayName || user.email} (${user.email})</option>`).join('');
+        }
+
+        // Load devices for selected user
+        async function loadUserDevices() {
+            const userId = document.getElementById('deviceUserSelect').value;
+            const container = document.getElementById('devicesContainer');
+
+            if (!userId) {
+                container.innerHTML = '<p style="color: rgba(255,255,255,0.5); text-align: center;">Sélectionnez un utilisateur ci-dessus</p>';
+                return;
+            }
+
+            container.innerHTML = '<p style="color: rgba(255,255,255,0.5); text-align: center;">Chargement...</p>';
+
+            try {
+                const devices = await getUserDevices(userId);
+
+                if (devices.length === 0) {
+                    container.innerHTML = '<p style="color: rgba(255,255,255,0.5); text-align: center;">Aucun appareil enregistré pour cet utilisateur</p>';
+                    return;
+                }
+
+                const activeDevices = devices.filter(d => d.isActive);
+                const inactiveDevices = devices.filter(d => !d.isActive);
+
+                let html = `
+                    <div style="margin-bottom: 16px;">
+                        <span class="self-badge" style="margin-right: 8px;">🟢 ${activeDevices.length} actif(s)</span>
+                        <span class="role-badge user">🔴 ${inactiveDevices.length} déconnecté(s)</span>
+                    </div>
+                    <div class="devices-grid">
+                `;
+
+                devices.forEach(device => {
+                    const loginDate = device.loginAt ? new Date(device.loginAt).toLocaleString('fr-FR') : 'Inconnu';
+                    const lastActive = device.lastActive ? new Date(device.lastActive).toLocaleString('fr-FR') : 'Inconnu';
+                    const statusClass = device.isActive ? 'active' : 'inactive';
+                    const statusText = device.isActive ? '🟢 Actif' : '🔴 Déconnecté';
+                    const forcedText = device.forcedDisconnect ? ' (déconnexion forcée)' : '';
+
+                    html += `
+                        <div class="device-card ${statusClass}">
+                            <div class="device-header">
+                                <span class="device-icon">${device.deviceIcon || '💻'}</span>
+                                <span class="device-status">${statusText}${forcedText}</span>
+                            </div>
+                            <div class="device-info">
+                                <p><strong>Navigateur:</strong> ${device.browser || 'Inconnu'}</p>
+                                <p><strong>Système:</strong> ${device.os || 'Inconnu'}</p>
+                                <p><strong>IP:</strong> ${device.ipAddress || 'Inconnue'}</p>
+                                <p><strong>Connexion:</strong> ${loginDate}</p>
+                                <p><strong>Dernière activité:</strong> ${lastActive}</p>
+                            </div>
+                            ${device.isActive ? `
+                                <button class="btn-disconnect" onclick="forceDisconnect('${userId}', '${device.sessionId}')">
+                                    🔌 Déconnecter à distance
+                                </button>
+                            ` : ''}
+                        </div>
+                    `;
+                });
+
+                html += '</div>';
+                container.innerHTML = html;
+
+            } catch (error) {
+                container.innerHTML = `<p style="color: #ef4444; text-align: center;">Erreur: ${error.message}</p>`;
+            }
+        }
+
+        // Force disconnect a device
+        async function forceDisconnect(userId, sessionId) {
+            if (confirm('⚠️ Êtes-vous sûr de vouloir déconnecter cet appareil ?\n\nL\'utilisateur sera immédiatement déconnecté de sa session.')) {
+                const result = await forceDisconnectDevice(userId, sessionId);
+                if (result.success) {
+                    alert('✅ Appareil déconnecté avec succès !');
+                    loadUserDevices();
+                } else {
+                    alert('❌ Erreur: ' + result.error);
+                }
+            }
+        }
+
+        // Refresh devices
+        function refreshDevices() {
+            loadUserDevices();
+        }
+
+        // Initialize devices section when dashboard loads
+        const originalLoadDashboard = loadAdminDashboard;
+        loadAdminDashboard = async function () {
+            await originalLoadDashboard();
+            await populateDeviceUserSelect();
+        };
     </script>
 </body>
 
