@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Administration - MécaPro</title>
+    <title>Supervision - MécaPro</title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/auth.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
@@ -14,9 +14,9 @@
 <body class="admin-page">
     <div class="admin-container">
         <div class="admin-header">
-            <h1>🔧 Administration MécaPro</h1>
+            <h1>🛡️ Panneau Superviseur - MécaPro</h1>
             <div class="admin-actions">
-                <a href="../index.html" class="btn-secondary">← Retour</a>
+                <a href="../index.html" class="btn-secondary">← Accueil</a>
                 <button onclick="logoutUser()" class="btn-secondary">Déconnexion</button>
             </div>
         </div>
@@ -69,7 +69,7 @@
                         <label>Rôle</label>
                         <select id="newRole">
                             <option value="user">Utilisateur</option>
-                            <option value="admin">Administrateur</option>
+                            <option value="superviseur">Superviseur</option>
                         </select>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
 
     <!-- User Details Modal -->
     <div id="userDetailsModal" class="modal" style="display: none;">
-        <div class="modal-content" style="max-width: 500px;">
+        <div class="modal-content" style="max-width: 600px;">
             <h3 id="modalUserName">Détails utilisateur</h3>
             <div id="modalUserContent" class="user-details"></div>
             <div class="modal-actions">
@@ -114,16 +114,47 @@
         </div>
     </div>
 
+    <!-- Edit User Modal -->
+    <div id="editUserModal" class="modal" style="display: none;">
+        <div class="modal-content" style="max-width: 500px;">
+            <h3>✏️ Modifier l'utilisateur</h3>
+            <form id="editUserForm">
+                <input type="hidden" id="editUserId">
+                <div class="form-group">
+                    <label>Nom complet</label>
+                    <input type="text" id="editDisplayName" required>
+                </div>
+                <div class="form-group">
+                    <label>E-mail</label>
+                    <input type="email" id="editEmail" readonly style="opacity: 0.6; cursor: not-allowed;">
+                    <small style="color: rgba(255,255,255,0.5);">L'email ne peut pas être modifié</small>
+                </div>
+                <div class="form-group">
+                    <label>Rôle</label>
+                    <select id="editRole">
+                        <option value="user">Utilisateur</option>
+                        <option value="superviseur">Superviseur</option>
+                    </select>
+                </div>
+                <div class="modal-actions">
+                    <button type="button" onclick="closeEditModal()" class="btn-secondary">Annuler</button>
+                    <button type="submit" class="btn-primary">Enregistrer</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
     <!-- Firebase SDK -->
     <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
     <script src="../js/firebase-config.js"></script>
+    <script src="../js/auth-guard.js"></script>
     <script src="../js/auth.js"></script>
     <script src="../js/user-data.js"></script>
 
     <script>
-        // Check admin access
+        // Check supervisor access
         auth.onAuthStateChanged(async (user) => {
             if (!user) {
                 window.location.href = 'login.html';
@@ -132,7 +163,7 @@
 
             const isAdmin = await isUserAdmin(user.uid);
             if (!isAdmin) {
-                alert('Accès réservé aux administrateurs');
+                alert('Accès réservé aux superviseurs');
                 window.location.href = '../index.html';
                 return;
             }
@@ -173,6 +204,8 @@
                 return;
             }
 
+            const currentUid = currentUser ? currentUser.uid : null;
+
             tbody.innerHTML = users.map(user => {
                 const quizCount = Object.keys(user.quizScores || {}).length;
                 let lessonCount = 0;
@@ -180,16 +213,24 @@
                     lessonCount += lessons.length;
                 });
 
+                const canModify = user.uid !== currentUid;
+                const roleLabel = user.role === 'superviseur' ? 'Superviseur' : 'Utilisateur';
+                const roleClass = user.role === 'superviseur' ? 'admin' : 'user';
+
                 return `
                     <tr>
                         <td>${user.displayName || 'Sans nom'}</td>
                         <td>${user.email}</td>
-                        <td><span class="role-badge ${user.role}">${user.role === 'admin' ? 'Admin' : 'Utilisateur'}</span></td>
+                        <td><span class="role-badge ${roleClass}">${roleLabel}</span></td>
                         <td>${quizCount}</td>
                         <td>${lessonCount} leçons</td>
-                        <td>
+                        <td class="actions-cell">
                             <button class="action-btn view" onclick="viewUserDetails('${user.uid}')">👁️ Voir</button>
-                            ${user.role !== 'admin' ? `<button class="action-btn delete" onclick="confirmDeleteUser('${user.uid}', '${user.email}')">🗑️</button>` : ''}
+                            ${canModify ? `
+                                <button class="action-btn edit" onclick="openEditModal('${user.uid}')">✏️</button>
+                                <button class="action-btn reset" onclick="confirmResetProgress('${user.uid}', '${user.displayName || user.email}')">🔄</button>
+                                <button class="action-btn delete" onclick="confirmDeleteUser('${user.uid}', '${user.email}', '${user.displayName || user.email}')">🗑️</button>
+                            ` : '<span class="self-badge">Vous</span>'}
                         </td>
                     </tr>
                 `;
@@ -213,15 +254,15 @@
             const result = await createUser(email, password, displayName, role);
 
             if (result.success) {
-                alert('Utilisateur créé avec succès !');
+                alert('✅ Utilisateur créé avec succès !');
                 document.getElementById('createUserForm').reset();
                 refreshUsers();
             } else {
-                alert('Erreur: ' + result.error);
+                alert('❌ Erreur: ' + result.error);
             }
         });
 
-        // View user details
+        // View user details with full statistics
         async function viewUserDetails(uid) {
             const users = await getAllUsers();
             const user = users.find(u => u.uid === uid);
@@ -230,29 +271,39 @@
 
             document.getElementById('modalUserName').textContent = user.displayName || user.email;
 
-            const quizCount = Object.keys(user.quizScores || {}).length;
+            const quizScores = user.quizScores || {};
+            const quizCount = Object.keys(quizScores).length;
             let lessonCount = 0;
-            Object.values(user.progress || {}).forEach(lessons => {
+            const progressDetails = [];
+
+            Object.entries(user.progress || {}).forEach(([module, lessons]) => {
                 lessonCount += lessons.length;
+                progressDetails.push(`<li><strong>${module}:</strong> ${lessons.length} leçon(s)</li>`);
             });
+
             const favCount = (user.favorites || []).length;
             const diagCount = (user.diagnosticHistory || []).length;
 
             // Calculate average score
             let totalScore = 0;
             let totalPossible = 0;
-            Object.values(user.quizScores || {}).forEach(score => {
+            const quizDetails = [];
+            Object.entries(quizScores).forEach(([quizName, score]) => {
                 totalScore += score.score;
                 totalPossible += score.total;
+                const percent = Math.round((score.score / score.total) * 100);
+                quizDetails.push(`<li><strong>${quizName}:</strong> ${score.score}/${score.total} (${percent}%)</li>`);
             });
             const avgScore = totalPossible > 0 ? Math.round((totalScore / totalPossible) * 100) : 0;
 
+            const roleLabel = user.role === 'superviseur' ? 'Superviseur' : 'Utilisateur';
+
             document.getElementById('modalUserContent').innerHTML = `
                 <p><strong>E-mail:</strong> ${user.email}</p>
-                <p><strong>Rôle:</strong> ${user.role === 'admin' ? 'Administrateur' : 'Utilisateur'}</p>
+                <p><strong>Rôle:</strong> ${roleLabel}</p>
                 <p><strong>Inscrit le:</strong> ${user.createdAt ? new Date(user.createdAt).toLocaleDateString('fr-FR') : 'Inconnu'}</p>
                 
-                <h4>📊 Statistiques</h4>
+                <h4>📊 Statistiques globales</h4>
                 <div class="stats-grid">
                     <div class="stat-item">
                         <div class="value">${quizCount}</div>
@@ -271,6 +322,18 @@
                         <div class="label">Diagnostics</div>
                     </div>
                 </div>
+
+                ${quizDetails.length > 0 ? `
+                    <h4>📝 Détail des Quiz</h4>
+                    <ul style="color: rgba(255,255,255,0.8); font-size: 14px;">${quizDetails.join('')}</ul>
+                ` : ''}
+
+                ${progressDetails.length > 0 ? `
+                    <h4>📚 Progression par module</h4>
+                    <ul style="color: rgba(255,255,255,0.8); font-size: 14px;">${progressDetails.join('')}</ul>
+                ` : ''}
+
+                <p style="margin-top: 16px;"><strong>❤️ Favoris:</strong> ${favCount} élément(s)</p>
             `;
 
             document.getElementById('userDetailsModal').style.display = 'flex';
@@ -280,15 +343,74 @@
             document.getElementById('userDetailsModal').style.display = 'none';
         }
 
+        // Edit user modal
+        async function openEditModal(uid) {
+            const users = await getAllUsers();
+            const user = users.find(u => u.uid === uid);
+
+            if (!user) return;
+
+            document.getElementById('editUserId').value = uid;
+            document.getElementById('editDisplayName').value = user.displayName || '';
+            document.getElementById('editEmail').value = user.email;
+            document.getElementById('editRole').value = user.role || 'user';
+
+            document.getElementById('editUserModal').style.display = 'flex';
+        }
+
+        function closeEditModal() {
+            document.getElementById('editUserModal').style.display = 'none';
+        }
+
+        // Save user edits
+        document.getElementById('editUserForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            const uid = document.getElementById('editUserId').value;
+            const displayName = document.getElementById('editDisplayName').value;
+            const role = document.getElementById('editRole').value;
+
+            try {
+                await database.ref(`users/${uid}`).update({
+                    displayName: displayName,
+                    role: role
+                });
+                alert('✅ Utilisateur modifié avec succès !');
+                closeEditModal();
+                refreshUsers();
+            } catch (error) {
+                alert('❌ Erreur: ' + error.message);
+            }
+        });
+
+        // Reset user progress
+        async function confirmResetProgress(uid, displayName) {
+            if (confirm(`⚠️ ATTENTION ⚠️\n\nÊtes-vous sûr de vouloir réinitialiser la progression de "${displayName}" ?\n\nCela supprimera :\n- Tous les scores de quiz\n- Toute la progression des leçons\n- L'historique des diagnostics\n- Les favoris\n\nCette action est irréversible !`)) {
+                try {
+                    await database.ref(`users/${uid}`).update({
+                        quizScores: {},
+                        progress: {},
+                        diagnosticHistory: [],
+                        favorites: []
+                    });
+                    alert('✅ Progression de "' + displayName + '" réinitialisée !');
+                    refreshUsers();
+                } catch (error) {
+                    alert('❌ Erreur: ' + error.message);
+                }
+            }
+        }
+
         // Delete user
-        async function confirmDeleteUser(uid, email) {
-            if (confirm(`Êtes-vous sûr de vouloir supprimer l'utilisateur ${email} ?`)) {
+        async function confirmDeleteUser(uid, email, displayName) {
+            const userName = displayName || email;
+            if (confirm(`⚠️ ATTENTION ⚠️\n\nÊtes-vous sûr de vouloir supprimer l'utilisateur "${userName}" (${email}) ?\n\nCette action est irréversible et supprimera toutes ses données.`)) {
                 const result = await deleteUser(uid);
                 if (result.success) {
-                    alert('Utilisateur supprimé');
+                    alert('✅ Utilisateur "' + userName + '" supprimé avec succès !');
                     refreshUsers();
                 } else {
-                    alert('Erreur: ' + result.error);
+                    alert('❌ Erreur: ' + result.error);
                 }
             }
         }

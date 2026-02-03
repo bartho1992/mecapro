@@ -17,18 +17,21 @@ async function logoutUser() {
     try {
         await auth.signOut();
         console.log('Déconnexion réussie');
-        window.location.href = '/pages/login.html';
+        // Détecter le chemin relatif vers login.html
+        const isInPagesFolder = window.location.pathname.includes('/pages/');
+        const loginPath = isInPagesFolder ? 'login.html' : 'pages/login.html';
+        window.location.href = loginPath;
     } catch (error) {
         console.error('Erreur de déconnexion:', error);
     }
 }
 
-// Create user (admin only)
+// Create user (superviseur only)
 async function createUser(email, password, displayName, role = 'user') {
     try {
-        // Check if current user is admin
+        // Check if current user is superviseur
         if (!currentUser || !(await isUserAdmin(currentUser.uid))) {
-            return { success: false, error: 'Non autorisé' };
+            return { success: false, error: 'Réservé aux superviseurs' };
         }
 
         // Create user in Firebase Auth

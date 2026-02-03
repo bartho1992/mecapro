@@ -59,10 +59,10 @@ function updateUIForLoggedOutUser() {
     if (logoutBtn) logoutBtn.style.display = 'none';
 }
 
-// Check if user is admin
+// Check if user is supervisor (anciennement admin)
 async function isUserAdmin(uid) {
     const snapshot = await database.ref(`users/${uid}/role`).once('value');
-    return snapshot.val() === 'admin';
+    return snapshot.val() === 'superviseur';
 }
 
 // Redirect to login if not authenticated
@@ -82,7 +82,7 @@ async function requireAdmin() {
     }
     const isAdmin = await isUserAdmin(currentUser.uid);
     if (!isAdmin) {
-        alert('Accès réservé aux administrateurs');
+        alert('Accès réservé aux superviseurs');
         window.location.href = '/index.html';
         return false;
     }

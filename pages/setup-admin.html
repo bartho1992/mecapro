@@ -15,8 +15,8 @@
         <div class="auth-card">
             <div class="auth-header">
                 <div class="auth-logo">🔧</div>
-                <h1>Créer le compte Admin</h1>
-                <p>Ce compte sera l'administrateur principal de MécaPro</p>
+                <h1>Créer le compte Superviseur</h1>
+                <p>Ce compte sera le superviseur principal de MécaPro</p>
             </div>
 
             <form id="setupForm" class="auth-form">
@@ -46,14 +46,14 @@
                 </div>
 
                 <button type="submit" class="btn-auth" id="submitBtn">
-                    <span class="btn-text">Créer le compte Admin</span>
+                    <span class="btn-text">Créer le compte Superviseur</span>
                     <span class="btn-loader" style="display: none;">⏳</span>
                 </button>
             </form>
 
             <div class="auth-back" style="margin-top: 24px;">
                 <p style="color: rgba(255,255,255,0.5); font-size: 12px; margin-bottom: 8px;">
-                    ⚠️ Cette page ne doit être utilisée qu'une seule fois pour créer le premier admin.
+                    ⚠️ Cette page ne doit être utilisée qu'une seule fois pour créer le premier superviseur.
                 </p>
                 <a href="../index.html" class="back-link">← Retour à l'accueil</a>
             </div>
@@ -68,11 +68,11 @@
 
     <script>
         // Check if admin already exists
-        database.ref('users').orderByChild('role').equalTo('admin').once('value', (snapshot) => {
+        database.ref('users').orderByChild('role').equalTo('superviseur').once('value', (snapshot) => {
             if (snapshot.exists()) {
                 document.getElementById('setupForm').innerHTML = `
                     <div style="text-align: center; padding: 20px;">
-                        <p style="color: #22c55e; font-size: 18px;">✅ Un compte admin existe déjà</p>
+                        <p style="color: #22c55e; font-size: 18px;">✅ Un compte superviseur existe déjà</p>
                         <p style="color: rgba(255,255,255,0.6); margin-top: 12px;">Utilisez la page de connexion pour accéder à votre compte.</p>
                         <a href="login.html" class="btn-auth" style="display: inline-block; margin-top: 20px; text-decoration: none;">Se connecter</a>
                     </div>
@@ -114,11 +114,11 @@
                 // Update display name
                 await user.updateProfile({ displayName: displayName });
 
-                // Create admin user document in database
+                // Create superviseur user document in database
                 await database.ref(`users/${user.uid}`).set({
                     email: email,
                     displayName: displayName,
-                    role: 'admin',
+                    role: 'superviseur',
                     createdAt: firebase.database.ServerValue.TIMESTAMP,
                     quizScores: {},
                     progress: {},
@@ -128,8 +128,8 @@
 
                 // Success
                 successDiv.innerHTML = `
-                    ✅ Compte admin créé avec succès !<br>
-                    <small>Redirection vers le panneau admin...</small>
+                    ✅ Compte superviseur créé avec succès !<br>
+                    <small>Redirection vers le panneau superviseur...</small>
                 `;
                 successDiv.style.display = 'block';
                 submitBtn.style.display = 'none';

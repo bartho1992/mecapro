@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Migration Admin → Superviseur</title>
+    <link rel="stylesheet" href="../css/auth.css">
+    <style>
+        .migration-container {
+            max-width: 500px;
+            margin: 100px auto;
+            text-align: center;
+        }
+
+        .status-box {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 20px;
+            margin: 20px 0;
+            color: #fff;
+        }
+
+        .success {
+            color: #4ade80;
+        }
+
+        .error {
+            color: #ef4444;
+        }
+    </style>
+</head>
+
+<body class="auth-page">
+    <div class="migration-container">
+        <h1 style="color: #fff;">🔄 Migration des rôles</h1>
+        <p style="color: rgba(255,255,255,0.6);">Conversion des comptes "admin" en "superviseur"</p>
+
+        <div id="status" class="status-box">
+            <p>⏳ Migration en cours...</p>
+        </div>
+
+        <a href="login.html" class="btn-auth" style="display: inline-block; margin-top: 20px; text-decoration: none;">
+            Retour à la connexion
+        </a>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
+    <script src="../js/firebase-config.js"></script>
+
+    <script>
+        async function migrateRoles() {
+            const statusDiv = document.getElementById('status');
+
+            try {
+                // Find all users with role 'admin'
+                const snapshot = await database.ref('users').orderByChild('role').equalTo('admin').once('value');
+
+                if (!snapshot.exists()) {
+                    statusDiv.innerHTML = '<p class="success">✅ Aucun compte "admin" à migrer. Tout est déjà à jour !</p>';
+                    return;
+                }
+
+                const updates = {};
+                let count = 0;
+
+                snapshot.forEach(child => {
+                    updates[`users/${child.key}/role`] = 'superviseur';
+                    count++;
+                });
+
+                // Apply updates
+                await database.ref().update(updates);
+
+                statusDiv.innerHTML = `
+                    <p class="success">✅ Migration réussie !</p>
+                    <p style="color: rgba(255,255,255,0.8);">${count} compte(s) migré(s) de "admin" vers "superviseur"</p>
+                `;
+            } catch (error) {
+                statusDiv.innerHTML = `
+                    <p class="error">❌ Erreur lors de la migration</p>
+                    <p style="color: rgba(255,255,255,0.6);">${error.message}</p>
+                `;
+            }
+        }
+
+        // Run migration on page load
+        migrateRoles();
+    </script>
+</body>
+
+</html>
