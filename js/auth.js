@@ -5,13 +5,6 @@ async function loginUser(email, password) {
     try {
         const userCredential = await auth.signInWithEmailAndPassword(email, password);
         console.log('Connexion réussie:', userCredential.user.email);
-
-        // Register device if device-tracker is loaded
-        if (typeof registerDevice === 'function') {
-            await registerDevice(userCredential.user.uid);
-            listenForForceDisconnect(userCredential.user.uid);
-        }
-
         return { success: true, user: userCredential.user };
     } catch (error) {
         console.error('Erreur de connexion:', error);
@@ -22,11 +15,6 @@ async function loginUser(email, password) {
 // Logout
 async function logoutUser() {
     try {
-        // Unregister device if device-tracker is loaded
-        if (typeof unregisterDevice === 'function' && currentUser) {
-            await unregisterDevice(currentUser.uid);
-        }
-
         await auth.signOut();
         console.log('Déconnexion réussie');
         // Détecter le chemin relatif vers login.html

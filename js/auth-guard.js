@@ -1,20 +1,20 @@
 // ===== Auth Guard - Protection des pages =====
 // Ce script vérifie si l'utilisateur est connecté et redirige vers la page de connexion si nécessaire
 
-(function() {
+(function () {
     'use strict';
 
     // Détecter le chemin relatif vers la racine
     const isInPagesFolder = window.location.pathname.includes('/pages/');
     const loginPath = isInPagesFolder ? 'login.html' : 'pages/login.html';
-    
+
     // Pages qui ne nécessitent pas d'authentification
     const publicPages = ['login.html', 'setup-admin.html'];
-    
+
     // Vérifier si on est sur une page publique
     const currentPage = window.location.pathname.split('/').pop();
     const isPublicPage = publicPages.some(page => currentPage.includes(page));
-    
+
     if (isPublicPage) {
         // Ne pas vérifier l'auth sur les pages publiques
         return;
@@ -105,12 +105,21 @@
     }
 
     // Vérifier l'authentification
-    waitForFirebase(function() {
-        firebase.auth().onAuthStateChanged(function(user) {
+    waitForFirebase(function () {
+        firebase.auth().onAuthStateChanged(function (user) {
             if (user) {
                 // Utilisateur connecté - afficher la page
                 hideLoadingScreen();
                 console.log('✅ Utilisateur authentifié:', user.email);
+
+                // Heartbeat de session
+                if (typeof SessionManager !== 'undefined') {
+                    SessionManager.updateHeartbeat(user.uid);
+                    // Mettre à jour toutes les 5 minutes
+                    setInterval(() => {
+                        SessionManager.updateHeartbeat(user.uid);
+                    }, 5 * 60 * 1000);
+                }
             } else {
                 // Utilisateur non connecté - rediriger vers login
                 console.log('🔒 Accès refusé - Redirection vers la connexion');

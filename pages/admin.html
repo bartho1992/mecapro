@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Supervision - MécaPro</title>
-    <!-- Updated: 2026-02-03 v2 -->
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/auth.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
@@ -102,25 +101,6 @@
                 </tbody>
             </table>
         </div>
-
-        <!-- Connected Devices Section -->
-        <div class="users-section" style="margin-top: 24px;">
-            <h2>
-                📱 Appareils connectés
-                <button onclick="refreshDevices()" class="btn-secondary" style="font-size: 12px;">🔄 Actualiser</button>
-            </h2>
-            <p style="color: rgba(255,255,255,0.5); font-size: 14px; margin-bottom: 16px;">
-                Sélectionnez un utilisateur pour voir ses appareils connectés
-            </p>
-            <div class="form-group" style="margin-bottom: 20px;">
-                <select id="deviceUserSelect" onchange="loadUserDevices()" style="width: 100%; max-width: 400px;">
-                    <option value="">-- Sélectionner un utilisateur --</option>
-                </select>
-            </div>
-            <div id="devicesContainer">
-                <p style="color: rgba(255,255,255,0.5); text-align: center;">Sélectionnez un utilisateur ci-dessus</p>
-            </div>
-        </div>
     </div>
 
     <!-- User Details Modal -->
@@ -164,13 +144,26 @@
         </div>
     </div>
 
+    <!-- Devices Modal -->
+    <div id="devicesModal" class="modal" style="display: none;">
+        <div class="modal-content" style="max-width: 600px;">
+            <h3 id="devicesModalTitle">📱 Appareils connectés</h3>
+            <div id="devicesList" class="devices-list">
+                <!-- Les sessions seront chargées ici -->
+            </div>
+            <div class="modal-actions">
+                <button onclick="closeDevicesModal()" class="btn-secondary">Fermer</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Firebase SDK -->
     <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.22.0/firebase-database-compat.js"></script>
     <script src="../js/firebase-config.js"></script>
+    <script src="../js/session-manager.js"></script>
     <script src="../js/auth-guard.js"></script>
-    <script src="../js/device-tracker.js"></script>
     <script src="../js/auth.js"></script>
     <script src="../js/user-data.js"></script>
 
@@ -249,6 +242,7 @@
                             <button class="action-btn view" onclick="viewUserDetails('${user.uid}')">👁️ Voir</button>
                             ${canModify ? `
                                 <button class="action-btn edit" onclick="openEditModal('${user.uid}')">✏️</button>
+                                <button class="action-btn devices" onclick="viewUserDevices('${user.uid}', '${user.displayName || user.email}')">📱</button>
                                 <button class="action-btn reset" onclick="confirmResetProgress('${user.uid}', '${user.displayName || user.email}')">🔄</button>
                                 <button class="action-btn delete" onclick="confirmDeleteUser('${user.uid}', '${user.email}', '${user.displayName || user.email}')">🗑️</button>
                             ` : '<span class="self-badge">Vous</span>'}
@@ -256,6 +250,90 @@
                     </tr>
                 `;
             }).join('');
+        }
+
+        // View user devices
+        async function viewUserDevices(uid, userName) {
+            document.getElementById('devicesModalTitle').textContent = `📱 Appareils de ${userName}`;
+            const devicesList = document.getElementById('devicesList');
+            devicesList.innerHTML = '<p style="text-align: center; color: rgba(255,255,255,0.5);">Chargement des sessions...</p>';
+            document.getElementById('devicesModal').style.display = 'flex';
+
+            try {
+                const snapshot = await database.ref(`users/${uid}/sessions`).once('value');
+
+                if (!snapshot.exists()) {
+                    devicesList.innerHTML = '<p style="text-align: center; color: rgba(255,255,255,0.5);">Aucun appareil connecté détecté.</p>';
+                    return;
+                }
+
+                const sessions = [];
+                snapshot.forEach(child => {
+                    sessions.push({ id: child.key, ...child.val() });
+                });
+
+                // Sort by last active (most recent first)
+                sessions.sort((a, b) => (b.lastActive || 0) - (a.lastActive || 0));
+
+                devicesList.innerHTML = sessions.map(session => {
+                    const lastActiveDate = session.lastActive ? new Date(session.lastActive).toLocaleString('fr-FR') : 'Inconnu';
+                    const isCurrentDevice = session.deviceId === SessionManager.getDeviceId();
+
+                    // Determine status based on last active (e.g., active within last 10 mins)
+                    const timeDiff = Date.now() - (session.lastActive || 0);
+                    const isActive = timeDiff < 10 * 60 * 1000; // 10 minutes
+                    const statusClass = isActive ? 'status-active' : 'status-inactive';
+                    const statusText = isActive ? 'En ligne' : 'Hors ligne';
+
+                    return `
+                        <div class="device-item ${isCurrentDevice ? 'current-device' : ''}">
+                            <div class="device-info">
+                                <div class="device-header">
+                                    <span class="device-name">${session.os} - ${session.browser}</span>
+                                    ${isCurrentDevice ? '<span class="badge-current">Actuel</span>' : ''}
+                                </div>
+                                <div class="device-details">
+                                    <span>IP: ${session.ip || 'Inconnue'}</span> • 
+                                    <span>Dernière activité: ${lastActiveDate}</span>
+                                </div>
+                                <div class="device-status">
+                                    <span class="status-dot ${statusClass}"></span> ${statusText}
+                                </div>
+                            </div>
+                            <div class="device-actions">
+                                <button class="action-btn revoke" onclick="confirmRevokeSession('${uid}', '${session.id}')">Déconnecter</button>
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+
+            } catch (error) {
+                console.error("Erreur récupération sessions:", error);
+                devicesList.innerHTML = '<p style="text-align: center; color: #ef4444;">Erreur lors du chargement des sessions.</p>';
+            }
+        }
+
+        function closeDevicesModal() {
+            document.getElementById('devicesModal').style.display = 'none';
+        }
+
+        async function confirmRevokeSession(uid, sessionId) {
+            if (confirm("Êtes-vous sûr de vouloir déconnecter cet appareil ?")) {
+                try {
+                    await SessionManager.revokeSession(uid, sessionId);
+                    // Refresh the list logic is a bit complex since fetching requires async. 
+                    // Let's just remove the element from DOM or reload the list.
+                    // Ideally we call viewUserDevices again but we need userName.
+                    // Simple hack: remove the element visually
+                    const btn = event.target;
+                    const deviceItem = btn.closest('.device-item');
+                    deviceItem.style.opacity = '0.5';
+                    deviceItem.innerHTML = '<p style="text-align: center; color: #ef4444; padding: 10px;">Déconnecté</p>';
+                    setTimeout(() => deviceItem.remove(), 1000);
+                } catch (error) {
+                    alert("Erreur: " + error.message);
+                }
+            }
         }
 
         // Refresh users
@@ -435,110 +513,6 @@
                 }
             }
         }
-
-        // ===== CONNECTED DEVICES MANAGEMENT =====
-
-        // Populate user select for devices
-        async function populateDeviceUserSelect() {
-            const users = await getAllUsers();
-            const select = document.getElementById('deviceUserSelect');
-
-            select.innerHTML = '<option value="">-- Sélectionner un utilisateur --</option>' +
-                users.map(user => `<option value="${user.uid}">${user.displayName || user.email} (${user.email})</option>`).join('');
-        }
-
-        // Load devices for selected user
-        async function loadUserDevices() {
-            const userId = document.getElementById('deviceUserSelect').value;
-            const container = document.getElementById('devicesContainer');
-
-            if (!userId) {
-                container.innerHTML = '<p style="color: rgba(255,255,255,0.5); text-align: center;">Sélectionnez un utilisateur ci-dessus</p>';
-                return;
-            }
-
-            container.innerHTML = '<p style="color: rgba(255,255,255,0.5); text-align: center;">Chargement...</p>';
-
-            try {
-                const devices = await getUserDevices(userId);
-
-                if (devices.length === 0) {
-                    container.innerHTML = '<p style="color: rgba(255,255,255,0.5); text-align: center;">Aucun appareil enregistré pour cet utilisateur</p>';
-                    return;
-                }
-
-                const activeDevices = devices.filter(d => d.isActive);
-                const inactiveDevices = devices.filter(d => !d.isActive);
-
-                let html = `
-                    <div style="margin-bottom: 16px;">
-                        <span class="self-badge" style="margin-right: 8px;">🟢 ${activeDevices.length} actif(s)</span>
-                        <span class="role-badge user">🔴 ${inactiveDevices.length} déconnecté(s)</span>
-                    </div>
-                    <div class="devices-grid">
-                `;
-
-                devices.forEach(device => {
-                    const loginDate = device.loginAt ? new Date(device.loginAt).toLocaleString('fr-FR') : 'Inconnu';
-                    const lastActive = device.lastActive ? new Date(device.lastActive).toLocaleString('fr-FR') : 'Inconnu';
-                    const statusClass = device.isActive ? 'active' : 'inactive';
-                    const statusText = device.isActive ? '🟢 Actif' : '🔴 Déconnecté';
-                    const forcedText = device.forcedDisconnect ? ' (déconnexion forcée)' : '';
-
-                    html += `
-                        <div class="device-card ${statusClass}">
-                            <div class="device-header">
-                                <span class="device-icon">${device.deviceIcon || '💻'}</span>
-                                <span class="device-status">${statusText}${forcedText}</span>
-                            </div>
-                            <div class="device-info">
-                                <p><strong>Navigateur:</strong> ${device.browser || 'Inconnu'}</p>
-                                <p><strong>Système:</strong> ${device.os || 'Inconnu'}</p>
-                                <p><strong>IP:</strong> ${device.ipAddress || 'Inconnue'}</p>
-                                <p><strong>Connexion:</strong> ${loginDate}</p>
-                                <p><strong>Dernière activité:</strong> ${lastActive}</p>
-                            </div>
-                            ${device.isActive ? `
-                                <button class="btn-disconnect" onclick="forceDisconnect('${userId}', '${device.sessionId}')">
-                                    🔌 Déconnecter à distance
-                                </button>
-                            ` : ''}
-                        </div>
-                    `;
-                });
-
-                html += '</div>';
-                container.innerHTML = html;
-
-            } catch (error) {
-                container.innerHTML = `<p style="color: #ef4444; text-align: center;">Erreur: ${error.message}</p>`;
-            }
-        }
-
-        // Force disconnect a device
-        async function forceDisconnect(userId, sessionId) {
-            if (confirm('⚠️ Êtes-vous sûr de vouloir déconnecter cet appareil ?\n\nL\'utilisateur sera immédiatement déconnecté de sa session.')) {
-                const result = await forceDisconnectDevice(userId, sessionId);
-                if (result.success) {
-                    alert('✅ Appareil déconnecté avec succès !');
-                    loadUserDevices();
-                } else {
-                    alert('❌ Erreur: ' + result.error);
-                }
-            }
-        }
-
-        // Refresh devices
-        function refreshDevices() {
-            loadUserDevices();
-        }
-
-        // Initialize devices section when dashboard loads
-        const originalLoadDashboard = loadAdminDashboard;
-        loadAdminDashboard = async function () {
-            await originalLoadDashboard();
-            await populateDeviceUserSelect();
-        };
     </script>
 </body>
 
