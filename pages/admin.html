@@ -239,12 +239,12 @@
                         <td>${quizCount}</td>
                         <td>${lessonCount} leçons</td>
                         <td class="actions-cell">
-                            <button class="action-btn view" onclick="viewUserDetails('${user.uid}')">👁️ Voir</button>
+                            <button class="action-btn view" onclick="viewUserDetails('${user.uid}')" title="Voir les détails">👁️ Voir</button>
                             ${canModify ? `
-                                <button class="action-btn edit" onclick="openEditModal('${user.uid}')">✏️</button>
-                                <button class="action-btn devices" onclick="viewUserDevices('${user.uid}', '${user.displayName || user.email}')">📱</button>
-                                <button class="action-btn reset" onclick="confirmResetProgress('${user.uid}', '${user.displayName || user.email}')">🔄</button>
-                                <button class="action-btn delete" onclick="confirmDeleteUser('${user.uid}', '${user.email}', '${user.displayName || user.email}')">🗑️</button>
+                                <button class="action-btn devices" onclick="viewUserDevices('${user.uid}', '${user.displayName || user.email}')" title="Gérer les appareils connectés">💻</button>
+                                <button class="action-btn edit" onclick="openEditModal('${user.uid}')" title="Modifier l'utilisateur">✏️</button>
+                                <button class="action-btn reset" onclick="confirmResetProgress('${user.uid}', '${user.displayName || user.email}')" title="Réinitialiser la progression">🔄</button>
+                                <button class="action-btn delete" onclick="confirmDeleteUser('${user.uid}', '${user.email}', '${user.displayName || user.email}')" title="Supprimer le compte">🗑️</button>
                             ` : '<span class="self-badge">Vous</span>'}
                         </td>
                     </tr>
