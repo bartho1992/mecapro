@@ -245,7 +245,7 @@
                                 <button class="action-btn edit" onclick="openEditModal('${user.uid}')" title="Modifier l'utilisateur">✏️</button>
                                 <button class="action-btn reset" onclick="confirmResetProgress('${user.uid}', '${user.displayName || user.email}')" title="Réinitialiser la progression">🔄</button>
                                 <button class="action-btn delete" onclick="confirmDeleteUser('${user.uid}', '${user.email}', '${user.displayName || user.email}')" title="Supprimer le compte">🗑️</button>
-                            ` : '<span class="self-badge" style="margin-left: 5px;">(Vous)</span>'}
+                            ` : '<span class="self-badge">Vous</span>'}
                         </td>
                     </tr>
                 `;
